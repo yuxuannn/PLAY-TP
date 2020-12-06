@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<word name="tian">
+<image src="tian"/>
+<strokes>
+<stroke id="1">
+<pointStroke id="1">
+<x>53</x>
+<y>55</y>
+</pointStroke>
+<pointStroke id="2">
+<x>54</x>
+<y>55</y>
+</pointStroke>
+<pointStroke id="3">
+<x>55</x>
+<y>55</y>
+</pointStroke>
+<pointStroke id="4">
+<x>57</x>
+<y>55</y>
+</pointStroke>
+<pointStroke id="5">
+<x>58</x>
+<y>55</y>
+</pointStroke>
+<pointStroke id="6">
+<x>59</x>
+<y>54</y>
+</pointStroke>
+<pointStroke id="7">
+<x>61</x>
+<y>54</y>
+</pointStroke>
+<pointStroke id="8">
+<x>62</x>
+<y>54</y>
+</pointStroke>
+<pointStroke id="9">
+<x>64</x>
+<y>54</y>
+</pointStroke>
+<pointStroke id="10">
+<x>65</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="11">
+<x>66</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="12">
+<x>67</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="13">
+<x>68</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="14">
+<x>69</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="15">
+<x>70</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="16">
+<x>71</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="17">
+<x>73</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="18">
+<x>74</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="19">
+<x>75</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="20">
+<x>76</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="21">
+<x>77</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="22">
+<x>78</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="23">
+<x>79</x>
+<y>53</y>
+</pointStroke>
+<pointStroke id="24">
+<x>80</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="25">
+<x>81</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="26">
+<x>82</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="27">
+<x>83</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="28">
+<x>84</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="29">
+<x>85</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="30">
+<x>86</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="31">
+<x>87</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="32">
+<x>88</x>
+<y>52</y>
+</pointStroke>
+<pointStroke id="33">
+<x>89</x>
+<y>51</y>
+</pointStroke>
+<pointStroke id="34">
+<x>90</x>
+<y>51</y>
+</pointStroke>
+<pointStroke id="35">
+<x>91</x>
+<y>51</y>
+</pointStroke>
+<pointStroke id="36">
+<x>92</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="37">
+<x>93</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="38">
+<x>94</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="39">
+<x>95</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="40">
+<x>96</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="41">
+<x>97</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="42">
+<x>98</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="43">
+<x>99</x>
+<y>50</y>
+</pointStroke>
+<pointStroke id="44">
+<x>99</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="45">
+<x>100</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="46">
+<x>101</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="47">
+<x>102</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="48">
+<x>103</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="49">
+<x>104</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="50">
+<x>105</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="51">
+<x>106</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="52">
+<x>107</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="53">
+<x>108</x>
+<y>49</y>
+</pointStroke>
+<pointStroke id="54">
+<x>108</x>
+<y>48</y>
+</pointStroke>
+<pointStroke id="55">
+<x>109</x>
+<y>48</y>
+</pointStroke>
+<pointStroke id="56">
+<x>110</x>
+<y>48</y>
+</pointStroke>
+<pointStroke id="57">
+<x>111</x>
+<y>48</y>
+</pointStroke>
+<pointStroke id="58">
+<x>112</x>
+<y>48</y>
+</pointStroke>
+<pointStroke id="59">
+<x>112</x>
+<y>47</y>
+</pointStroke>
+<pointStroke id="60">
+<x>113</x>
+<y>47</y>
+</pointStroke>
+<pointStroke id="61">
+<x>113</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="62">
+<x>114</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="63">
+<x>115</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="64">
+<x>116</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="65">
+<x>117</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="66">
+<x>118</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="67">
+<x>119</x>
+<y>46</y>
+</pointStroke>
+<pointStroke id="68">
+<x>119</x>
+<y>45</y>
+</pointStroke>
+<pointStroke id="69">
+<x>120</x>
+<y>45</y>
+</pointStroke>
+<pointStroke id="70">
+<x>121</x>
+<y>45</y>
+</pointStroke>
+<pointStroke id="71">
+<x>122</x>
+<y>45</y>
+</pointStroke>
+<pointStroke id="72">
+<x>122</x>
+<y>44</y>
+</pointStroke>
+<pointStroke id="73">
+<x>123</x>
+<y>44</y>
+</pointStroke>
+</stroke>
+<stroke id="2">
+<pointStroke id="1">
+<x>36</x>
+<y>105</y>
+</pointStroke>
+<pointStroke id="2">
+<x>37</x>
+<y>105</y>
+</pointStroke>
+<pointStroke id="3">
+<x>38</x>
+<y>105</y>
+</pointStroke>
+<pointStroke id="4">
+<x>39</x>
+<y>105</y>
+</pointStroke>
+<pointStroke id="5">
+<x>41</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="6">
+<x>43</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="7">
+<x>45</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="8">
+<x>48</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="9">
+<x>51</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="10">
+<x>53</x>
+<y>103</y>
+</pointStroke>
+<pointStroke id="11">
+<x>56</x>
+<y>103</y>
+</pointStroke>
+<pointStroke id="12">
+<x>58</x>
+<y>102</y>
+</pointStroke>
+<pointStroke id="13">
+<x>61</x>
+<y>102</y>
+</pointStroke>
+<pointStroke id="14">
+<x>65</x>
+<y>101</y>
+</pointStroke>
+<pointStroke id="15">
+<x>67</x>
+<y>101</y>
+</pointStroke>
+<pointStroke id="16">
+<x>70</x>
+<y>100</y>
+</pointStroke>
+<pointStroke id="17">
+<x>72</x>
+<y>100</y>
+</pointStroke>
+<pointStroke id="18">
+<x>74</x>
+<y>100</y>
+</pointStroke>
+<pointStroke id="19">
+<x>77</x>
+<y>99</y>
+</pointStroke>
+<pointStroke id="20">
+<x>80</x>
+<y>98</y>
+</pointStroke>
+<pointStroke id="21">
+<x>82</x>
+<y>97</y>
+</pointStroke>
+<pointStroke id="22">
+<x>84</x>
+<y>97</y>
+</pointStroke>
+<pointStroke id="23">
+<x>86</x>
+<y>97</y>
+</pointStroke>
+<pointStroke id="24">
+<x>89</x>
+<y>97</y>
+</pointStroke>
+<pointStroke id="25">
+<x>90</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="26">
+<x>92</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="27">
+<x>93</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="28">
+<x>95</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="29">
+<x>96</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="30">
+<x>97</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="31">
+<x>98</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="32">
+<x>100</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="33">
+<x>101</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="34">
+<x>102</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="35">
+<x>103</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="36">
+<x>104</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="37">
+<x>105</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="38">
+<x>106</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="39">
+<x>107</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="40">
+<x>108</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="41">
+<x>110</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="42">
+<x>112</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="43">
+<x>113</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="44">
+<x>114</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="45">
+<x>115</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="46">
+<x>116</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="47">
+<x>117</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="48">
+<x>118</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="49">
+<x>119</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="50">
+<x>121</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="51">
+<x>122</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="52">
+<x>123</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="53">
+<x>124</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="54">
+<x>125</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="55">
+<x>126</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="56">
+<x>127</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="57">
+<x>127</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="58">
+<x>128</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="59">
+<x>129</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="60">
+<x>131</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="61">
+<x>132</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="62">
+<x>134</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="63">
+<x>134</x>
+<y>93</y>
+</pointStroke>
+<pointStroke id="64">
+<x>135</x>
+<y>93</y>
+</pointStroke>
+<pointStroke id="65">
+<x>136</x>
+<y>93</y>
+</pointStroke>
+</stroke>
+<stroke id="3">
+<pointStroke id="1">
+<x>80</x>
+<y>60</y>
+</pointStroke>
+<pointStroke id="2">
+<x>80</x>
+<y>62</y>
+</pointStroke>
+<pointStroke id="3">
+<x>80</x>
+<y>63</y>
+</pointStroke>
+<pointStroke id="4">
+<x>80</x>
+<y>64</y>
+</pointStroke>
+<pointStroke id="5">
+<x>80</x>
+<y>66</y>
+</pointStroke>
+<pointStroke id="6">
+<x>80</x>
+<y>68</y>
+</pointStroke>
+<pointStroke id="7">
+<x>80</x>
+<y>70</y>
+</pointStroke>
+<pointStroke id="8">
+<x>80</x>
+<y>72</y>
+</pointStroke>
+<pointStroke id="9">
+<x>80</x>
+<y>73</y>
+</pointStroke>
+<pointStroke id="10">
+<x>80</x>
+<y>76</y>
+</pointStroke>
+<pointStroke id="11">
+<x>80</x>
+<y>77</y>
+</pointStroke>
+<pointStroke id="12">
+<x>80</x>
+<y>78</y>
+</pointStroke>
+<pointStroke id="13">
+<x>80</x>
+<y>80</y>
+</pointStroke>
+<pointStroke id="14">
+<x>80</x>
+<y>81</y>
+</pointStroke>
+<pointStroke id="15">
+<x>80</x>
+<y>82</y>
+</pointStroke>
+<pointStroke id="16">
+<x>80</x>
+<y>84</y>
+</pointStroke>
+<pointStroke id="17">
+<x>79</x>
+<y>85</y>
+</pointStroke>
+<pointStroke id="18">
+<x>79</x>
+<y>87</y>
+</pointStroke>
+<pointStroke id="19">
+<x>79</x>
+<y>89</y>
+</pointStroke>
+<pointStroke id="20">
+<x>79</x>
+<y>90</y>
+</pointStroke>
+<pointStroke id="21">
+<x>79</x>
+<y>91</y>
+</pointStroke>
+<pointStroke id="22">
+<x>79</x>
+<y>92</y>
+</pointStroke>
+<pointStroke id="23">
+<x>79</x>
+<y>93</y>
+</pointStroke>
+<pointStroke id="24">
+<x>79</x>
+<y>94</y>
+</pointStroke>
+<pointStroke id="25">
+<x>79</x>
+<y>95</y>
+</pointStroke>
+<pointStroke id="26">
+<x>78</x>
+<y>96</y>
+</pointStroke>
+<pointStroke id="27">
+<x>78</x>
+<y>97</y>
+</pointStroke>
+<pointStroke id="28">
+<x>78</x>
+<y>98</y>
+</pointStroke>
+<pointStroke id="29">
+<x>77</x>
+<y>100</y>
+</pointStroke>
+<pointStroke id="30">
+<x>77</x>
+<y>101</y>
+</pointStroke>
+<pointStroke id="31">
+<x>77</x>
+<y>102</y>
+</pointStroke>
+<pointStroke id="32">
+<x>77</x>
+<y>104</y>
+</pointStroke>
+<pointStroke id="33">
+<x>77</x>
+<y>105</y>
+</pointStroke>
+<pointStroke id="34">
+<x>77</x>
+<y>106</y>
+</pointStroke>
+<pointStroke id="35">
+<x>77</x>
+<y>107</y>
+</pointStroke>
+<pointStroke id="36">
+<x>76</x>
+<y>108</y>
+</pointStroke>
+<pointStroke id="37">
+<x>76</x>
+<y>109</y>
+</pointStroke>
+<pointStroke id="38">
+<x>76</x>
+<y>110</y>
+</pointStroke>
+<pointStroke id="39">
+<x>76</x>
+<y>111</y>
+</pointStroke>
+<pointStroke id="40">
+<x>75</x>
+<y>112</y>
+</pointStroke>
+<pointStroke id="41">
+<x>75</x>
+<y>114</y>
+</pointStroke>
+<pointStroke id="42">
+<x>75</x>
+<y>115</y>
+</pointStroke>
+<pointStroke id="43">
+<x>75</x>
+<y>116</y>
+</pointStroke>
+<pointStroke id="44">
+<x>75</x>
+<y>117</y>
+</pointStroke>
+<pointStroke id="45">
+<x>75</x>
+<y>118</y>
+</pointStroke>
+<pointStroke id="46">
+<x>75</x>
+<y>119</y>
+</pointStroke>
+<pointStroke id="47">
+<x>74</x>
+<y>119</y>
+</pointStroke>
+<pointStroke id="48">
+<x>74</x>
+<y>120</y>
+</pointStroke>
+<pointStroke id="49">
+<x>74</x>
+<y>121</y>
+</pointStroke>
+<pointStroke id="50">
+<x>74</x>
+<y>122</y>
+</pointStroke>
+<pointStroke id="51">
+<x>74</x>
+<y>123</y>
+</pointStroke>
+<pointStroke id="52">
+<x>74</x>
+<y>124</y>
+</pointStroke>
+<pointStroke id="53">
+<x>73</x>
+<y>125</y>
+</pointStroke>
+<pointStroke id="54">
+<x>73</x>
+<y>126</y>
+</pointStroke>
+<pointStroke id="55">
+<x>72</x>
+<y>126</y>
+</pointStroke>
+<pointStroke id="56">
+<x>72</x>
+<y>127</y>
+</pointStroke>
+<pointStroke id="57">
+<x>72</x>
+<y>128</y>
+</pointStroke>
+<pointStroke id="58">
+<x>72</x>
+<y>129</y>
+</pointStroke>
+<pointStroke id="59">
+<x>71</x>
+<y>129</y>
+</pointStroke>
+<pointStroke id="60">
+<x>71</x>
+<y>130</y>
+</pointStroke>
+<pointStroke id="61">
+<x>71</x>
+<y>131</y>
+</pointStroke>
+<pointStroke id="62">
+<x>70</x>
+<y>131</y>
+</pointStroke>
+<pointStroke id="63">
+<x>70</x>
+<y>132</y>
+</pointStroke>
+<pointStroke id="64">
+<x>70</x>
+<y>133</y>
+</pointStroke>
+<pointStroke id="65">
+<x>69</x>
+<y>133</y>
+</pointStroke>
+<pointStroke id="66">
+<x>69</x>
+<y>134</y>
+</pointStroke>
+<pointStroke id="67">
+<x>68</x>
+<y>134</y>
+</pointStroke>
+<pointStroke id="68">
+<x>68</x>
+<y>135</y>
+</pointStroke>
+<pointStroke id="69">
+<x>68</x>
+<y>136</y>
+</pointStroke>
+<pointStroke id="70">
+<x>67</x>
+<y>136</y>
+</pointStroke>
+<pointStroke id="71">
+<x>67</x>
+<y>137</y>
+</pointStroke>
+<pointStroke id="72">
+<x>66</x>
+<y>137</y>
+</pointStroke>
+<pointStroke id="73">
+<x>65</x>
+<y>139</y>
+</pointStroke>
+<pointStroke id="74">
+<x>64</x>
+<y>141</y>
+</pointStroke>
+<pointStroke id="75">
+<x>64</x>
+<y>142</y>
+</pointStroke>
+<pointStroke id="76">
+<x>63</x>
+<y>143</y>
+</pointStroke>
+<pointStroke id="77">
+<x>62</x>
+<y>144</y>
+</pointStroke>
+<pointStroke id="78">
+<x>62</x>
+<y>145</y>
+</pointStroke>
+<pointStroke id="79">
+<x>61</x>
+<y>145</y>
+</pointStroke>
+<pointStroke id="80">
+<x>61</x>
+<y>146</y>
+</pointStroke>
+<pointStroke id="81">
+<x>61</x>
+<y>147</y>
+</pointStroke>
+<pointStroke id="82">
+<x>60</x>
+<y>148</y>
+</pointStroke>
+<pointStroke id="83">
+<x>59</x>
+<y>149</y>
+</pointStroke>
+<pointStroke id="84">
+<x>59</x>
+<y>150</y>
+</pointStroke>
+<pointStroke id="85">
+<x>58</x>
+<y>151</y>
+</pointStroke>
+<pointStroke id="86">
+<x>58</x>
+<y>152</y>
+</pointStroke>
+<pointStroke id="87">
+<x>58</x>
+<y>153</y>
+</pointStroke>
+<pointStroke id="88">
+<x>57</x>
+<y>153</y>
+</pointStroke>
+<pointStroke id="89">
+<x>57</x>
+<y>154</y>
+</pointStroke>
+<pointStroke id="90">
+<x>56</x>
+<y>155</y>
+</pointStroke>
+<pointStroke id="91">
+<x>55</x>
+<y>155</y>
+</pointStroke>
+<pointStroke id="92">
+<x>55</x>
+<y>156</y>
+</pointStroke>
+<pointStroke id="93">
+<x>55</x>
+<y>157</y>
+</pointStroke>
+<pointStroke id="94">
+<x>54</x>
+<y>157</y>
+</pointStroke>
+<pointStroke id="95">
+<x>54</x>
+<y>158</y>
+</pointStroke>
+<pointStroke id="96">
+<x>54</x>
+<y>159</y>
+</pointStroke>
+<pointStroke id="97">
+<x>53</x>
+<y>159</y>
+</pointStroke>
+<pointStroke id="98">
+<x>53</x>
+<y>160</y>
+</pointStroke>
+<pointStroke id="99">
+<x>52</x>
+<y>160</y>
+</pointStroke>
+<pointStroke id="100">
+<x>52</x>
+<y>161</y>
+</pointStroke>
+<pointStroke id="101">
+<x>51</x>
+<y>161</y>
+</pointStroke>
+<pointStroke id="102">
+<x>51</x>
+<y>162</y>
+</pointStroke>
+<pointStroke id="103">
+<x>50</x>
+<y>162</y>
+</pointStroke>
+<pointStroke id="104">
+<x>50</x>
+<y>163</y>
+</pointStroke>
+<pointStroke id="105">
+<x>49</x>
+<y>164</y>
+</pointStroke>
+<pointStroke id="106">
+<x>48</x>
+<y>164</y>
+</pointStroke>
+<pointStroke id="107">
+<x>48</x>
+<y>165</y>
+</pointStroke>
+<pointStroke id="108">
+<x>47</x>
+<y>165</y>
+</pointStroke>
+<pointStroke id="109">
+<x>46</x>
+<y>166</y>
+</pointStroke>
+<pointStroke id="110">
+<x>46</x>
+<y>167</y>
+</pointStroke>
+<pointStroke id="111">
+<x>45</x>
+<y>167</y>
+</pointStroke>
+<pointStroke id="112">
+<x>44</x>
+<y>167</y>
+</pointStroke>
+<pointStroke id="113">
+<x>44</x>
+<y>168</y>
+</pointStroke>
+<pointStroke id="114">
+<x>43</x>
+<y>168</y>
+</pointStroke>
+<pointStroke id="115">
+<x>42</x>
+<y>169</y>
+</pointStroke>
+<pointStroke id="116">
+<x>41</x>
+<y>169</y>
+</pointStroke>
+<pointStroke id="117">
+<x>40</x>
+<y>169</y>
+</pointStroke>
+<pointStroke id="118">
+<x>40</x>
+<y>170</y>
+</pointStroke>
+<pointStroke id="119">
+<x>39</x>
+<y>170</y>
+</pointStroke>
+<pointStroke id="120">
+<x>38</x>
+<y>170</y>
+</pointStroke>
+<pointStroke id="121">
+<x>38</x>
+<y>171</y>
+</pointStroke>
+<pointStroke id="122">
+<x>37</x>
+<y>171</y>
+</pointStroke>
+<pointStroke id="123">
+<x>36</x>
+<y>171</y>
+</pointStroke>
+<pointStroke id="124">
+<x>35</x>
+<y>172</y>
+</pointStroke>
+<pointStroke id="125">
+<x>34</x>
+<y>172</y>
+</pointStroke>
+<pointStroke id="126">
+<x>34</x>
+<y>173</y>
+</pointStroke>
+<pointStroke id="127">
+<x>33</x>
+<y>173</y>
+</pointStroke>
+<pointStroke id="128">
+<x>32</x>
+<y>173</y>
+</pointStroke>
+<pointStroke id="129">
+<x>32</x>
+<y>174</y>
+</pointStroke>
+<pointStroke id="130">
+<x>31</x>
+<y>174</y>
+</pointStroke>
+<pointStroke id="131">
+<x>30</x>
+<y>174</y>
+</pointStroke>
+<pointStroke id="132">
+<x>29</x>
+<y>174</y>
+</pointStroke>
+<pointStroke id="133">
+<x>28</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="134">
+<x>27</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="135">
+<x>26</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="136">
+<x>25</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="137">
+<x>24</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="138">
+<x>24</x>
+<y>176</y>
+</pointStroke>
+<pointStroke id="139">
+<x>23</x>
+<y>176</y>
+</pointStroke>
+<pointStroke id="140">
+<x>22</x>
+<y>176</y>
+</pointStroke>
+</stroke>
+<stroke id="4">
+<pointStroke id="1">
+<x>84</x>
+<y>125</y>
+</pointStroke>
+<pointStroke id="2">
+<x>84</x>
+<y>126</y>
+</pointStroke>
+<pointStroke id="3">
+<x>85</x>
+<y>127</y>
+</pointStroke>
+<pointStroke id="4">
+<x>86</x>
+<y>129</y>
+</pointStroke>
+<pointStroke id="5">
+<x>88</x>
+<y>130</y>
+</pointStroke>
+<pointStroke id="6">
+<x>89</x>
+<y>132</y>
+</pointStroke>
+<pointStroke id="7">
+<x>91</x>
+<y>133</y>
+</pointStroke>
+<pointStroke id="8">
+<x>92</x>
+<y>134</y>
+</pointStroke>
+<pointStroke id="9">
+<x>93</x>
+<y>136</y>
+</pointStroke>
+<pointStroke id="10">
+<x>95</x>
+<y>137</y>
+</pointStroke>
+<pointStroke id="11">
+<x>96</x>
+<y>138</y>
+</pointStroke>
+<pointStroke id="12">
+<x>97</x>
+<y>138</y>
+</pointStroke>
+<pointStroke id="13">
+<x>97</x>
+<y>139</y>
+</pointStroke>
+<pointStroke id="14">
+<x>98</x>
+<y>139</y>
+</pointStroke>
+<pointStroke id="15">
+<x>99</x>
+<y>140</y>
+</pointStroke>
+<pointStroke id="16">
+<x>99</x>
+<y>141</y>
+</pointStroke>
+<pointStroke id="17">
+<x>100</x>
+<y>141</y>
+</pointStroke>
+<pointStroke id="18">
+<x>101</x>
+<y>142</y>
+</pointStroke>
+<pointStroke id="19">
+<x>102</x>
+<y>143</y>
+</pointStroke>
+<pointStroke id="20">
+<x>102</x>
+<y>144</y>
+</pointStroke>
+<pointStroke id="21">
+<x>103</x>
+<y>144</y>
+</pointStroke>
+<pointStroke id="22">
+<x>103</x>
+<y>145</y>
+</pointStroke>
+<pointStroke id="23">
+<x>104</x>
+<y>145</y>
+</pointStroke>
+<pointStroke id="24">
+<x>105</x>
+<y>145</y>
+</pointStroke>
+<pointStroke id="25">
+<x>105</x>
+<y>146</y>
+</pointStroke>
+<pointStroke id="26">
+<x>106</x>
+<y>146</y>
+</pointStroke>
+<pointStroke id="27">
+<x>106</x>
+<y>147</y>
+</pointStroke>
+<pointStroke id="28">
+<x>106</x>
+<y>148</y>
+</pointStroke>
+<pointStroke id="29">
+<x>107</x>
+<y>148</y>
+</pointStroke>
+<pointStroke id="30">
+<x>107</x>
+<y>149</y>
+</pointStroke>
+<pointStroke id="31">
+<x>108</x>
+<y>150</y>
+</pointStroke>
+<pointStroke id="32">
+<x>108</x>
+<y>151</y>
+</pointStroke>
+<pointStroke id="33">
+<x>109</x>
+<y>151</y>
+</pointStroke>
+<pointStroke id="34">
+<x>109</x>
+<y>152</y>
+</pointStroke>
+<pointStroke id="35">
+<x>110</x>
+<y>153</y>
+</pointStroke>
+<pointStroke id="36">
+<x>111</x>
+<y>154</y>
+</pointStroke>
+<pointStroke id="37">
+<x>111</x>
+<y>155</y>
+</pointStroke>
+<pointStroke id="38">
+<x>112</x>
+<y>155</y>
+</pointStroke>
+<pointStroke id="39">
+<x>112</x>
+<y>156</y>
+</pointStroke>
+<pointStroke id="40">
+<x>112</x>
+<y>157</y>
+</pointStroke>
+<pointStroke id="41">
+<x>113</x>
+<y>157</y>
+</pointStroke>
+<pointStroke id="42">
+<x>113</x>
+<y>158</y>
+</pointStroke>
+<pointStroke id="43">
+<x>114</x>
+<y>159</y>
+</pointStroke>
+<pointStroke id="44">
+<x>114</x>
+<y>160</y>
+</pointStroke>
+<pointStroke id="45">
+<x>115</x>
+<y>160</y>
+</pointStroke>
+<pointStroke id="46">
+<x>116</x>
+<y>161</y>
+</pointStroke>
+<pointStroke id="47">
+<x>116</x>
+<y>162</y>
+</pointStroke>
+<pointStroke id="48">
+<x>117</x>
+<y>163</y>
+</pointStroke>
+<pointStroke id="49">
+<x>118</x>
+<y>164</y>
+</pointStroke>
+<pointStroke id="50">
+<x>119</x>
+<y>165</y>
+</pointStroke>
+<pointStroke id="51">
+<x>120</x>
+<y>165</y>
+</pointStroke>
+<pointStroke id="52">
+<x>120</x>
+<y>166</y>
+</pointStroke>
+<pointStroke id="53">
+<x>121</x>
+<y>166</y>
+</pointStroke>
+<pointStroke id="54">
+<x>122</x>
+<y>167</y>
+</pointStroke>
+<pointStroke id="55">
+<x>122</x>
+<y>168</y>
+</pointStroke>
+<pointStroke id="56">
+<x>123</x>
+<y>168</y>
+</pointStroke>
+<pointStroke id="57">
+<x>124</x>
+<y>169</y>
+</pointStroke>
+<pointStroke id="58">
+<x>125</x>
+<y>169</y>
+</pointStroke>
+<pointStroke id="59">
+<x>125</x>
+<y>170</y>
+</pointStroke>
+<pointStroke id="60">
+<x>127</x>
+<y>171</y>
+</pointStroke>
+<pointStroke id="61">
+<x>128</x>
+<y>172</y>
+</pointStroke>
+<pointStroke id="62">
+<x>129</x>
+<y>172</y>
+</pointStroke>
+<pointStroke id="63">
+<x>130</x>
+<y>173</y>
+</pointStroke>
+<pointStroke id="64">
+<x>132</x>
+<y>174</y>
+</pointStroke>
+<pointStroke id="65">
+<x>132</x>
+<y>175</y>
+</pointStroke>
+<pointStroke id="66">
+<x>134</x>
+<y>176</y>
+</pointStroke>
+<pointStroke id="67">
+<x>135</x>
+<y>176</y>
+</pointStroke>
+<pointStroke id="68">
+<x>136</x>
+<y>177</y>
+</pointStroke>
+<pointStroke id="69">
+<x>137</x>
+<y>178</y>
+</pointStroke>
+<pointStroke id="70">
+<x>138</x>
+<y>178</y>
+</pointStroke>
+<pointStroke id="71">
+<x>139</x>
+<y>178</y>
+</pointStroke>
+<pointStroke id="72">
+<x>140</x>
+<y>178</y>
+</pointStroke>
+<pointStroke id="73">
+<x>140</x>
+<y>179</y>
+</pointStroke>
+<pointStroke id="74">
+<x>141</x>
+<y>179</y>
+</pointStroke>
+<pointStroke id="75">
+<x>142</x>
+<y>179</y>
+</pointStroke>
+<pointStroke id="76">
+<x>142</x>
+<y>180</y>
+</pointStroke>
+<pointStroke id="77">
+<x>143</x>
+<y>180</y>
+</pointStroke>
+<pointStroke id="78">
+<x>144</x>
+<y>180</y>
+</pointStroke>
+<pointStroke id="79">
+<x>144</x>
+<y>181</y>
+</pointStroke>
+<pointStroke id="80">
+<x>145</x>
+<y>181</y>
+</pointStroke>
+<pointStroke id="81">
+<x>146</x>
+<y>181</y>
+</pointStroke>
+<pointStroke id="82">
+<x>147</x>
+<y>181</y>
+</pointStroke>
+<pointStroke id="83">
+<x>148</x>
+<y>181</y>
+</pointStroke>
+<pointStroke id="84">
+<x>148</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="85">
+<x>149</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="86">
+<x>150</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="87">
+<x>151</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="88">
+<x>153</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="89">
+<x>154</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="90">
+<x>155</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="91">
+<x>156</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="92">
+<x>157</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="93">
+<x>158</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="94">
+<x>159</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="95">
+<x>160</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="96">
+<x>161</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="97">
+<x>162</x>
+<y>182</y>
+</pointStroke>
+<pointStroke id="98">
+<x>163</x>
+<y>182</y>
+</pointStroke>
+</stroke>
+</strokes>
+<indicators>
+<indicator id="1">
+<point id="1">
+<x>51</x>
+<y>55</y>
+</point>
+<point id="2">
+<x>130</x>
+<y>46</y>
+</point>
+</indicator>
+<indicator id="2">
+<point id="1">
+<x>32</x>
+<y>104</y>
+</point>
+<point id="2">
+<x>140</x>
+<y>91</y>
+</point>
+</indicator>
+<indicator id="3">
+<point id="1">
+<x>82</x>
+<y>57</y>
+</point>
+<point id="2">
+<x>16</x>
+<y>179</y>
+</point>
+</indicator>
+<indicator id="4">
+<point id="1">
+<x>84</x>
+<y>122</y>
+</point>
+<point id="2">
+<x>167</x>
+<y>181</y>
+</point>
+</indicator>
+</indicators>
+</word>
