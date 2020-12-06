@@ -1,0 +1,8822 @@
+啊, A1, 1
+啊, A5, 1
+矮, AI3, 1
+爱, AI4, 1
+爱人, AI4 REN5, 1
+安静, AN1 JING4, 1
+安排, AN1 PAI2, 1
+八, BA1, 1
+把, BA3, 1
+把, BA3, 1
+爸爸, BA4 BA5, 1
+吧, BA5, 1
+白, BAI2, 1
+百, BAI3, 1
+摆, BAI3, 1
+班, BAN1, 1
+搬, BAN1, 1
+半, BAN4, 1
+半天, BAN4 TIAN1, 1
+办, BAN4, 1
+办法, BAN4 FA3, 1
+办公室, BAN4 GONG1 SHI4, 1
+帮助, BANG1 ZHU4, 1
+饱, BAO3, 1
+抱, BAO4, 1
+报, BAO4, 1
+杯, BEI1, 1
+杯子, BEI1 ZI5, 1
+北, BEI3, 1
+北边, BEI3 BIAN1, 1
+倍, BEI4, 1
+被, BEI4, 1
+本, BEN3, 1
+本子, BEN3 ZI5, 1
+比, BI3, 1
+比较, BI3 JIAO4, 1
+比赛, BI3 SAI4, 1
+笔, BI3, 1
+必须, BI4 XU1, 1
+边, BIAN1, 1
+变, BIAN4, 1
+变成, BIAN4 CHENG2, 1
+变化, BIAN4 HUA4, 1
+遍, BIAN4, 1
+表, BIAO3, 1
+表示, BIAO3 SHI4, 1
+表现, BIAO3 XIAN4, 1
+表演, BIAO3 YAN3, 1
+表扬, BIAO3 YANG2, 1
+别, BIE2, 1
+别的, BIE2 DE5, 1
+别人, BIE2 REN5, 1
+病, BING4, 1
+不错, BU2 CUO4, 1
+不但, BU2 DAN4, 1
+不要, BU2 YAO4, 1
+不用, BU2 YONG4, 1
+不, BU4, 1
+不久, BU4 JIU3, 1
+不如, BU4 RU2, 1
+不同, BU4 TONG2, 1
+布, BU4, 1
+部分, BU4 FEN5, 1
+擦, CA1, 1
+才, CAI2, 1
+菜, CAI4, 1
+参观, CAN1 GUAN1, 1
+参加, CAN1 JIA1, 1
+操场, CAO1 CHANG3, 1
+草, CAO3, 1
+层, CENG2, 1
+茶, CHA2, 1
+查, CHA2, 1
+差, CHA4, 1
+常, CHANG2, 1
+常常, CHANG2 CHANG2, 1
+长, CHANG2, 1
+场, CHANG3, 1
+唱, CHANG4, 1
+朝, CHAO2, 1
+车, CHE1, 1
+车站, CHE1 ZHAN4, 1
+城, CHENG2, 1
+城市, CHENG2 SHI4, 1
+成, CHENG2, 1
+成绩, CHENG2 JI1, 1
+吃, CHI1, 1
+迟到, CHI2 DAO4, 1
+抽, CHOU1, 1
+出, CHU1, 1
+出发, CHU1 FA1, 1
+出来, CHU1 LAI2, 1
+出去, CHU1 QU4, 1
+出现, CHU1 XIAN4, 1
+出租汽车, CHU1 ZU1 QI4 CHE1, 1
+除了, CHU2 LE5, 1
+以外, YI3 WAI4, 1
+穿, CHUAN1, 1
+船, CHUAN2, 1
+窗, CHUANG1, 1
+窗户, CHUANG1 HU5, 1
+床, CHUANG2, 1
+吹, CHUI1, 1
+春, CHUN1, 1
+春天, CHUN1 TIAN1, 1
+磁带, CI2 DAI4, 1
+词, CI2, 1
+词典, CI2 DIAN3, 1
+次, CI4, 1
+从, CONG2, 1
+从_到_, CONG2 DAO4, 1
+从_起, CONG2 QI3, 1
+从前, CONG2 QIAN2, 1
+错, CUO4, 1
+错误, CUO4 WU4, 1
+打, DA3, 1
+打算, DA3 SUAN4, 1
+大, DA4, 1
+大概, DA4 GAI4, 1
+大家, DA4 JIA1, 1
+大声, DA4 SHENG1, 1
+大学, DA4 XUE2, 1
+大夫, DAI4 FU5, 1
+戴, DAI4, 1
+带, DAI4, 1
+代表, DAI4 BIAO3, 1
+但是, DAN4 SHI4, 1
+当, DANG1, 1
+当, DANG1, 1
+当然, DANG1 RAN2, 1
+刀, DAO1, 1
+倒, DAO3, 1
+到, DAO4, 1
+道, DAO4, 1
+道理, DAO4 LI3, 1
+得, DE2, 1
+得到, DE2 DAO4, 1
+的, DE5, 1
+地, DE5, 1
+得, DE5, 1
+得很, DE5 HEN3, 1
+得, DEI3, 1
+灯, DENG1, 1
+等, DENG3, 1
+等, DENG3, 1
+低, DI1, 1
+地, DI4, 1
+地方, DI4 FANG5, 1
+第, DI4, 1
+弟弟, DI4 DI5, 1
+点, DIAN3, 1
+点, DIAN3, 1
+点, DIAN3, 1
+点心, DIAN3 XIN5, 1
+点钟, DIAN3 ZHONG1, 1
+电, DIAN4, 1
+电车, DIAN4 CHE1, 1
+电灯, DIAN4 DENG1, 1
+电话, DIAN4 HUA4, 1
+电视, DIAN4 SHI4, 1
+电影, DIAN4 YING3, 1
+掉, DIAO4, 1
+丢, DIU1, 1
+东, DONG1, 1
+东边, DONG1 BIAN1, 1
+东西, DONG1 XI5, 1
+冬, DONG1, 1
+冬天, DONG1 TIAN1, 1
+懂, DONG3, 1
+动, DONG4, 1
+动物, DONG4 WU4, 1
+都, DOU1, 1
+读, DU2, 1
+短, DUAN3, 1
+锻炼, DUAN4 LIAN4, 1
+段, DUAN4, 1
+对, DUI4, 1
+对, DUI4, 1
+对不起, DUI4 BU5 QI3, 1
+顿, DUN4, 1
+多, DUO1, 1
+多, DUO1, 1
+多, DUO1, 1
+多么, DUO1 ME5, 1
+多少, DUO1 SHAO5, 1
+饿, E4, 1
+而且, ER2 QIE3, 1
+儿子, ER2 ZI5, 1
+二, ER4, 1
+发, FA1, 1
+发烧, FA1 SHAO1, 1
+发生, FA1 SHENG1, 1
+发现, FA1 XIAN4, 1
+发展, FA1 ZHAN3, 1
+法语, FA3 YU3, 1
+翻, FAN1, 1
+翻译, FAN1 YI4, 1
+反对, FAN3 DUI4, 1
+饭, FAN4, 1
+饭店, FAN4 DIAN4, 1
+方便, FANG1 BIAN4, 1
+方法, FANG1 FA3, 1
+方面, FANG1 MIAN4, 1
+方向, FANG1 XIANG4, 1
+房间, FANG2 JIAN1, 1
+访问, FANG3 WEN4, 1
+放, FANG4, 1
+放假, FANG4 JIA4, 1
+非常, FEI1 CHANG2, 1
+飞, FEI1, 1
+飞机, FEI1 JI1, 1
+分, FEN1, 1
+分, FEN1, 1
+_分之_, FEN1 ZHI1, 1
+分钟, FEN1 ZHONG1, 1
+丰富, FENG1 FU4, 1
+封, FENG1, 1
+风, FENG1, 1
+夫人, FU1 REN5, 1
+服务, FU2 WU4, 1
+服务员, FU2 WU4 YUAN2, 1
+辅导, FU3 DAO3, 1
+复习, FU4 XI2, 1
+复杂, FU4 ZA2, 1
+父亲, FU4 QIN1, 1
+负责, FU4 ZE2, 1
+附近, FU4 JIN4, 1
+该, GAI1, 1
+改, GAI3, 1
+改变, GAI3 BIAN4, 1
+干净, GAN1 JING4, 1
+感到, GAN3 DAO4, 1
+感冒, GAN3 MAO4, 1
+感谢, GAN3 XIE4, 1
+敢, GAN3, 1
+干, GAN4, 1
+干部, GAN4 BU4, 1
+刚, GANG1, 1
+刚才, GANG1 CAI2, 1
+钢笔, GANG1 BI3, 1
+高, GAO1, 1
+高兴, GAO1 XING4, 1
+搞, GAO3, 1
+告诉, GAO4 SU5, 1
+哥哥, GE1 GE5, 1
+歌, GE1 GE5, 1
+个, GE4, 1
+各, GE4, 1
+各种, GE4 ZHONG3, 1
+给, GEI3, 1
+根, GEN1, 1
+跟, GEN1, 1
+更, GENG4, 1
+工厂, GONG1 CHANG3, 1
+工人, GONG1 REN2, 1
+工业, GONG1 YE4, 1
+工作, GONG1 ZUO4, 1
+公共汽车, GONG1 GONG4 QI4 CHE1, 1
+公斤, GONG1 JIN1, 1
+公里, GONG1 LI3, 1
+公园, GONG1 YUAN2, 1
+够, GOU4, 1
+姑娘, GU1 NIANG5, 1
+故事, GU4 SHI5, 1
+刮, GUA1, 1
+挂, GUA4, 1
+关, GUAN1, 1
+关系, GUAN1 XI5, 1
+关心, GUAN1 XIN1, 1
+馆, GUAN3, 1
+广播, GUANG3 BO1, 1
+贵, GUI4, 1
+贵姓, GUI4 XING4, 1
+国, GUO2, 1
+国家, GUO2 JIA1, 1
+过, GUO4, 1
+过, GUO4, 1
+过来, GUO4 LAI2, 1
+过去, GUO4 QU4, 1
+过去, GUO4 QU4, 1
+哈哈, HA1 HA1, 1
+还, HAI2, 1
+还是, HAI2 SHI4, 1
+孩子, HAI2 ZI5, 1
+海, HAI3, 1
+寒假, HAN2 JIA4, 1
+喊, HAN3, 1
+汉语, HAN4 YU3, 1
+汉字, HAN4 ZI4, 1
+好, HAO3, 1
+好, HAO3, 1
+好吃, HAO3 CHI1, 1
+好处, HAO3 CHU5, 1
+好看, HAO3 KAN4, 1
+好像, HAO3 XIANG4, 1
+号, HAO4, 1
+喝, HE1, 1
+和, HE2, 1
+合适, HE2 SHI4, 1
+河, HE2, 1
+黑, HEI1, 1
+黑板, HEI1 BAN3, 1
+很, HEN3, 1
+红, HONG2, 1
+后, HOU4, 1
+后边, HOU4 BIAN1, 1
+忽然, HU1 RAN2, 1
+湖, HU2, 1
+互相, HU4 XIANG1, 1
+花, HUA1, 1
+花, HUA1, 1
+画, HUA4, 1
+画儿, HUA4 R5, 1
+化学, HUA4 XUE2, 1
+话, HUA4, 1
+坏, HUAI4, 1
+欢迎, HUAN1 YING2, 1
+还, HUAN4, 1
+换, HUAN4, 1
+黄, HUANG2, 1
+回, HUI2, 1
+回, HUI2, 1
+回答, HUI2 DA2, 1
+回来, HUI2 LAI2, 1
+回去, HUI2 QU4, 1
+会, HUI4, 1
+会, HUI4, 1
+会话, HUI4 HUA4, 1
+活, HUO2, 1
+活儿, HUO2 R5, 1
+活动, HUO2 DONG4, 1
+火车, HUO3 CHE1, 1
+或者, HUO4 ZHE3, 1
+基本, JI1 BEN3, 1
+基础, JI1 CHU3, 1
+机场, JI1 CHANG3, 1
+机会, JI1 HUI4, 1
+机器, JI1 QI4, 1
+鸡, JI1, 1
+鸡蛋, JI1 DAN4, 1
+_极了, JI2 LE5, 1
+集合, JI2 HE2, 1
+急, JI2, 1
+挤, JI3, 1
+几, JI3, 1
+技术, JI4 SHU4, 1
+寄, JI4, 1
+计划, JI4 HUA4, 1
+记, JI4, 1
+继续, JI4 XU4, 1
+家, JIA1, 1
+家庭, JIA1 TING2, 1
+加, JIA1, 1
+坚持, JIAN1 CHI2, 1
+间, JIAN1, 1
+检查, JIAN3 CHA2, 1
+简单, JIAN3 DAN1, 1
+见, JIAN4, 1
+见面, JIAN4 MIAN4, 1
+件, JIAN4, 1
+健康, JIAN4 KANG1, 1
+建设, JIAN4 SHE4, 1
+将来, JIANG1 LAI2, 1
+江, JIANG1, 1
+讲, JIANG3, 1
+交, JIAO1, 1
+教, JIAO1, 1
+脚, JIAO3, 1
+角, JIAO3, 1
+饺子, JIAO3 ZI5, 1
+教室, JIAO4 SHI4, 1
+教育, JIAO4 YU4, 1
+叫, JIAO4, 1
+叫, JIAO4, 1
+接, JIE1, 1
+接着, JIE1 ZHE5, 1
+街, JIE1, 1
+节, JIE2, 1
+节目, JIE2 MU4, 1
+节日, JIE2 RI4, 1
+结果, JIE2 GUO3, 1
+结束, JIE2 SHU4, 1
+解决, JIE3 JUE2, 1
+姐姐, JIE3 JIE5, 1
+借, JIE4, 1
+介绍, JIE4 SHAO4, 1
+斤, JIN1, 1
+今年, JIN1 NIAN2, 1
+今天, JIN1 TIAN1, 1
+紧, JIN3, 1
+紧张, JIN3 ZHANG1, 1
+进, JIN4, 1
+进来, JIN4 LAI2, 1
+进去, JIN4 QU4, 1
+进行, JIN4 XING2, 1
+近, JIN4, 1
+精彩, JING1 CAI3, 1
+精神, JING1 SHEN2, 1
+经常, JING1 CHANG2, 1
+经过, JING1 GUO4, 1
+经济, JING1 JI4, 1
+经验, JING1 YAN4, 1
+久, JIU3, 1
+九, JIU3, 1
+酒, JIU3, 1
+旧, JIU4, 1
+就, JIU4, 1
+橘子, JU2 ZI5, 1
+举, JU3, 1
+句, JU4, 1
+句子, JU4 ZI5, 1
+觉得, JUE2 DE5, 1
+决定, JUE2 DING4, 1
+咖啡, KA1 FEI1, 1
+卡车, KA3 CHE1, 1
+开, KAI1, 1
+开始, KAI1 SHI3, 1
+开玩笑, KAI1 WAN2 XIAO4, 1
+开学, KAI1 XUE2, 1
+看, KAN4, 1
+看病, KAN4 BING4, 1
+看见, KAN4 JIAN4, 1
+考试, KAO3 SHI4, 1
+棵, KE1, 1
+科学, KE1 XUE2, 1
+咳嗽, KE2 SOU5, 1
+可能, KE3 NENG2, 1
+可是, KE3 SHI4, 1
+可以, KE3 YI3, 1
+渴, KE3, 1
+克, KE4, 1
+刻, KE4, 1
+客气, KE4 QI5, 1
+课, KE4, 1
+课本, KE4 BEN3, 1
+课文, KE4 WEN2, 1
+空气, KONG1 QI4, 1
+口, KOU3, 1
+口语, KOU3 YU3, 1
+哭, KU1, 1
+苦, KU3, 1
+块, KUAI4, 1
+快, KUAI4, 1
+困难, KUN4 NAN5, 1
+拉, LA1, 1
+啦, LA5, 1
+来, LAI2, 1
+蓝, LAN2, 1
+篮球, LAN2 QIU2, 1
+劳动, LAO2 DONG4, 1
+劳驾, LAO2 JIA4, 1
+老, LAO3, 1
+老师, LAO3 SHI1, 1
+了, LE5, 1
+累, LEI4, 1
+冷, LENG3, 1
+离, LI2, 1
+离开, LI2 KAI1, 1
+里, LI3, 1
+里, LI3, 1
+里边, LI3 BIAN1, 1
+礼物, LI3 WU4, 1
+历史, LI4 SHI3, 1
+利用, LI4 YONG4, 1
+例如, LI4 RU2, 1
+立刻, LI4 KE4, 1
+俩, LIA3, 1
+联系, LIAN2 XI4, 1
+连_都_, LIAN2 DOU1, 1
+脸, LIAN3, 1
+练习, LIAN4 XI2, 1
+凉快, LIANG2 KUAI5, 1
+两, LIANG3, 1
+辆, LIANG4, 1
+亮, LIANG4, 1
+了, LIAO3, 1
+了解, LIAO3 JIE3, 1
+零, LING2, 1
+领导, LING3 DAO3, 1
+留, LIU2, 1
+留念, LIU2 NIAN4, 1
+留学生, LIU2 XUE2 SHENG1, 1
+流, LIU2, 1
+六, LIU4, 1
+楼, LOU2, 1
+路, LU4, 1
+录音, LU4 YIN1, 1
+旅行, LÜ3 XING2, 1
+绿, LÜ4, 1
+乱, LUAN4, 1
+妈妈, MA1 MA5, 1
+麻烦, MA2 FAN5, 1
+马, MA3, 1
+马上, MA3 SHANG4, 1
+嘛, MA5, 1
+吗, MA5, 1
+买, MAI3, 1
+卖, MAI4, 1
+满, MAN3, 1
+满意, MAN3 YI4, 1
+慢, MAN4, 1
+忙, MANG2, 1
+毛, MAO2, 1
+帽子, MAO4 ZI5, 1
+没, MEI2, 1
+没关系, MEI2 GUAN1 XI5, 1
+没意思, MEI2 YI4 SI5, 1
+没有, MEI2 YOU3, 1
+每, MEI3, 1
+妹妹, MEI4 MEI5, 1
+门, MEN2, 1
+门口, MEN2 KOU3, 1
+们, MEN5, 1
+米, MI3, 1
+米饭, MI3 FAN4, 1
+面包, MIAN4 BAO1, 1
+面条儿, MIAN4 TIAO2 R5, 1
+民族, MIN2 ZU2, 1
+明年, MING2 NIAN2, 1
+明天, MING2 TIAN1, 1
+名字, MING2 ZI5, 1
+母亲, MU3 QIN1, 1
+目前, MU4 QIAN2, 1
+拿, NA2, 1
+哪, NA3, 1
+哪里, NA3 LI3, 1
+那, NA4, 1
+那, NA4, 1
+那个, NA4 GE5, 1
+那里, NA4 LI5, 1
+那么, NA4 ME5, 1
+那么, NA4 ME5, 1
+那些, NA4 XIE1, 1
+那样, NA4 YANG4, 1
+哪, NA5, 1
+呐, NA5, 1
+南, NAN2, 1
+南边, NAN2 BIAN1, 1
+男, NAN2, 1
+难, NAN2, 1
+呢, NE5, 1
+内, NEI4, 1
+内容, NEI4 RONG2, 1
+能, NENG2, 1
+能够, NENG2 GOU4, 1
+嗯, NG5, 1
+你, NI3, 1
+你们, NI3 MEN5, 1
+年, NIAN2, 1
+年级, NIAN2 JI2, 1
+年纪, NIAN2 JI4, 1
+年轻, NIAN2 QING1, 1
+念, NIAN4, 1
+您, NIN2, 1
+牛, NIU2, 1
+牛奶, NIU2 NAI3, 1
+农村, NONG2 CUN1, 1
+农民, NONG2 MIN2, 1
+农业, NONG2 YE4, 1
+努力, NU3 LI4, 1
+女, NÜ3, 1
+女儿, NÜ3 ER2, 1
+暖和, NUAN3 HUO5, 1
+爬, PA2, 1
+怕, PA4, 1
+拍, PAI1, 1
+排球, PAI2 QIU2, 1
+派, PAI4, 1
+旁边, PANG2 BIAN1, 1
+跑, PAO3, 1
+跑步, PAO3 BU4, 1
+朋友, PENG2 YOU5, 1
+碰, PENG4, 1
+批评, PI1 PING2, 1
+啤酒, PI2 JIU3, 1
+篇, PIAN1, 1
+便宜, PIAN2 YI5, 1
+片, PIAN4, 1
+漂亮, PIAO4 LIANG5, 1
+票, PIAO4, 1
+苹果, PING2 GUO3, 1
+瓶, PING2, 1
+破, PO4, 1
+七, QI1, 1
+骑, QI2, 1
+起, QI3, 1
+起床, QI3 CHUANG2, 1
+起来, QI3 LAI2, 1
+汽车, QI4 CHE1, 1
+汽水, QI4 SHUI3, 1
+铅笔, QIAN1 BI3, 1
+千, QIAN1, 1
+钱, QIAN2, 1
+前, QIAN2, 1
+前边, QIAN2 BIAN1, 1
+浅, QIAN3, 1
+墙, QIANG2, 1
+桥, QIAO2, 1
+青年, QING1 NIAN2, 1
+轻, QING1, 1
+清楚, QING1 CHU5, 1
+晴, QING2, 1
+情况, QING2 KUANG4, 1
+请, QING3, 1
+请假, QING3 JIA4, 1
+请问, QING3 WEN4, 1
+秋, QIU1, 1
+秋天, QIU1 TIAN1, 1
+球, QIU2, 1
+取得, QU3 DE2, 1
+去, QU4, 1
+去年, QU4 NIAN2, 1
+全, QUAN2, 1
+全部, QUAN2 BU4, 1
+全体, QUAN2 TI3, 1
+确实, QUE4 SHI2, 1
+然后, RAN2 HOU4, 1
+让, RANG4, 1
+热, RE4, 1
+热情, RE4 QING2, 1
+人, REN2, 1
+人们, REN2 MEN5, 1
+人民, REN2 MIN2, 1
+任何, REN4 HE2, 1
+认识, REN4 SHI5, 1
+认为, REN4 WEI2, 1
+认真, REN4 ZHEN1, 1
+日, RI4, 1
+日语, RI4 YU3, 1
+日子, RI4 ZI5, 1
+容易, RONG2 YI4, 1
+肉, ROU4, 1
+三, SAN1, 1
+散步, SAN4 BU4, 1
+山, SHAN1, 1
+商店, SHANG1 DIAN4, 1
+上, SHANG4, 1
+上, SHANG4, 1
+上边, SHANG4 BIAN1, 1
+上课, SHANG4 KE4, 1
+上来, SHANG4 LAI2, 1
+上去, SHANG4 QU4, 1
+上午, SHANG4 WU3, 1
+上学, SHANG4 XUE2, 1
+少, SHAO3, 1
+社会, SHE4 HUI4, 1
+身体, SHEN1 TI3, 1
+深, SHEN1, 1
+什么, SHEN2 ME5, 1
+声, SHENG1, 1
+声调, SHENG1 DIAO4, 1
+声音, SHENG1 YIN1, 1
+生产, SHENG1 CHAN3, 1
+生词, SHENG1 CI2, 1
+生活, SHENG1 HUO2, 1
+生日, SHENG1 RI5, 1
+省, SHENG3, 1
+剩, SHENG4, 1
+胜利, SHENG4 LI4, 1
+师傅, SHI1 FU5, 1
+十, SHI2, 1
+十分, SHI2 FEN1, 1
+时候, SHI2 HOU5, 1
+时间, SHI2 JIAN1, 1
+食堂, SHI2 TANG2, 1
+实践, SHI2 JIAN4, 1
+实现, SHI2 XIAN4, 1
+使用, SHI3 YONG4, 1
+世界, SHI4 JIE4, 1
+事, SHI4, 1
+事情, SHI4 QING5, 1
+是, SHI4, 1
+市, SHI4, 1
+试, SHI4, 1
+收, SHOU1, 1
+收拾, SHOU1 SHI5, 1
+手, SHOU3, 1
+手表, SHOU3 BIAO3, 1
+首都, SHOU3 DU1, 1
+输, SHU1, 1
+舒服, SHU1 FU5, 1
+书, SHU1, 1
+熟, SHU2, 1
+数, SHU3, 1
+树, SHU4, 1
+数学, SHU4 XUE2, 1
+双, SHUANG1, 1
+谁, SHEI2, 1
+水, SHUI3, 1
+水果, SHUI3 GUO3, 1
+水平, SHUI3 PING2, 1
+睡, SHUI4, 1
+睡觉, SHUI4 JIAO4, 1
+说, SHUO1, 1
+说明, SHUO1 MING2, 1
+思想, SI1 XIANG3, 1
+死, SI3, 1
+四, SI4, 1
+送, SONG4, 1
+宿舍, SU4 SHE4, 1
+酸, SUAN1, 1
+算, SUAN4, 1
+虽然, SUI1 RAN2, 1
+岁, SUI4, 1
+所以, SUO3 YI3, 1
+所有, SUO3 YOU3, 1
+他, TA1, 1
+他们, TA1 MEN5, 1
+它, TA1, 1
+它们, TA1 MEN5, 1
+她, TA1, 1
+她们, TA1 MEN5, 1
+抬, TAI2, 1
+太, TAI4, 1
+太阳, TAI4 YANG2, 1
+态度, TAI4 DU5, 1
+谈, TAN2, 1
+汤, TANG1, 1
+糖, TANG2, 1
+躺, TANG3, 1
+讨论, TAO3 LUN4, 1
+特别, TE4 BIE2, 1
+疼, TENG2, 1
+踢, TI1, 1
+提, TI2, 1
+提高, TI2 GAO1, 1
+体育, TI3 YU4, 1
+天, TIAN1, 1
+天气, TIAN1 QI4, 1
+条, TIAO2, 1
+条件, TIAO2 JIAN4, 1
+跳, TIAO4, 1
+跳舞, TIAO4 WU3, 1
+听, TING1, 1
+听见, TING1 JIAN4, 1
+听说, TING1 SHUO1, 1
+听写, TING1 XIE3, 1
+停, TING2, 1
+挺, TING3, 1
+通, TONG1, 1
+通过, TONG1 GUO4, 1
+通知, TONG1 ZHI1, 1
+同时, TONG2 SHI2, 1
+同学, TONG2 XUE2, 1
+同意, TONG2 YI4, 1
+同志, TONG2 ZHI4, 1
+痛快, TONG4 KUAI5, 1
+头, TOU2, 1
+突然, TU1 RAN2, 1
+图书馆, TU2 SHU1 GUAN3, 1
+团结, TUAN2 JIE2, 1
+推, TUI1, 1
+腿, TUI3, 1
+退, TUI4, 1
+脱, TUO1, 1
+袜子, WA4 ZI5, 1
+外, WAI4, 1
+外边, WAI4 BIAN1, 1
+外国, WAI4 GUO2, 1
+外语, WAI4 YU3, 1
+完, WAN2, 1
+完成, WAN2 CHENG2, 1
+完全, WAN2 QUAN2, 1
+玩儿, WAN2 R5, 1
+碗, WAN3, 1
+晚, WAN3, 1
+晚饭, WAN3 FAN4, 1
+晚会, WAN3 HUI4, 1
+晚上, WAN3 SHANG5, 1
+万, WAN4, 1
+往, WANG3, 1
+往, WANG3, 1
+忘, WANG4, 1
+危险, WEI1 XIAN3, 1
+为, WEI2, 1
+伟大, WEI3 DA4, 1
+喂, WEI4, 1
+位, WEI4, 1
+为, WEI4, 1
+为了, WEI4 LE5, 1
+为什么, WEI4 SHEN2 ME5, 1
+文化, WEN2 HUA4, 1
+文学, WEN2 XUE2, 1
+文学家, WEN2 XUE2 JIA1, 1
+文艺, WEN2 YI4, 1
+文章, WEN2 ZHANG1, 1
+问, WEN4, 1
+问好, WEN4 HAO3, 1
+问题, WEN4 TI2, 1
+我, WO3, 1
+我们, WO3 MEN5, 1
+握手, WO4 SHOU3, 1
+屋子, WU1 ZI5, 1
+五, WU3, 1
+午饭, WU3 FAN4, 1
+物理, WU4 LI3, 1
+西, XI1, 1
+西边, XI1 BIAN1, 1
+希望, XI1 WANG4, 1
+习惯, XI2 GUAN4, 1
+喜欢, XI3 HUAN5, 1
+洗, XI3, 1
+洗澡, XI3 ZAO3, 1
+系, XI4, 1
+细, XI4, 1
+下, XIA4, 1
+下, XIA4, 1
+下, XIA4, 1
+下边, XIA4 BIAN1, 1
+下课, XIA4 KE4, 1
+下来, XIA4 LAI2, 1
+下去, XIA4 QU4, 1
+下午, XIA4 WU3, 1
+夏, XIA4, 1
+夏天, XIA4 TIAN1, 1
+先, XIAN1, 1
+先生, XIAN1 SHENG5, 1
+现代, XIAN4 DAI4, 1
+现在, XIAN4 ZAI4, 1
+相信, XIANG1 XIN4, 1
+香, XIANG1, 1
+香蕉, XIANG1 JIAO1, 1
+想, XIANG3, 1
+响, XIANG3, 1
+像, XIANG4, 1
+向, XIANG4, 1
+消息, XIAO1 XI5, 1
+小, XIAO3, 1
+小孩儿, XIAO3 HAI2 R5, 1
+小姐, XIAO3 JIE5, 1
+小时, XIAO3 SHI2, 1
+笑, XIAO4, 1
+些, XIE1, 1
+鞋, XIE2, 1
+写, XIE3, 1
+谢谢, XIE4 XIE5, 1
+辛苦, XIN1 KU3, 1
+新, XIN1, 1
+新年, XIN1 NIAN2, 1
+新闻, XIN1 WEN2, 1
+心, XIN1, 1
+信, XIN4, 1
+信封, XIN4 FENG1, 1
+星期, XING1 QI1, 1
+星期日, XING1 QI1 RI4, 1
+行, XING2, 1
+幸福, XING4 FU2, 1
+姓, XING4, 1
+休息, XIU1 XI5, 1
+需要, XU1 YAO4, 1
+许多, XU3 DUO1, 1
+学, XUE2, 1
+学生, XUE2 SHENG5, 1
+学习, XUE2 XI2, 1
+学校, XUE2 XIAO4, 1
+学院, XUE2 YUAN4, 1
+雪, XUE3, 1
+呀, YA1, 1
+呀, YA1, 1
+研究, YAN2 JIU1, 1
+颜色, YAN2 SE4, 1
+眼睛, YAN3 JING5, 1
+演出, YAN3 CHU1, 1
+宴会, YAN4 HUI4, 1
+羊, YANG2, 1
+样子, YANG4 ZI5, 1
+要求, YAO1 QIU2, 1
+药, YAO4, 1
+要, YAO4, 1
+要是, YAO4 SHI5, 1
+也, YE3, 1
+也许, YE3 XU3, 1
+页, YE4, 1
+夜, YE4, 1
+一, YI1, 1
+一_就_, YI1 JIU4, 1
+一定, YI2 DING4, 1
+一共, YI2 GONG4, 1
+一会儿, YI2 HUI4 R5, 1
+一块儿, YI2 KUAI4 R5, 1
+一切, YI2 QIE4, 1
+一下儿, YI2 XIA4 R5, 1
+一样, YI2 YANG4, 1
+一般, YI4 BAN1, 1
+一边, YI4 BIAN1, 1
+一点儿, YI4 DIAN3 R5, 1
+一起, YI4 QI3, 1
+一些, YI4 XIE1, 1
+一直, YI4 ZHI2, 1
+医生, YI1 SHENG1, 1
+医院, YI1 YUAN4, 1
+衣服, YI1 FU5, 1
+椅子, YI3 ZI5, 1
+已经, YI3 JING5, 1
+以后, YI3 HOU4, 1
+以前, YI3 QIAN2, 1
+以为, YI3 WEI2, 1
+艺术, YI4 SHU4, 1
+亿, YI4, 1
+意见, YI4 JIAN4, 1
+意思, YI4 SI5, 1
+意义, YI4 YI4, 1
+因为, YIN1 WEI4, 1
+音乐, YIN1 YUE4, 1
+阴, YIN1, 1
+银行, YIN2 HANG2, 1
+英语, YING1 YU3, 1
+应该, YING1 GAI1, 1
+赢, YING2, 1
+影响, YING3 XIANG3, 1
+永远, YONG3 YUAN3, 1
+用, YONG4, 1
+尤其, YOU2 QI2, 1
+邮局, YOU2 JU2, 1
+邮票, YOU2 PIAO4, 1
+游泳, YOU2 YONG3, 1
+有, YOU3, 1
+有的, YOU3 DE5, 1
+有名, YOU3 MING2, 1
+有时候, YOU3 SHI2 HOU5, 1
+有些, YOU3 XIE1, 1
+有意思, YOU3 YI4 SI5, 1
+友好, YOU3 HAO3, 1
+友谊, YOU3 YI4, 1
+右, YOU4, 1
+又, YOU4, 1
+鱼, YU2, 1
+愉快, YU2 KUAI4, 1
+雨, YU3, 1
+语法, YU3 FA3, 1
+语言, YU3 YAN2, 1
+遇到, YU4 DAO4, 1
+预习, YU4 XI2, 1
+元, YUAN2, 1
+原来, YUAN2 LAI2, 1
+原谅, YUAN2 LIANG4, 1
+圆, YUAN2, 1
+远, YUAN3, 1
+愿意, YUAN4 YI4, 1
+月, YUE4, 1
+月亮, YUE4 LIANG5, 1
+月球, YUE4 QIU2, 1
+云, YUN2, 1
+运动, YUN4 DONG4, 1
+再, ZAI4, 1
+再见, ZAI4 JIAN4, 1
+在, ZAI4, 1
+在, ZAI4, 1
+咱, ZAN2, 1
+咱们, ZAN2 MEN5, 1
+脏, ZANG1, 1
+早, ZAO3, 1
+早晨, ZAO3 CHEN5, 1
+早饭, ZAO3 FAN4, 1
+怎么, ZEN3 ME5, 1
+怎么样, ZEN3 ME5 YANG4, 1
+怎样, ZEN3 YANG4, 1
+增加, ZENG1 JIA1, 1
+展览, ZHAN3 LAN3, 1
+占, ZHAN4, 1
+站, ZHAN4, 1
+站, ZHAN4, 1
+张, ZHANG1, 1
+长, ZHANG3, 1
+掌握, ZHANG3 WO4, 1
+着急, ZHAO2 JI2, 1
+找, ZHAO3, 1
+照顾, ZHAO4 GU4, 1
+照相, ZHAO4 XIANG4, 1
+这, ZHE4, 1
+这个, ZHE4 GE5, 1
+这里, ZHE4 LI5, 1
+这么, ZHE4 ME5, 1
+这些, ZHE4 XIE1, 1
+这样, ZHE4 YANG4, 1
+着, ZHE5, 1
+真, ZHEN1, 1
+真正, ZHEN1 ZHENG4, 1
+整齐, ZHENG3 QI2, 1
+正, ZHENG4, 1
+正确, ZHENG4 QUE4, 1
+正在, ZHENG4 ZAI4, 1
+政府, ZHENG4 FU3, 1
+政治, ZHENG4 ZHI4, 1
+只, ZHI1, 1
+支, ZHI1, 1
+知道, ZHI1 DAO4, 1
+知识, ZHI1 SHI5, 1
+_之间, ZHI1 JIAN1, 1
+指, ZHI3, 1
+只, ZHI3, 1
+只好, ZHI3 HAO3, 1
+纸, ZHI3, 1
+中, ZHONG1, 1
+中间, ZHONG1 JIAN1, 1
+中文, ZHONG1 WEN2, 1
+中午, ZHONG1 WU3, 1
+中学, ZHONG1 XUE2, 1
+钟, ZHONG1, 1
+钟头, ZHONG1 TOU2, 1
+种, ZHONG3, 1
+重, ZHONG4, 1
+重要, ZHONG4 YAO4, 1
+周, ZHOU1, 1
+周围, ZHOU1 WEI2, 1
+猪, ZHU1, 1
+主要, ZHU3 YAO4, 1
+主意, ZHU3 YI5, 1
+住, ZHU4, 1
+注意, ZHU4 YI4, 1
+祝, ZHU4, 1
+装, ZHUANG1, 1
+准备, ZHUN3 BEI4, 1
+桌子, ZHUO1 ZI5, 1
+自己, ZI4 JI3, 1
+自行车, ZI4 XING2 CHE1, 1
+字, ZI4, 1
+总是, ZONG3 SHI4, 1
+走, ZOU3, 1
+足球, ZU2 QIU2, 1
+祖国, ZU3 GUO2, 1
+组织, ZU3 ZHI1, 1
+嘴, ZUI3, 1
+最, ZUI4, 1
+最初, ZUI4 CHU1, 1
+最后, ZUI4 HOU4, 1
+最近, ZUI4 JIN4, 1
+昨天, ZUO2 TIAN1, 1
+左, ZUO3, 1
+做, ZUO4, 1
+作, ZUO4, 1
+作业, ZUO4 YE4, 1
+坐, ZUO4, 1
+座, ZUO4, 1
+阿, A1, 2
+阿拉伯语, A1 LA1 BO2 YU3, 2
+阿姨, A1 YI2, 2
+挨, AI1, 2
+哎, AI1, 2
+哎呀, AI1 YA1, 2
+爱好, AI4 HAO4, 2
+爱护, AI4 HU4, 2
+爱情, AI4 QING2, 2
+安全, AN1 QUAN2, 2
+安慰, AN1 WEI4, 2
+安心, AN1 XIN1, 2
+按, AN4, 2
+按时, AN4 SHI2, 2
+按照, AN4 ZHAO4, 2
+暗, AN4, 2
+岸, AN4, 2
+拔, BA2, 2
+白, BAI2, 2
+白菜, BAI2 CAI4, 2
+白天, BAI2 TIAN1, 2
+败, BAI4, 2
+班长, BAN1 ZHANG3, 2
+板, BAN3, 2
+半导体, BAN4 DAO3 TI3, 2
+半拉, BAN4 LA3, 2
+半夜, BAN4 YE4, 2
+办公, BAN4 GONG1, 2
+办事, BAN4 SHI4, 2
+帮, BANG1, 2
+帮忙, BANG1 MANG2, 2
+榜样, BANG3 YANG4, 2
+傍晚, BANG4 WAN3, 2
+包, BAO1, 2
+包, BAO1, 2
+包括, BAO1 KUO4, 2
+包子, BAO1 ZI5, 2
+薄, BAO2, 2
+保, BAO3, 2
+保持, BAO3 CHI2, 2
+保存, BAO3 CUN2, 2
+保护, BAO3 HU4, 2
+保留, BAO3 LIU2, 2
+保卫, BAO3 WEI4, 2
+保证, BAO3 ZHENG4, 2
+宝贵, BAO3 GUI4, 2
+抱歉, BAO4 QIAN4, 2
+报到, BAO4 DAO4, 2
+报道, BAO4 DAO4, 2
+报告, BAO4 GAO4, 2
+报名, BAO4 MING2, 2
+报纸, BAO4 ZHI3, 2
+背, BEI1, 2
+碑, BEI1, 2
+悲痛, BEI1 TONG4, 2
+北部, BEI3 BU4, 2
+北方, BEI3 FANG1, 2
+北面, BEI3 MIAN4, 2
+背, BEI4, 2
+背后, BEI4 HOU4, 2
+被子, BEI4 ZI5, 2
+本, BEN3, 2
+本, BEN3, 2
+本来, BEN3 LAI2, 2
+本领, BEN3 LING3, 2
+本事, BEN3 SHI5, 2
+本质, BEN3 ZHI4, 2
+笨, BEN4, 2
+逼, BI1, 2
+鼻子, BI2 ZI5, 2
+比例, BI3 LI4, 2
+比如, BI3 RU2, 2
+笔记, BI3 JI4, 2
+毕业, BI4 YE4, 2
+闭, BI4, 2
+必然, BI4 RAN2, 2
+必要, BI4 YAO4, 2
+避, BI4, 2
+避免, BI4 MIAN3, 2
+边_边_, BIAN1 BIAN1, 2
+编, BIAN1, 2
+扁, BIAN3, 2
+便, BIAN4, 2
+便条, BIAN4 TIAO2, 2
+遍, BIAN4, 2
+标点, BIAO1 DIAN3, 2
+标准, BIAO1 ZHUN3, 2
+表达, BIAO3 DA2, 2
+表面, BIAO3 MIAN4, 2
+表明, BIAO3 MING2, 2
+宾馆, BIN1 GUAN3, 2
+兵, BING1, 2
+冰, BING1, 2
+饼干, BING3 GAN1, 2
+病房, BING4 FANG2, 2
+病菌, BING4 JUN1, 2
+病人, BING4 REN2, 2
+并, BING4, 2
+并, BING4, 2
+并且, BING4 QIE3, 2
+玻璃, BO1 LI5, 2
+伯伯, BO2 BO5, 2
+伯母, BO2 MU3, 2
+脖子, BO2 ZI5, 2
+捕, BU3, 2
+补, BU3, 2
+补充, BU3 CHONG1, 2
+补课, BU3 KE4, 2
+补习, BU3 XI2, 2
+不必, BU4 BI4, 2
+不大, BU4 DA4, 2
+不得不, BU4 DE2 BU4, 2
+不得了, BU4 DE2 LIAO3, 2
+不断, BU4 DUAN4, 2
+不敢当, BU4 GAN3 DANG1, 2
+不管, BU4 GUAN3, 2
+不过, BU4 GUO4, 2
+不好意思, BU4 HAO3 YI4 SI5, 2
+不仅, BU4 JIN3, 2
+不论, BU4 LUN4, 2
+不平, BU4 PING2, 2
+不然, BU4 RAN2, 2
+不少, BU2 SHAO3, 2
+不是吗, BU4 SHI4 MA5, 2
+不行, BU4 XING2, 2
+不幸, BU4 XING4, 2
+不许, BU4 XU3, 2
+不要紧, BU4 YAO4 JIN3, 2
+不一定, BU4 YI2 DING4, 2
+不住, BU4 ZHU4, 2
+布置, BU4 ZHI4, 2
+步, BU4, 2
+部, BU4, 2
+部队, BU4 DUI4, 2
+部门, BU4 MEN2, 2
+部长, BU4 ZHANG3, 2
+猜, CAI1, 2
+材料, CAI2 LIAO4, 2
+踩, CAI3, 2
+采, CAI3, 2
+采购, CAI3 GOU4, 2
+采取, CAI3 QU3, 2
+采用, CAI3 YONG4, 2
+彩色, CAI3 SE4, 2
+餐厅, CAN1 TING1, 2
+藏, CANG2, 2
+草地, CAO3 DI4, 2
+草原, CAO3 YUAN2, 2
+厕所, CE4 SUO3, 2
+册, CE4, 2
+测验, CE4 YAN4, 2
+曾, CENG2, 2
+曾经, CENG2 JING1, 2
+插, CHA1, 2
+叉子, CHA1 ZI5, 2
+差, CHA4, 2
+差不多, CHA4 BU5 DUO1, 2
+差点儿, CHA4 DIAN3 R5, 2
+拆, CHAI1, 2
+产量, CHAN3 LIANG4, 2
+产品, CHAN3 PIN3, 2
+产生, CHAN3 SHENG1, 2
+尝, CHANG2, 2
+长期, CHANG2 QI1, 2
+长途, CHANG2 TU2, 2
+超, CHAO1, 2
+超过, CHAO1 GUO4, 2
+抄, CHAO1, 2
+抄写, CHAO1 XIE3, 2
+吵, CHAO3, 2
+车间, CHE1 JIAN1, 2
+彻底, CHE4 DI3, 2
+沉默, CHEN2 MO4, 2
+趁, CHEN4, 2
+衬衫, CHEN4 SHAN1, 2
+衬衣, CHEN4 YI1, 2
+称, CHENG1, 2
+称赞, CHENG1 ZAN4, 2
+成分, CHENG2 FEN4, 2
+成功, CHENG2 GONG1, 2
+成果, CHENG2 GUO3, 2
+成就, CHENG2 JIU4, 2
+成立, CHENG2 LI4, 2
+成熟, CHENG2 SHU2, 2
+成为, CHENG2 WEI2, 2
+成长, CHENG2 ZHANG3, 2
+乘, CHENG2, 2
+程度, CHENG2 DU4, 2
+诚恳, CHENG2 KEN3, 2
+诚实, CHENG2 SHI2, 2
+承认, CHENG2 REN4, 2
+吃惊, CHI1 JING1, 2
+尺, CHI3, 2
+翅膀, CHI4 BANG3, 2
+充分, CHONG1 FEN4, 2
+充满, CHONG1 MAN3, 2
+充足, CHONG1 ZU2, 2
+冲, CHONG1, 2
+虫子, CHONG2 ZI5, 2
+重, CHONG2, 2
+重叠, CHONG2 DIE2, 2
+重复, CHONG2 FU4, 2
+重新, CHONG2 XIN1, 2
+崇高, CHONG2 GAO1, 2
+抽象, CHOU1 XIANG4, 2
+愁, CHOU2, 2
+臭, CHOU4, 2
+初, CHU1, 2
+初步, CHU1 BU4, 2
+初级, CHU1 JI2, 2
+出版, CHU1 BAN3, 2
+出口, CHU1 KOU3, 2
+出生, CHU1 SHENG1, 2
+出席, CHU1 XI2, 2
+出院, CHU1 YUAN4, 2
+厨房, CHU2 FANG2, 2
+除, CHU2, 2
+处, CHU3, 2
+处分, CHU3 FEN4, 2
+处理, CHU3 LI3, 2
+处, CHU4, 2
+传, CHUAN2, 2
+传播, CHUAN2 BO1, 2
+传统, CHUAN2 TONG3, 2
+闯, CHUANG3, 2
+创, CHUANG4, 2
+创造, CHUANG4 ZAO4, 2
+创作, CHUANG4 ZUO4, 2
+春节, CHUN1 JIE2, 2
+此, CI3, 2
+此外, CI3 WAI4, 2
+刺, CI4, 2
+聪明, CONG1 MING5, 2
+从不/没, CONG2 BU4 MEI2, 2
+从_出发, CONG2 CHU1 FA1, 2
+从此, CONG2 CI3, 2
+从而, CONG2 ER2, 2
+从来, CONG2 LAI2, 2
+从事, CONG2 SHI4, 2
+粗, CU1, 2
+醋, CU4, 2
+促进, CU4 JIN4, 2
+催, CUI1, 2
+存, CUN2, 2
+存在, CUN2 ZAI4, 2
+寸, CUN4, 2
+措施, CUO4 SHI1, 2
+搭, DA1, 2
+答应, DA1 YING5, 2
+答, DA2, 2
+答案, DA2 AN4, 2
+答卷, DA2 JUAN4, 2
+达到, DA2 DAO4, 2
+打扮, DA3 BAN5, 2
+打倒, DA3 DAO3, 2
+打扰, DA3 RAO3, 2
+打听, DA3 TING5, 2
+打针, DA3 ZHEN1, 2
+大胆, DA4 DAN3, 2
+大多数, DA4 DUO1 SHU4, 2
+大会, DA4 HUI4, 2
+大伙儿, DA4 HUO3 R5, 2
+大街, DA4 JIE1, 2
+大量, DA4 LIANG4, 2
+大陆, DA4 LU4, 2
+大米, DA4 MI3, 2
+大批, DA4 PI1, 2
+大人, DA4 REN5, 2
+大使馆, DA4 SHI3 GUAN3, 2
+大小, DA4 XIAO3, 2
+大型, DA4 XING2, 2
+大衣, DA4 YI1, 2
+大约, DA4 YUE1, 2
+呆, DAI1, 2
+呆, DAI1, 2
+代, DAI4, 2
+代替, DAI4 TI4, 2
+袋, DAI4, 2
+待, DAI4, 2
+担任, DAN1 REN4, 2
+担心, DAN1 XIN1, 2
+单, DAN1, 2
+单, DAN1, 2
+单词, DAN1 CI2, 2
+单调, DAN1 DIAO4, 2
+单位, DAN1 WEI4, 2
+但, DAN4, 2
+淡, DAN4, 2
+蛋, DAN4, 2
+蛋糕, DAN4 GAO1, 2
+当_的时候, DANG1 DE5 SHI2 HOU4, 2
+当地, DANG1 DI5, 2
+当年, DANG1 NIAN2, 2
+当前, DANG1 QIAN2, 2
+当时, DANG1 SHI2, 2
+挡, DANG3, 2
+党, DANG3, 2
+党员, DANG3 YUAN2, 2
+当, DANG4, 2
+当做, DANG4 ZUO4, 2
+刀子, DAO1 ZI5, 2
+岛, DAO3, 2
+到处, DAO4 CHU4, 2
+到达, DAO4 DA2, 2
+到底, DAO4 DI3, 2
+到底, DAO4 DI3, 2
+倒, DAO4, 2
+倒是, DAO4 SHI4, 2
+道, DAO4, 2
+道, DAO4, 2
+道德, DAO4 DE2, 2
+道路, DAO4 LU4, 2
+道歉, DAO4 QIAN4, 2
+德语, DE2 YU3, 2
+_的话_, DE5 HUA4, 2
+登, DENG1, 2
+登记, DENG1 JI4, 2
+等, DENG3, 2
+等待, DENG3 DAI4, 2
+等于, DENG3 YU2, 2
+滴, DI1, 2
+敌人, DI2 REN2, 2
+的确, DI2 QUE4, 2
+低下, DI1 XIA2, 2
+地带, DI4 DAI4, 2
+地点, DI4 DIAN3, 2
+地方, DI4 FANG1, 2
+地面, DI4 MIAN4, 2
+地球, DI4 QIU2, 2
+地区, DI4 QU1, 2
+地图, DI4 TU2, 2
+地位, DI4 WEI4, 2
+地下, DI4 XIA4, 2
+地址, DI4 ZHI3, 2
+递, DI4, 2
+电报, DIAN4 BAO4, 2
+电冰箱, DIAN4 BING1 XIANG1, 2
+电风扇, DIAN4 FENG1 SHAN4, 2
+电视台, DIAN4 SHI4 TAI2, 2
+电台, DIAN4 TAI2, 2
+电梯, DIAN4 TI1, 2
+电影院, DIAN4 YING3 YUAN4, 2
+店, DIAN4, 2
+吊, DIAO4, 2
+钓, DIAO4, 2
+调, DIAO4, 2
+调查, DIAO4 CHA2, 2
+跌, DIE1, 2
+顶, DING3, 2
+顶, DING3, 2
+定, DING4, 2
+订, DING4, 2
+东北, DONG1 BEI3, 2
+东部, DONG1 BU4, 2
+东方, DONG1 FANG1, 2
+东面, DONG1 MIAN4, 2
+东南, DONG1 NAN2, 2
+懂得, DONG3 DE5, 2
+动人, DONG4 REN2, 2
+动身, DONG4 SHEN1, 2
+动手, DONG4 SHOU3, 2
+动物园, DONG4 WU4 YUAN2, 2
+动员, DONG4 YUAN2, 2
+动作, DONG4 ZUO4, 2
+冻, DONG4, 2
+洞, DONG4, 2
+斗争, DOU4 ZHENG1, 2
+豆腐, DOU4 FU5, 2
+逗, DOU4, 2
+独立, DU2 LI4, 2
+读书, DU2 SHU1, 2
+读者, DU2 ZHE3, 2
+堵, DU3, 2
+肚子, DU4 ZI5, 2
+度, DU4, 2
+度过, DU4 GUO4, 2
+渡, DU4, 2
+端, DUAN1, 2
+短期, DUAN3 QI1, 2
+断, DUAN4, 2
+堆, DUI1, 2
+队, DUI4, 2
+队伍, DUI4 WU5, 2
+队长, DUI4 ZHANG3, 2
+对, DUI4, 2
+对比, DUI4 BI3, 2
+对待, DUI4 DAI4, 2
+对方, DUI4 FANG1, 2
+对付, DUI4 FU5, 2
+对话, DUI4 HUA4, 2
+对面, DUI4 MIAN4, 2
+对象, DUI4 XIANG4, 2
+对于, DUI4 YU2, 2
+吨, DUN1, 2
+蹲, DUN1, 2
+多数, DUO1 SHU4, 2
+夺, DUO2, 2
+躲, DUO3, 2
+朵, DUO3, 2
+鹅, E2, 2
+而, ER2, 2
+儿童, ER2 TONG2, 2
+耳朵, ER3 DUO5, 2
+发表, FA1 BIAO3, 2
+发出, FA1 CHU1, 2
+发达, FA1 DA2, 2
+发动, FA1 DONG4, 2
+发抖, FA1 DOU3, 2
+发挥, FA1 HUI1, 2
+发明, FA1 MING2, 2
+发言, FA1 YAN2, 2
+发扬, FA1 YANG2, 2
+法郎, FA3 LANG2, 2
+法律, FA3 LÜ4, 2
+繁荣, FAN2 RONG2, 2
+凡, FAN2, 2
+反动, FAN3 DONG4, 2
+反复, FAN3 FU4, 2
+反抗, FAN3 KANG4, 2
+反应, FAN3 YING4, 2
+反映, FAN3 YING4, 2
+反正, FAN3 ZHENG4, 2
+范围, FAN4 WEI2, 2
+犯, FAN4, 2
+方, FANG1, 2
+方案, FANG1 AN4, 2
+方式, FANG1 SHI4, 2
+方针, FANG1 ZHEN1, 2
+房子, FANG2 ZI5, 2
+防, FANG2, 2
+防止, FANG2 ZHI3, 2
+仿佛, FANG3 FU2, 2
+纺织, FANG3 ZHI1, 2
+放大, FANG4 DA4, 2
+放弃, FANG4 QI4, 2
+放心, FANG4 XIN1, 2
+非_不可, FEI1 BU4 KE3, 2
+肥, FEI2, 2
+肺, FEI4, 2
+费, FEI4, 2
+费, FEI4, 2
+费用, FEI4 YONG4, 2
+吩咐, FEN1 FU4, 2
+分别, FEN1 BIE2, 2
+分配, FEN1 PEI4, 2
+分析, FEN1 XI1, 2
+纷纷, FEN1 FEN1, 2
+粉笔, FEN3 BI3, 2
+奋斗, FEN4 DOU4, 2
+份, FEN4, 2
+愤怒, FEN4 NU4, 2
+封建, FENG1 JIAN4, 2
+风景, FENG1 JING3, 2
+风力, FENG1 LI4, 2
+风俗, FENG1 SU2, 2
+逢, FENG2, 2
+否定, FOU3 DING4, 2
+否则, FOU3 ZE2, 2
+扶, FU2, 2
+幅, FU2, 2
+符合, FU2 HE2, 2
+服从, FU2 CONG2, 2
+浮, FU2, 2
+副, FU4, 2
+副, FU4, 2
+副食, FU4 SHI2, 2
+复述, FU4 SHU4, 2
+复印, FU4 YIN4, 2
+付, FU4, 2
+富, FU4, 2
+妇女, FU4 NÜ3, 2
+该, GAI1, 2
+改革, GAI3 GE2, 2
+改进, GAI3 JIN4, 2
+改善, GAI3 SHAN4, 2
+改造, GAI3 ZAO4, 2
+改正, GAI3 ZHENG4, 2
+概括, GAI4 KUO4, 2
+概念, GAI4 NIAN4, 2
+盖, GAI4, 2
+干, GAN1, 2
+干杯, GAN1 BEI1, 2
+干脆, GAN1 CUI4, 2
+干燥, GAN1 ZAO4, 2
+杆, GAN1, 2
+肝, GAN1, 2
+赶, GAN3, 2
+赶紧, GAN3 JIN3, 2
+赶快, GAN3 KUAI4, 2
+感动, GAN3 DONG4, 2
+感激, GAN3 JI1, 2
+感觉, GAN3 JUE2, 2
+感情, GAN3 QING2, 2
+感想, GAN3 XIANG3, 2
+感兴趣, GAN3 XING4 QU4, 2
+干活儿, GAN4 HUO2 R5, 2
+干吗, GAN4 MA2, 2
+刚刚, GANG1 GANG1, 2
+钢, GANG1, 2
+港, GANG3, 2
+高大, GAO1 DU4, 2
+高度, GAN1 DU4, 2
+高原, GAO1 YUAN2, 2
+告, GAO4, 2
+告别, GAO4 BIE2, 2
+搁, GE1, 2
+胳膊, GE1 BO5, 2
+割, GE1, 2
+革命, GE2 MING4, 2
+隔, GE2, 2
+隔壁, GE2 BI4, 2
+个别, GE4 BIE2, 2
+个人, GE4 REN2, 2
+个体, GE4 TI3, 2
+个子, GE4 ZI5, 2
+根本, GEN1 BEN3, 2
+根据, GEN1 JU4, 2
+跟前, GEN1 QIAN2, 2
+更加, GENG4 JIA1, 2
+工程, GONG1 CHENG2, 2
+工程师, GONG1 CHENG2 SHI1, 2
+工夫, GONG1 FU5, 2
+工会, GONG1 HUI4, 2
+工具, GONG1 JU4, 2
+工艺品, GONG1 YI4 PIN3, 2
+工资, GONG1 ZI1, 2
+功夫, GONG1 FU5, 2
+供, GONG1, 2
+供给, GONG1 JI3, 2
+公费, GONG1 FEI4, 2
+公共, GONG1 GONG4, 2
+公开, GONG1 KAI1, 2
+公路, GONG1 LU4, 2
+公司, GONG1 SI1, 2
+公用电话, GONG1 YONG4 DIAN4 HUA4, 2
+公园, GONG1 YUAN2, 2
+巩固, GONG3 GU4, 2
+贡献, GONG4 XIAN4, 2
+共, GONG4, 2
+共产党, GONG4 CHAN3 DANG3, 2
+共同, GONG4 TONG2, 2
+狗, GOU3, 2
+构成, GOU4 CHENG2, 2
+构造, GOU4 ZAO4, 2
+估计, GU1 JI4, 2
+姑姑, GU1 GU5, 2
+鼓, GU3, 2
+鼓励, GU3 LI4, 2
+鼓舞, GU3 WU3, 2
+鼓掌, GU3 ZHANG3, 2
+古, GU3, 2
+古代, GU3 DAI4, 2
+估计, GU1 JI4, 2
+古老, GU3 LAO3, 2
+骨头, GU3 TOU5, 2
+故乡, GU4 XIANG1, 2
+故意, GU4 YI4, 2
+顾, GU4, 2
+顾客, GU4 KE4, 2
+挂号, GUA4 HAO4, 2
+拐, GUAI3, 2
+怪, GUAI4, 2
+关键, GUAN1 JIAN4, 2
+关于, GUAN1 YU2, 2
+关照, GUAN1 ZHAO4, 2
+官, GUAN1, 2
+观察, GUAN1 CHA2, 2
+观点, GUAN1 DIAN3, 2
+观众, GUAN1 ZHONG4, 2
+管, GUAN3, 2
+冠军, GUAN4 JUN1, 2
+罐头, GUAN4 TOU5, 2
+贯彻, GUAN4 CHE4, 2
+光, GUANG1, 2
+光, GUANG1, 2
+光, GUANG1, 2
+光辉, GUANG1 HUI1, 2
+光明, GUANG1 MING2, 2
+光荣, GUANG1 RONG2, 2
+光线, GUANG1 XIAN4, 2
+广场, GUANG3 CHANG3, 2
+广大, GUANG3 DA4, 2
+广泛, GUANG3 FAN4, 2
+广告, GUANG3 GAO4, 2
+广阔, GUANG3 KUO4, 2
+逛, GUANG4, 2
+规定, GUI1 DING4, 2
+规律, GUI1 LÜ4, 2
+规模, GUI1 MO2, 2
+鬼, GUI3, 2
+跪, GUI4, 2
+滚, GUN3, 2
+锅, GUO1, 2
+国际, GUO2 JI4, 2
+国民党, GUO2 MIN2 DANG3, 2
+国王, GUO2 WANG2, 2
+果然, GUO3 RAN2, 2
+过程, GUO4 CHENG2, 2
+过年, GUO4 NIAN2, 2
+海关, HAI3 GUAN1, 2
+海洋, HAI3 YANG2, 2
+害, HAI4, 2
+害处, HAI4 CHU5, 2
+害怕, HAI4 PA4, 2
+含, HAN2, 2
+寒冷, HAN2 LENG3, 2
+汗, HAN4, 2
+行, HANG2, 2
+航空, HANG2 KONG1, 2
+毫不, HAO2 BU4, 2
+毫无, HAO2 WU2, 2
+好好儿, HAO3 HAO1 R5, 2
+好久, HAO3 JIU3, 2
+好容易, HAO3 RONG2 YI4, 2
+好听, HAO3 TING1, 2
+好玩儿, HAO3 WAN2 R5, 2
+好些, HAO3 XIE1, 2
+号码, HAO4 MA3, 2
+号召, HAO4 ZHAO4, 2
+好, HAO4, 2
+和平, HE2 PING2, 2
+合, HE2, 2
+合理, HE2 LI3, 2
+合同, HE2 TONG5, 2
+合作, HE2 ZUO4, 2
+盒, HE2, 2
+嘿, HEI1, 2
+黑暗, HEI1 AN4, 2
+恨, HEN4, 2
+哼, HENG1, 2
+红茶, HONG2 CHA2, 2
+红旗, HONG2 QI2, 2
+猴子, HOU2 ZI5, 2
+厚, HOU4, 2
+后悔, HOU4 HUI3, 2
+后来, HOU4 LAI2, 2
+后面, HOU4 MIAN5, 2
+后年, HOU4 NIAN2, 2
+后天, HOU4 TIAN1, 2
+呼, HU1, 2
+呼吸, HU1 XI1, 2
+壶, HU2, 2
+胡乱, HU2 LUAN4, 2
+胡子, HU2 ZI5, 2
+糊涂, HU2 TU5, 2
+护士, HU4 SHI5, 2
+护照, HU4 ZHAO4, 2
+户, HU4, 2
+花园, HUA1 YUAN2, 2
+划, HUA2, 2
+滑, HUA2, 2
+滑冰, HUA2 BING1, 2
+画报, HUA4 BAO4, 2
+划, HUA4, 2
+化, HUA4, 2
+坏处, HUAI4 CHU5, 2
+欢送, HUAN1 SONG4, 2
+环, HUAN2, 2
+环境, HUAN2 JING4, 2
+慌, HUANG1, 2
+黄瓜, HUANG2 GUA5, 2
+黄油, HUANG2 YOU2, 2
+皇帝, HUANG2 DI4, 2
+灰, HUI1, 2
+挥, HUI1, 2
+恢复, HUI1 FU4, 2
+回头, HUI2 TOU2, 2
+回信, HUI2 XIN4, 2
+回忆, HUI2 YI4, 2
+会场, HUI4 CHANG3, 2
+会见, HUI4 JIAN4, 2
+会客, HUI4 KE4, 2
+会谈, HUI4 TAN2, 2
+会议, HUI4 YI4, 2
+昏迷, HUN1 MI2, 2
+婚姻, HUN1 YIN1, 2
+混, HUN4, 2
+活泼, HUO2 PO5, 2
+活跃, HUO2 YUE4, 2
+伙食, HUO3 SHI5, 2
+火, HUO3, 2
+火柴, HUO3 CHAI2, 2
+获得, HUO4 DE2, 2
+或, HUO4, 2
+货, HUO4, 2
+几乎, JI1 HU1, 2
+机床, JI1 CHUANG2, 2
+机关, JI1 GUAN1, 2
+机械, JI1 XIE4, 2
+积极, JI1 JI2, 2
+积极性, JI1 JI2 XING4, 2
+积累, JI1 LEI3, 2
+激动, JI1 DONG4, 2
+激烈, JI1 LIE4, 2
+极, JI2, 2
+极其, JI2 QI2, 2
+集, JI2, 2
+集体, JI2 TI3, 2
+集中, JI2 ZHONG1, 2
+及其, JI2 QI2, 2
+及格, JI2 GE2, 2
+及时, JI2 SHI2, 2
+急忙, JI2 MANG2, 2
+即, JI2, 2
+级, JI2, 2
+技术员, JI4 SHU4 YUAN2, 2
+季节, JI4 JIE2, 2
+计算, JI4 SUAN4, 2
+记得, JI4 DE5, 2
+记录, JI4 LU4, 2
+记忆, JI4 YI4, 2
+记者, JI4 ZHE3, 2
+既, JI4, 2
+既_也_, JI4 YE3, 2
+既_又_, JI4 YOU4, 2
+既然, JI4 RAN2, 2
+纪律, JI4 LÜ4, 2
+纪念, JI4 NIAN4, 2
+夹, JIA1, 2
+家具, JIA1 JU5, 2
+家乡, JIA1 XIANG1, 2
+加工, JIA1 GONG1, 2
+加强, JIA1 QIANG2, 2
+加以, JIA1 YI3, 2
+假, JIA3, 2
+价格, JIA4 GE2, 2
+价值, JIA4 ZHI2, 2
+架, JIA4, 2
+假条, JIA4 TIAO2, 2
+坚定, JIAN1 DING4, 2
+坚决, JIAN1 JUE2, 2
+坚强, JIAN1 QIANG2, 2
+尖, JIAN1, 2
+尖锐, JIAN1 RUI4, 2
+肩, JIAN1, 2
+艰巨, JIAN1 JU4, 2
+艰苦, JIAN1 KU3, 2
+拣, JIAN3, 2
+捡, JIAN3, 2
+剪, JIAN3, 2
+减, JIAN3, 2
+减轻, JIAN3 QING1, 2
+减少, JIAN3 SHAO3, 2
+箭, JIAN4, 2
+渐渐, JIAN4 JIAN4, 2
+建, JIAN4, 2
+建立, JIAN4 LI4, 2
+建议, JIAN4 YI4, 2
+建筑, JIAN4 ZHU4, 2
+将, JIANG1, 2
+将, JIANG1, 2
+将要, JIANG1 YAO4, 2
+奖, JIANG3, 2
+奖学金, JIANG3 XUE2 JIN1, 2
+讲话, JIANG3 HUA4, 2
+讲座, JIANG3 ZUO4, 2
+酱油, JIANG4 YOU2, 2
+降, JIANG4, 2
+降低, JIANG4 DI1, 2
+交换, JIAO1 HUAN4, 2
+交际, JIAO1 JI4, 2
+交流, JIAO1 LIU2, 2
+交通, JIAO1 TONG1, 2
+郊区, JIAO1 QU1, 2
+骄傲, JIAO1 AO4, 2
+角, JIAO3, 2
+教材, JIAO4 CAI2, 2
+教师, JIAO4 SHI1, 2
+教授, JIAO4 SHOU4, 2
+教学, JIAO4 XUE2, 2
+教训, JIAO4 XUN5, 2
+教员, JIAO4 YUAN2, 2
+较, JIAO4, 2
+叫做, JIAO4 ZUO4, 2
+接触, JIE1 CHU4, 2
+接待, JIE1 DAI4, 2
+接到, JIE1 DAO4, 2
+接见, JIE1 JIAN4, 2
+接近, JIE1 JIN4, 2
+接受, JIE1 SHOU4, 2
+街道, JIE1 DAO4, 2
+阶段, JIE1 DUAN4, 2
+阶级, JIE1 JI2, 2
+结实, JIE1 SHI5, 2
+节省, JIE2 SHENG3, 2
+节约, JIE2 YUE1, 2
+结构, JIE2 GOU4, 2
+结合, JIE2 HE2, 2
+结婚, JIE2 HUN1, 2
+结论, JIE2 LUN4, 2
+解, JIE3, 2
+解答, JIE3 DA2, 2
+解放, JIE3 FANG4, 2
+解释, JIE3 SHI4, 2
+届, JIE4, 2
+金, JIN1, 2
+金属, JIN1 SHU3, 2
+今后, JIN1 HOU4, 2
+仅, JIN3, 2
+仅仅, JIN3 JIN3, 2
+尽, JIN4, 2
+尽管, JIN3 GUAN3, 2
+尽量, JIN4 LIANG4, 2
+进步, JIN4 BU4, 2
+进攻, JIN4 GONG1, 2
+进化, JIN4 HUA4, 2
+进口, JIN4 KOU3, 2
+进入, JIN4 RU4, 2
+进修, JIN4 XIU1, 2
+进一步, JIN4 YI1 BU4, 2
+禁止, JIN4 ZHI3, 2
+近来, JIN4 LAI2, 2
+尽, JIN4, 2
+劲, JIN4, 2
+京剧, JING1 JU4, 2
+精力, JING1 LI4, 2
+经, JING1, 2
+经理, JING1 LI3, 2
+经历, JING1 LI4, 2
+井, JING3, 2
+警察, JING3 CHA2, 2
+静, JING4, 2
+敬爱, JING4 AI4, 2
+敬礼, JING4 LI3, 2
+镜子, JING4 ZI5, 2
+竞赛, JING4 SAI4, 2
+究竟, JIU1 JING4, 2
+纠正, JIU1 ZHENG4, 2
+救, JIU4, 2
+就, JIU4, 2
+就是, JIU4 SHI4, 2
+局长, JU2 ZHANG3, 2
+举行, JU3 XING2, 2
+拒绝, JU4 JUE2, 2
+据说, JU4 SHUO1, 2
+巨大, JU4 DA4, 2
+具备, JU4 BEI4, 2
+具体, JU4 TI3, 2
+具有, JU4 YOU3, 2
+距离, JU4 LI2, 2
+距离, JU4 LI2, 2
+俱乐部, JU4 LE4 BU4, 2
+剧场, JU4 CHANG3, 2
+卷, JUAN3, 2
+觉悟, JUE2 WU4, 2
+决, JUE2, 2
+决心, JUE2 XIN1, 2
+绝对, JUE2 DUI4, 2
+军, JUN1, 2
+军队, JUN1 DUI4, 2
+军事, JUN1 SHI4, 2
+开放, KAI1 FANG4, 2
+开会, KAI1 HUI4, 2
+开课, KAI1 KE4, 2
+开明, KAI1 MING2, 2
+开辟, KAI1 PI4, 2
+开演, KAI1 YAN3, 2
+开展, KAI1 ZHAN3, 2
+砍, KAN3, 2
+看不起, KAN4 BU5 QI3, 2
+看法, KAN4 FA3, 2
+看来, KAN4 LAI5, 2
+看样子, KAN4 YANG4 ZI5, 2
+扛, KANG2, 2
+考, KAO3, 2
+考虑, KAO3 LÜ4, 2
+烤, KAO3, 2
+靠, KAO4, 2
+颗, KE1, 2
+科, KE1, 2
+科学家, KE1 XUE2 JIA1, 2
+科学院, KE1 XUE2 YUAN4, 2
+科研, KE1 YAN2, 2
+科长, KE1 ZHANG3, 2
+可, KE3, 2
+可爱, KE3 AI4, 2
+可靠, KE3 KAO4, 2
+可怜, KE3 LIAN2, 2
+可怕, KE3 PA4, 2
+可以, KE3 YI3, 2
+克服, KE4 FU2, 2
+刻, KE4, 2
+刻苦, KE4 KU3, 2
+客人, KE4 REN5, 2
+课程, KE4 CHENG2, 2
+肯, KEN3, 2
+肯定, KEN3 DING4, 2
+空, KONG1, 2
+空间, KONG1 JIAN1, 2
+空前, KONG1 QIAN2, 2
+空中, KONG1 ZHONG1, 2
+孔, KONG3, 2
+恐怕, KONG3 PA4, 2
+空儿, KONG4 R5, 2
+控制, KONG4 ZHI4, 2
+口袋, KOU3 DAI4, 2
+口号, KOU3 HAO4, 2
+扣, KOU4, 2
+裤子, KU4 ZI5, 2
+跨, KUA4, 2
+筷子, KUAI4 ZI5, 2
+快乐, KUAI4 LE4, 2
+宽, KUAN1, 2
+款, KUAN3, 2
+矿, KUANG4, 2
+捆, KUN3, 2
+困, KUN4, 2
+扩大, KUO4 DA4, 2
+垃圾, LA1 JI1, 2
+来, LAI2, 2
+来, LAI2, 2
+来不及, LAI2 BU5 JI2, 2
+来得及, LAI2 DE5 JI2, 2
+来信, LAI2 XIN4, 2
+来自, LAI2 ZI4, 2
+拦, LAN2, 2
+懒, LAN3, 2
+烂, LAN4, 2
+狼, LANG2, 2
+朗读, LANG3 DU2, 2
+浪, LANG4, 2
+浪费, LANG4 FEI4, 2
+捞, LAO1, 2
+老是, LAO3 SHI5, 2
+老百姓, LAO3 BAI3 XING4, 2
+老板, LAO3 BAN3, 2
+老大妈, LAO3 DA4 MA1, 2
+老大娘, LAO3 DA4 NIANG2, 2
+老大爷, LAO3 DA4 YE5, 2
+老虎, LAO3 HU3, 2
+老人, LAO3 REN2, 2
+老实, LAO3 SHI5, 2
+老太太, LAO3 TAI4 TAI5, 2
+老头儿, LAO3 TOU2 R5, 2
+乐观, LE4 GUAN1, 2
+雷, LEI2, 2
+类, LEI4, 2
+厘米, LI2 MI3, 2
+梨, LI2, 2
+离婚, LI2 HUN1, 2
+理发, LI3 FA4, 2
+理解, LI3 JIE3, 2
+理论, LI3 LUN4, 2
+理想, LI3 XIANG3, 2
+理由, LI3 YOU2, 2
+里面, LI3 MIAN4, 2
+礼拜天, LI3 BAI4 TIAN1, 2
+礼貌, LI3 MAO4, 2
+礼堂, LI3 TANG2, 2
+厉害, LI4 HAI5, 2
+利益, LI4 YI4, 2
+例, LI4, 2
+例子, LI4 ZI5, 2
+立, LI4, 2
+立场, LI4 CHANG3, 2
+立方, LI4 FANG1, 2
+立即, LI4 JI2, 2
+粒, LI4, 2
+力, LI4, 2
+力量, LI4 LIANG5, 2
+力气, LI4 QI5, 2
+力所能及, LI4 SUO3 NENG2 JI2, 2
+联合, LIAN2 HE2, 2
+联欢, LIAN2 HUAN1, 2
+连, LIAN2, 2
+连忙, LIAN2 MANG2, 2
+恋爱, LIAN4 AI4, 2
+练, LIAN4, 2
+粮食, LIANG2 SHI5, 2
+凉, LIANG2, 2
+量, LIANG2, 2
+良好, LIANG2 HAO3, 2
+两, LIANG3, 2
+聊, LIAO2, 2
+聊天, LIAO2 TIAN1, 2
+了不起, LIAO3 BU5 QI3, 2
+列, LIE4, 2
+临, LIN2, 2
+临时, LIN2 SHI2, 2
+邻居, LIN2 JU1, 2
+零钱, LING2 QIAN2, 2
+铃, LING2, 2
+灵活, LING2 HUO2, 2
+领, LING3, 2
+领袖, LING3 XIU4, 2
+另, LING4, 2
+另外, LING4 WAI4, 2
+流利, LIU2 LI4, 2
+龙, LONG2, 2
+楼梯, LOU2 TI1, 2
+漏, LOU4, 2
+露, LOU4, 2
+路上, LU4 SHANG5, 2
+路线, LU4 XIAN4, 2
+录, LU4, 2
+录像, LU4 XIANG4, 2
+录音机, LU4 YIN1 JI1, 2
+陆续, LU4 XU4, 2
+旅馆, LÜ3 GUAN3, 2
+旅客, LÜ3 KE4, 2
+旅途, LÜ3 TU2, 2
+略, LÜE4, 2
+轮船, LUN2 CHUAN2, 2
+论文, LUN4 WEN2, 2
+萝卜, LUO2 BO5, 2
+落, LUO4, 2
+落后, LUO4 HOU4, 2
+码头, MA3 TOU5, 2
+马虎, MA3 HU5, 2
+马克, MA3 KE4, 2
+马路, MA3 LU4, 2
+骂, MA4, 2
+埋, MAI2, 2
+买卖, MAI3 MAI4, 2
+迈, MAI4, 2
+馒头, MAN2 TOU5, 2
+满足, MAN3 ZU2, 2
+猫, MAO1, 2
+毛, MAO2, 2
+毛病, MAO2 BING5, 2
+毛巾, MAO2 JIN1, 2
+贸易, MAO4 YI4, 2
+矛盾, MAO2 DUN4, 2
+冒, MAO4, 2
+贸易, MAO4 YI4, 2
+煤, MEI2, 2
+煤气, MEI2 QI4, 2
+没错, MEI2 CUO4, 2
+没什么, MEI2 SHEN2 ME5, 2
+没事儿, MEI2 SHI4 R5, 2
+没用, MEI2 YONG4, 2
+每, MEI3, 2
+美, MEI3, 2
+美好, MEI3 HAO3, 2
+美丽, MEI3 LI4, 2
+美术, MEI3 SHU4, 2
+美元, MEI3 YUAN2, 2
+梦, MENG4, 2
+米, MI3, 2
+秘密, MI4 MI4, 2
+蜜蜂, MI4 FENG1, 2
+密, MI4, 2
+密切, MI4 QIE4, 2
+棉花, MIAN2 HUA5, 2
+棉衣, MIAN2 YI1, 2
+面, MIAN4, 2
+面, MIAN4, 2
+面积, MIAN4 JI5, 2
+面貌, MIAN4 MAO4, 2
+面前, MIAN4 QIAN2, 2
+描写, MIAO2 XIE3, 2
+秒, MIAO3, 2
+庙, MIAO4, 2
+妙, MIAO4, 2
+灭, MIE4, 2
+民主, MIN2 ZHU3, 2
+明亮, MING2 LIANG4, 2
+明确, MING2 QUE4, 2
+明显, MING2 XIAN3, 2
+名, MING2, 2
+名胜, MING2 SHENG4, 2
+命令, MING4 LING4, 2
+命运, MING4 YUN4, 2
+摸, MO1, 2
+模仿, MO2 FANG3, 2
+磨, MO2, 2
+墨水儿, MO4 SHUI3 R5, 2
+某, MOU3, 2
+模样, MU2 YANG4, 2
+亩, MU3, 2
+母, MU3, 2
+木, MU4, 2
+木头, MU4 TOU5, 2
+目标, MU4 BIAO1, 2
+目的, MU4 DI5, 2
+哪个, NA3 GE5, 2
+哪怕, NA3 PA4, 2
+哪些, NA3 XIE1, 2
+那边, NA4 BIAN1, 2
+奶奶, NAI3 NAI5, 2
+耐心, NAI4 XIN1, 2
+耐用, NAI4 YONG4, 2
+南部, NAN2 BU4, 2
+南方, NAN2 FANG1, 2
+南面, NAN2 MIAN4, 2
+男人, NAN2 REN2, 2
+难道, NAN2 DAO4, 2
+难过, NAN2 GUO4, 2
+难看, NAN2 KAN4, 2
+难受, NAN2 SHOU4, 2
+脑袋, NAO3 DAI5, 2
+脑子, NAO3 ZI5, 2
+闹, NAO4, 2
+内部, NEI4 BU4, 2
+能干, NENG2 GAN4, 2
+能力, NENG2 LI4, 2
+能源, NENG2 YUAN2, 2
+泥, NI2, 2
+年代, NIAN2 DAI4, 2
+年龄, NIAN2 LING2, 2
+年青, NIAN2 QING1, 2
+鸟, NIAO3, 2
+扭, NIU3, 2
+浓, NONG2, 2
+弄, NONG4, 2
+女人, NÜ3 REN2, 2
+女士, NÜ3 SHI4, 2
+暖, NUAN3, 2
+暖气, NUAN3 QI4, 2
+怕, PA4, 2
+排, PAI2, 2
+排, PAI2, 2
+牌, PAI2, 2
+盘, PAN2, 2
+盘子, PAN2 ZI5, 2
+盼望, PAN4 WANG4, 2
+判断, PAN4 DUAN4, 2
+旁, PANG2, 2
+胖, PANG4, 2
+炮, PAO4, 2
+赔, PEI2, 2
+陪, PEI2, 2
+配合, PEI4 HE2, 2
+喷, PEN1, 2
+盆, PEN2, 2
+捧, PENG3, 2
+碰见, PENG4 JIAN4, 2
+批, PI1, 2
+批判, PI1 PAN4, 2
+批准, PI1 ZHUN3, 2
+披, PI1, 2
+脾气, PI2 QI5, 2
+疲劳, PI2 LAO2, 2
+皮, PI2, 2
+皮肤, PI2 FU1, 2
+匹, PI3, 2
+偏, PIAN1, 2
+片面, PIAN4 MIAN4, 2
+骗, PIAN4, 2
+飘, PIAO1, 2
+拼命, PIN1 MING4, 2
+品种, PIN3 ZHONG3, 2
+乒乓球, PING1 PANG1 QIU2, 2
+平, PING2, 2
+平安, PING2 AN1, 2
+平常, PING2 CHANG2, 2
+平等, PING2 DENG3, 2
+平方, PING2 FANG1, 2
+平静, PING2 JING4, 2
+平均, PING2 JUN1, 2
+平时, PING2 SHI2, 2
+平原, PING2 YUAN2, 2
+瓶子, PING2 ZI5, 2
+坡, PO1, 2
+破坏, PO4 HUAI4, 2
+迫切, PO4 QIE4, 2
+扑, PU1, 2
+铺, PU1, 2
+朴素, PU3 SU4, 2
+普遍, PU3 BIAN4, 2
+普通, PU3 TONG1, 2
+期, QI1, 2
+期间, QI1 JIAN1, 2
+欺骗, QI1 PIAN4, 2
+妻子, QI1 ZI5, 2
+其次, QI2 CI4, 2
+其他, QI2 TA1, 2
+其它, QI2 TA1, 2
+其余, QI2 YU2, 2
+其中, QI2 ZHONG1, 2
+奇怪, QI2 GUAI4, 2
+齐, QI2, 2
+旗子, QI2 ZI5, 2
+企图, QI3 TU2, 2
+企业, QI3 YE4, 2
+启发, QI3 FA1, 2
+气, QI4, 2
+气候, QI4 HOU4, 2
+气温, QI4 WEN1, 2
+气象, QI4 XIANG4, 2
+汽油, QI4 YOU2, 2
+牵, QIAN1, 2
+千万, QIAN1 WAN4, 2
+签订, QIAN1 DING4, 2
+前进, QIAN2 JIN4, 2
+前面, QIAN2 MIAN5, 2
+前年, QIAN2 NIAN2, 2
+前天, QIAN2 TIAN1, 2
+前途, QIAN2 TU2, 2
+欠, QIAN4, 2
+枪, QIANG1, 2
+强, QIANG2, 2
+强大, QIANG2 DA4, 2
+强盗, QIANG2 DAO4, 2
+强调, QIANG2 DIAO4, 2
+强度, QIANG2 DU4, 2
+强烈, QIANG2 LIE4, 2
+抢, QIANG3, 2
+敲, QIAO1, 2
+悄悄, QIAO1 QIAO1, 2
+桥梁, QIAO2 LIANG2, 2
+瞧, QIAO2, 2
+巧, QIAO3, 2
+巧妙, QIAO3 MIAO4, 2
+切, QIE1, 2
+且, QIE3, 2
+侵略, QIN1 LÜE4, 2
+亲爱, QIN1 AI4, 2
+亲戚, QIN1 QI5, 2
+亲切, QIN1 QIE4, 2
+亲自, QIN1 ZI4, 2
+青, QING1, 2
+轻松, QING1 SONG1, 2
+清, QING1, 2
+情景, QING2 JING3, 2
+情形, QING2 XING5, 2
+情绪, QING2 XU4, 2
+请客, QING3 KE4, 2
+请求, QING3 QIU2, 2
+庆祝, QING4 ZHU4, 2
+穷, QIONG2, 2
+球场, QIU2 CHANG3, 2
+求, QIU2, 2
+区, QU1, 2
+区别, QU1 BIE2, 2
+渠, QU2, 2
+取, QU3, 2
+取消, QU3 XIAO1, 2
+圈, QUAN1, 2
+全面, QUAN2 MIAN4, 2
+劝, QUAN4, 2
+缺, QUE1, 2
+缺点, QUE1 DIAN3, 2
+缺乏, QUE1 FA2, 2
+缺少, QUE1 SHAO3, 2
+却, QUE4, 2
+确定, QUE4 DING4, 2
+裙子, QUN2 ZI5, 2
+群, QUN2, 2
+群众, QUN2 ZHONG4, 2
+然而, RAN2 ER2, 2
+燃烧, RAN2 SHAO1, 2
+染, RAN3, 2
+嚷, RANG3, 2
+绕, RAO4, 2
+惹, RE3, 2
+热爱, RE4 AI4, 2
+热烈, RE4 LIE4, 2
+热闹, RE4 NAO5, 2
+热水瓶, RE4 SHUI3 PING2, 2
+热心, RE4 XIN1, 2
+人才, REN2 CAI2, 2
+人工, REN2 GONG1, 2
+人家, REN2 JIA1, 2
+人口, REN2 KOU3, 2
+人类, REN2 LEI4, 2
+人民币, REN2 MIN2 BI4, 2
+人物, REN2 WU4, 2
+人员, REN2 YUAN2, 2
+人造, REN2 ZAO4, 2
+忍, REN3, 2
+任务, REN4 WU5, 2
+认, REN4, 2
+认得, REN4 DE5, 2
+扔, RENG1, 2
+仍, RENG2, 2
+仍然, RENG2 RAN2, 2
+日常, RI4 CHANG2, 2
+日程, RI4 CHENG2, 2
+日记, RI4 JI4, 2
+日期, RI4 QI1, 2
+日用品, RI4 YONG4 PIN3, 2
+日元, RI4 YUAN2, 2
+如, RU2, 2
+如, RU2, 2
+如果, RU2 GUO3, 2
+如何, RU2 HE2, 2
+如今, RU2 JIN1, 2
+入, RU4, 2
+软, RUAN3, 2
+弱, RUO4, 2
+撒, SA1, 2
+洒, SA3, 2
+赛, SAI4, 2
+伞, SAN3, 2
+嗓子, SANG3 ZI5, 2
+扫, SAO3, 2
+嫂子, SAO3 ZI5, 2
+色, SE4, 2
+森林, SEN1 LIN2, 2
+杀, SHA1, 2
+沙发, SHA1 FA1, 2
+沙漠, SHA1 MO4, 2
+沙子, SHA1 ZI5, 2
+傻, SHA3, 2
+晒, SHAI4, 2
+山脉, SHAN1 MAI4, 2
+山区, SHAN1 QU1, 2
+闪, SHAN3, 2
+善于, SHAN4 YU2, 2
+伤, SHANG1, 2
+伤心, SHANG1 XIN1, 2
+商场, SHANG1 CHANG3, 2
+商量, SHANG1 LIANG5, 2
+商品, SHANG1 PIN3, 2
+商业, SHANG1 YE4, 2
+上班, SHANG4 BAN1, 2
+上当, SHANG4 DANG4, 2
+上级, SHANG4 JI2, 2
+上面, SHANG4 MIAN5, 2
+上衣, SHANG4 YI1, 2
+稍, SHAO1, 2
+稍微, SHAO1 WEI1, 2
+烧, SHAO1, 2
+勺子, SHAO2 ZI5, 2
+少数, SHAO3 SHU4, 2
+少年, SHAO4 NIAN2, 2
+蛇, SHE2, 2
+舌头, SHE2 TOU5, 2
+射, SHE4, 2
+设备, SHE4 BEI4, 2
+设计, SHE4 JI4, 2
+伸, SHEN1, 2
+身, SHEN1, 2
+身边, SHEN1 BIAN1, 2
+深厚, SHEN1 HOU4, 2
+深刻, SHEN1 KE4, 2
+深入, SHEN1 RU4, 2
+什么的, SHEN2 ME5 DE5, 2
+神, SHEN2, 2
+神经, SHEN2 JING1, 2
+生, SHENG1, 2
+生, SHENG1, 2
+生动, SHENG1 DONG4, 2
+生命, SHENG1 MING4, 2
+生气, SHENG1 QI4, 2
+生物, SHENG1 WU4, 2
+生意, SHENG1 YI4, 2
+生长, SHENG1 ZHANG3, 2
+升, SHENG1, 2
+绳子, SHENG2 ZI5, 2
+省, SHENG3, 2
+胜, SHENG4, 2
+失败, SHI1 BAI4, 2
+失去, SHI1 QU4, 2
+失望, SHI1 WANG4, 2
+失业, SHI1 YE4, 2
+狮子, SHI1 ZI5, 2
+施工, SHI1 GONG1, 2
+湿, SHI1, 2
+诗, SHI1, 2
+石头, SHI2 TOU5, 2
+石油, SHI2 YOU2, 2
+拾, SHI2, 2
+时代, SHI2 DAI4, 2
+时刻, SHI2 KE4, 2
+时期, SHI2 QI1, 2
+食品, SHI2 PIN3, 2
+食物, SHI2 WU4, 2
+实际, SHI2 JI4, 2
+实事求是, SHI2 SHI4 QIU2 SHI4, 2
+实行, SHI2 XING2, 2
+试验, SHI4 YAN4, 2
+使用, SHI3 YONG4, 2
+实在, SHI2 ZAI4, 2
+实用, SHI2 YONG4, 2
+始终, SHI3 ZHONG1, 2
+世纪, SHI4 JI4, 2
+事件, SHI4 JIAN4, 2
+事实, SHI4 SHI2, 2
+事物, SHI4 WU4, 2
+事先, SHI4 XIAN1, 2
+事业, SHI4 YE4, 2
+适当, SHI4 DANG4, 2
+适合, SHI4 HE2, 2
+适应, SHI4 YING4, 2
+使用, SHI3 YONG4, 2
+市场, SHI4 CHANG3, 2
+室, SHI4, 2
+试卷, SHI4 JUAN4, 2
+试验, SHI4 YAN4, 2
+收获, SHOU1 HUO4, 2
+收入, SHOU1 RU4, 2
+收音机, SHOU1 YIN1 JI1, 2
+手段, SHOU3 DUAN4, 2
+手工, SHOU3 GONG1, 2
+手帕, SHOU3 PA4, 2
+手术, SHOU3 SHU4, 2
+手套, SHOU3 TAO4, 2
+手续, SHOU3 XU4, 2
+手指, SHOU3 ZHI3, 2
+首, SHOU3, 2
+首先, SHOU3 XIAN1, 2
+受, SHOU4, 2
+瘦, SHOU4, 2
+蔬菜, SHU1 CAI4, 2
+叔叔, SHU1 SHU5, 2
+舒适, SHU1 SHI4, 2
+书包, SHU1 BAO1, 2
+书店, SHU1 DIAN4, 2
+书记, SHU1 JI5, 2
+书架, SHU1 JIA4, 2
+熟练, SHU2 LIAN4, 2
+熟悉, SHU2 XI1, 2
+暑假, SHU3 JIA4, 2
+属于, SHU3 YU2, 2
+树林, SHU4 LIN2, 2
+数, SHU4, 2
+数量, SHU4 LIANG4, 2
+数字, SHU4 ZI4, 2
+刷, SHUA1, 2
+摔, SHUAI1, 2
+甩, SHUAI3, 2
+率领, SHUAI4 LING3, 2
+双方, SHUANG1 FANG1, 2
+水稻, SHUI3 DAO4, 2
+水泥, SHUI3 NI2, 2
+顺, SHUN4, 2
+顺便, SHUN4 BIAN4, 2
+顺利, SHUN4 LI4, 2
+撕, SI1, 2
+私, SI1, 2
+私人, SI1 REN2, 2
+司机, SI1 JI1, 2
+丝, SI1, 2
+似乎, SI4 HU1, 2
+松, SONG1, 2
+送行, SONG4 XING2, 2
+速度, SU4 DU4, 2
+塑料, SU4 LIAO4, 2
+算了, SUAN4 LE5, 2
+随, SUI2, 2
+随便, SUI2 BIAN4, 2
+随时, SUI2 SHI2, 2
+碎, SUI4, 2
+损失, SUN3 SHI1, 2
+缩, SUO1, 2
+所, SUO3, 2
+所, SUO3, 2
+所谓, SUO3 WEI4, 2
+塔, TA3, 2
+台, TAI2, 2
+太太, TAI4 TAI5, 2
+谈话, TAN2 HUA4, 2
+谈判, TAN2 PAN4, 2
+弹, TAN2, 2
+毯子, TAN3 ZI5, 2
+探, TAN4, 2
+趟, TANG4, 2
+烫, TANG4, 2
+掏, TAO1, 2
+逃, TAO2, 2
+讨厌, TAO3 YAN4, 2
+套, TAO4, 2
+特此, TE4 CI3, 2
+特点, TE4 DIAN3, 2
+特殊, TE4 SHU1, 2
+提倡, TI2 CHANG4, 2
+提供, TI2 GONG1, 2
+提前, TI2 QIAN2, 2
+题, TI2, 2
+题目, TI2 MU4, 2
+体会, TI3 HUI4, 2
+体积, TI3 JI1, 2
+体系, TI3 XI4, 2
+体育场, TI3 YU4 CHANG3, 2
+体育馆, TI3 YU4 GUAN3, 2
+替, TI4, 2
+天真, TIAN1 ZHEN1, 2
+添, TIAN1, 2
+填, TIAN2, 2
+田, TIAN2, 2
+田野, TIAN2 YE3, 2
+甜, TIAN2, 2
+挑, TIAO1, 2
+条约, TIAO2 YUE1, 2
+调整, TIAO2 ZHENG3, 2
+贴, TIE1, 2
+铁, TIE3, 2
+铁路, TIE3 LU4, 2
+听讲, TING1 JIANG3, 2
+停止, TING2 ZHI3, 2
+通讯, TONG1 XUN4, 2
+同, TONG2, 2
+同, TONG2, 2
+同情, TONG2 QING2, 2
+同屋, TONG2 WU1, 2
+同样, TONG2 YANG4, 2
+铜, TONG2, 2
+桶, TONG3, 2
+统一, TONG3 YI1, 2
+统治, TONG3 ZHI4, 2
+痛, TONG4, 2
+痛苦, TONG4 KU3, 2
+偷, TOU1, 2
+偷偷, TOU1 TOU1, 2
+投, TOU2, 2
+投入, TOU2 RU4, 2
+头, TOU2, 2
+头发, TOU2 FA5, 2
+透, TOU4, 2
+突出, TU1 CHU1, 2
+突击, TU1 JI1, 2
+图, TU2, 2
+涂, TU2, 2
+土, TU3, 2
+土地, TU3 DI4, 2
+土豆, TU3 DOU4, 2
+吐, TU3, 2
+吐, TU4, 2
+兔子, TU4 ZI5, 2
+团, TUAN2, 2
+推动, TUI1 DONG4, 2
+推广, TUI1 GUANG3, 2
+拖, TUO1, 2
+托, TUO1, 2
+脱离, TUO1 LI2, 2
+挖, WA1, 2
+哇, WA5, 2
+歪, WAI1, 2
+外地, WAI4 DI4, 2
+外交, WAI4 JIAO1, 2
+外面, WAI4 MIAN5, 2
+弯, WAN1, 2
+完整, WAN2 ZHENG3, 2
+网球, WANG3 QIU2, 2
+往往, WANG3 WANG3, 2
+望, WANG4, 2
+忘记, WANG4 JI4, 2
+微笑, WEI1 XIAO4, 2
+危害, WEI1 HAI4, 2
+危机, WEI1 JI1, 2
+违反, WEI2 FAN3, 2
+围, WEI2, 2
+围绕, WEI2 RAO4, 2
+维护, WEI2 HU4, 2
+委员, WEI3 YUAN2, 2
+尾巴, WEI3 BA5, 2
+未, WEI4, 2
+未来, WEI4 LAI2, 2
+味道, WEI4 DAO5, 2
+胃, WEI4, 2
+喂, WEI4, 2
+位置, WEI4 ZHI5, 2
+卫生, WEI4 SHENG1, 2
+卫星, WEI4 XING1, 2
+温度, WEN1 DU4, 2
+温暖, WEN1 NUAN3, 2
+文件, WEN2 JIAN4, 2
+文明, WEN2 MING2, 2
+文物, WEN2 WU4, 2
+文字, WEN2 ZI4, 2
+闻, WEN2, 2
+稳, WEN3, 2
+稳定, WEN3 DING4, 2
+问候, WEN4 HOU4, 2
+握, WO4, 2
+污染, WU1 RAN3, 2
+屋, WU1, 2
+无, WU2, 2
+无论, WU2 LUN4, 2
+无数, WU2 SHU4, 2
+无限, WU2 XIAN4, 2
+武器, WU3 QI4, 2
+武术, WU3 SHU4, 2
+雾, WU4, 2
+物价, WU4 JIA4, 2
+物质, WU4 ZHI4, 2
+误会, WU4 HUI4, 2
+西北, XI1 BEI3, 2
+西部, XI1 BU4, 2
+西餐, XI1 CAN1, 2
+西方, XI1 FANG1, 2
+西瓜, XI1 GUA1, 2
+西红柿, XI1 HONG2 SHI4, 2
+西南, XI1 NAN2, 2
+西面, XI1 MIAN4, 2
+吸, XI1, 2
+吸收, XI1 SHOU1, 2
+吸烟, XI1 YAN1, 2
+吸引, XI1 YIN3, 2
+牺牲, XI1 SHENG1, 2
+洗衣机, XI3 YI1 JI1, 2
+系统, XI4 TONG3, 2
+戏, XI4, 2
+细菌, XI4 JUN1, 2
+细心, XI4 XIN1, 2
+下班, XIA4 BAN1, 2
+下面, XIA4 MIAN5, 2
+吓, XIA4, 2
+掀, XIAN1, 2
+先后, XIAN1 HOU4, 2
+先进, XIAN1 JIN4, 2
+鲜, XIAN1, 2
+鲜花, XIAN1 HUA1, 2
+纤维, XIAN1 WEI2, 2
+闲, XIAN2, 2
+显得, XIAN3 DE5, 2
+显然, XIAN3 RAN2, 2
+显著, XIAN3 ZHU4, 2
+现代化, XIAN4 DAI4 HUA4, 2
+现实, XIAN4 SHI2, 2
+现象, XIAN4 XIANG4, 2
+献, XIAN4, 2
+县, XIAN4, 2
+羡慕, XIAN4 MU4, 2
+限制, XIAN4 ZHI4, 2
+线, XIAN4, 2
+相, XIANG1, 2
+相当, XIANG1 DANG1, 2
+相反, XIANG1 FAN3, 2
+相互, XIANG1 HU4, 2
+相似, XIANG1 SI4, 2
+相同, XIANG1 TONG2, 2
+香肠, XIANG1 CHANG2, 2
+香皂, XIANG1 ZAO4, 2
+箱子, XIANG1 ZI5, 2
+乡, XIANG1, 2
+乡下, XIANG1 XIA5, 2
+详细, XIANG2 XI4, 2
+想法, XIANG3 FA3, 2
+想念, XIANG3 NIAN4, 2
+想象, XIANG3 XIANG4, 2
+响应, XIANG3 YING4, 2
+享受, XIANG3 SHOU4, 2
+项, XIANG4, 2
+项目, XIANG4 MU4, 2
+象, XIANG4, 2
+消费, XIAO1 FEI4, 2
+消化, XIAO1 HUA4, 2
+消灭, XIAO1 MIE4, 2
+消失, XIAO1 SHI1, 2
+晓得, XIAO3 DE2, 2
+小伙子, XIAO3 HUO3 ZI5, 2
+小麦, XIAO3 MAI4, 2
+小朋友, XIAO3 PENG2 YOU5, 2
+小说, XIAO3 SHUO1, 2
+小心, XIAO3 XIN1, 2
+小学, XIAO3 XUE2, 2
+校长, XIAO4 ZHANG3, 2
+笑话, XIAO4 HUA5, 2
+效果, XIAO4 GUO3, 2
+效率, XIAO4 LÜ4, 2
+歇, XIE1, 2
+斜, XIE2, 2
+血, XIE3, 2
+新鲜, XIN1 XIAN1, 2
+心得, XIN1 DE2, 2
+心情, XIN1 QING2, 2
+心脏, XIN1 ZANG4, 2
+信, XIN4, 2
+信心, XIN4 XIN1, 2
+星星, XING1 XING5, 2
+兴奋, XING1 FEN4, 2
+形成, XING2 CHENG2, 2
+形容, XING2 RONG2, 2
+形式, XING2 SHI4, 2
+形势, XING2 SHI4, 2
+形象, XING2 XIANG4, 2
+形状, XING2 ZHUANG4, 2
+行, XING2, 2
+行动, XING2 DONG4, 2
+行李, XING2 LI5, 2
+醒, XING3, 2
+兴趣, XING4 QU4, 2
+性, XING4, 2
+性格, XING4 GE2, 2
+性质, XING4 ZHI4, 2
+姓名, XING4 MING2, 2
+兄弟, XIONG1 DI5, 2
+胸, XIONG1, 2
+雄, XIONG2, 2
+雄伟, XIONG2 WEI3, 2
+熊猫, XIONG2 MAO1, 2
+修, XIU1, 2
+修改, XIU1 GAI3, 2
+修理, XIU1 LI3, 2
+虚心, XU1 XIN1, 2
+许, XU3, 2
+宣布, XUAN1 BU4, 2
+宣传, XUAN1 CHUAN2, 2
+选, XUAN3, 2
+选举, XUAN3 JU3, 2
+选择, XUAN3 ZE2, 2
+学, XUE2, 2
+学费, XUE2 FEI4, 2
+学期, XUE2 QI1, 2
+学术, XUE2 SHU4, 2
+学问, XUE2 WEN5, 2
+血液, XUE4 YE4, 2
+寻找, XUN2 ZHAO3, 2
+训练, XUN4 LIAN4, 2
+迅速, XUN4 SU4, 2
+压, YA1, 2
+压迫, YA1 PO4, 2
+牙, YA2, 2
+牙刷, YA2 SHUA1, 2
+盐, YAN2, 2
+严格, YAN2 GE2, 2
+严肃, YAN2 SU4, 2
+严重, YAN2 ZHONG4, 2
+研究所, YAN2 JIU1 SUO3, 2
+延长, YAN2 CHANG2, 2
+沿, YAN2, 2
+眼, YAN3, 2
+眼镜, YAN3 JING4, 2
+眼泪, YAN3 LEI4, 2
+眼前, YAN3 QIAN2, 2
+演, YAN3, 2
+演员, YAN3 YUAN2, 2
+咽, YAN4, 2
+圆光, YUAN2 GUANG1, 2
+阳光, YANG2 GUANG1, 2
+养, YANG3, 2
+样, YANG4, 2
+邀请, YAO1 QING3, 2
+腰, YAO1, 2
+摇, YAO2, 2
+咬, YAO3, 2
+要紧, YAO4 JIN3, 2
+爷爷, YE2 YE5, 2
+业务, YE4 WU4, 2
+业余, YE4 YU2, 2
+叶子, YE4 ZI5, 2
+夜里, YE4 LI5, 2
+夜晚, YE4 WAN3, 2
+一, YI1, 2
+一半, YI1 BAN4, 2
+一边, YI1 BIAN1, 2
+一_也_, YI1 YE3, 2
+一方_一方面_, YI1 FANG1 YI1 FANG1 MIAN4, 2
+一齐, YI1 QI2, 2
+一生, YI1 SHENG1, 2
+一时, YI1 SHI2, 2
+一同, YI1 TONG2, 2
+一下子, YI1 XIA4 ZI5, 2
+一致, YI1 ZHI4, 2
+一道, YI1 DAO4, 2
+医务室, YI1 WU4 SHI4, 2
+医学, YI1 XUE2, 2
+依靠, YI1 KAO4, 2
+移, YI2, 2
+移动, YI2 DONG4, 2
+仪器, YI2 QI4, 2
+疑问, YI2 WEN4, 2
+已, YI3, 2
+以, YI3, 2
+以及, YI3 JI2, 2
+以来, YI3 LAI2, 2
+以内, YI3 NEI4, 2
+以上, YI3 SHANG4, 2
+以外, YI3 WAI4, 2
+以下, YI3 XIA4, 2
+意外, YI4 WAI4, 2
+意志, YI4 ZHI4, 2
+议论, YI4 LUN4, 2
+异常, YI4 CHANG2, 2
+因此, YIN1 CI3, 2
+因而, YIN1 ER2, 2
+因素, YIN1 SU4, 2
+银, YIN2, 2
+引起, YIN3 QI3, 2
+印, YIN4, 2
+印刷, YIN4 SHUA1, 2
+印象, YIN4 XIANG4, 2
+英雄, YING1 XIONG2, 2
+英勇, YING1 YONG3, 2
+应, YING1, 2
+应当, YING1 DANG1, 2
+营养, YING2 YANG3, 2
+营业, YING2 YE4, 2
+迎接, YING2 JIE1, 2
+影子, YING3 ZI5, 2
+应用, YING4 YONG4, 2
+硬, YING4, 2
+拥抱, YONG1 BAO4, 2
+拥护, YONG1 HU4, 2
+勇敢, YONG3 GAN3, 2
+勇气, YONG3 QI4, 2
+用不着, YONG4 BU5 ZHAO2, 2
+用处, YONG4 CHU5, 2
+用功, YONG4 GONG1, 2
+用力, YONG4 LI4, 2
+优点, YOU1 DIAN3, 2
+优良, YOU1 LIANG2, 2
+优美, YOU1 MEI3, 2
+优秀, YOU1 XIU4, 2
+悠久, YOU1 JIU3, 2
+由, YOU2, 2
+由于, YOU2 YU2, 2
+油, YOU2, 2
+游览, YOU2 LAN3, 2
+游泳池, YOU2 YONG3 CHI2, 2
+有的是, YOU3 DE5 SHI4, 2
+有点儿, YOU3 DIAN3 R5, 2
+有关, YOU3 GUAN1, 2
+有利, YOU3 LI4, 2
+有力, YOU3 LI4, 2
+有趣, YOU3 QU4, 2
+有时, YOU3 SHI2, 2
+有效, YOU3 XIAO4, 2
+有用, YOU3 YONG4, 2
+右边, YOU4 BIAN5, 2
+于, YU2, 2
+于是, YU2 SHI4, 2
+雨衣, YU3 YI1, 2
+与, YU3, 2
+语调, YU3 DIAO4, 2
+语气, YU3 QI4, 2
+语音, YU3 YIN1, 2
+羽毛球, YU3 MAO2 QIU2, 2
+玉米, YU4 MI3, 2
+遇, YU4, 2
+遇见, YU4 JIAN4, 2
+预备, YU4 BEI4, 2
+员, YUAN2, 2
+原料, YUAN2 LIAO4, 2
+原因, YUAN2 YIN1, 2
+原则, YUAN2 ZE2, 2
+圆珠笔, YUAN2 ZHU1 BI3, 2
+愿望, YUAN4 WANG4, 2
+院, YUAN4, 2
+院长, YUAN4 ZHANG3, 2
+院子, YUAN4 ZI5, 2
+约, YUE1, 2
+约会, YUE1 HUI4, 2
+越_越_, YUE4 YUE4, 2
+越来越_, YUE4 LAI2 YUE4, 2
+阅读, YUE4 DU2, 2
+阅览室, YUE4 LAN3 SHI4, 2
+允许, YUN3 XU3, 2
+运, YUN4, 2
+运动会, YUN4 DONG4 HUI4, 2
+运动员, YUN4 DONG4 YUAN2, 2
+运输, YUN4 SHU1, 2
+运用, YUN4 YONG4, 2
+咋, ZA3, 2
+杂技, ZA2 JI4, 2
+灾, ZAI1, 2
+灾害, ZAI1 HAI4, 2
+暂时, ZAN4 SHI2, 2
+赞成, ZAN4 CHENG2, 2
+遭到, ZAO1 DAO4, 2
+遭受, ZAO1 SHOU4, 2
+糟糕, ZAO1 GAO1, 2
+造, ZAO4, 2
+造句, ZAO4 JU4, 2
+责任, ZE2 REN4, 2
+则, ZE2, 2
+增长, ZENG1 ZHANG3, 2
+扎, ZHA1, 2
+摘, ZHAI1, 2
+窄, ZHAI3, 2
+粘, ZHAN1, 2
+展出, ZHAN3 CHU1, 2
+展开, ZHAN3 KAI1, 2
+展览会, ZHAN3 LAN3 HUI4, 2
+战斗, ZHAN4 DOU4, 2
+战胜, ZHAN4 SHENG4, 2
+战士, ZHAN4 SHI4, 2
+战争, ZHAN4 ZHENG1, 2
+章, ZHANG1, 2
+涨, ZHANG3, 2
+丈, ZHANG4, 2
+丈夫, ZHANG4 FU5, 2
+招待, ZHAO1 DAI4, 2
+招待会, ZHAO1 DAI4 HUI4, 2
+招呼, ZHAO1 HU5, 2
+着, ZHAO2, 2
+照, ZHAO4, 2
+照常, ZHAO4 CHANG2, 2
+照片, ZHAO4 PIAN4, 2
+召开, ZHAO4 KAI1, 2
+折, ZHE2, 2
+哲学, ZHE2 XUE2, 2
+这边, ZHE4 BIAN1, 2
+真理, ZHEN1 LI3, 2
+真实, ZHEN1 SHI2, 2
+针, ZHEN1, 2
+针对, ZHEN1 DUI4, 2
+阵, ZHEN4, 2
+睁, ZHENG1, 2
+征求, ZHENG1 QIU2, 2
+争, ZHENG1, 2
+争论, ZHENG1 LUN4, 2
+争取, ZHENG1 QU3, 2
+整个, ZHENG3 GE4, 2
+整理, ZHENG3 LI3, 2
+正, ZHENG4, 2
+正常, ZHENG4 CHANG2, 2
+正好, ZHENG4 HAO3, 2
+正式, ZHENG4 SHI4, 2
+政策, ZHENG4 CE4, 2
+证明, ZHENG4 MING2, 2
+支持, ZHI1 CHI2, 2
+支援, ZHI1 YUAN2, 2
+之后, ZHI1 HOU4, 2
+之前, ZHI1 QIAN2, 2
+之上, ZHI1 SHANG4, 2
+之下, ZHI1 XIA4, 2
+之一, ZHI1 YI1, 2
+之中, ZHI1 ZHONG1, 2
+织, ZHI1, 2
+职工, ZHI2 GONG1, 2
+职业, ZHI2 YE4, 2
+直, ZHI2, 2
+直, ZHI2, 2
+直到, ZHI2 DAO4, 2
+直接, ZHI2 JIE1, 2
+植物, ZHI2 WU4, 2
+执行, ZHI2 XING2, 2
+值得, ZHI2 DE5, 2
+指出, ZHI3 CHU1, 2
+指导, ZHI3 DAO3, 2
+指挥, ZHI3 HUI1, 2
+指示, ZHI3 SHI4, 2
+止, ZHI3, 2
+只是, ZHI3 SHI4, 2
+只要, ZHI3 YAO4, 2
+只有, ZHI3 YOU3, 2
+至, ZHI4, 2
+至今, ZHI4 JIN1, 2
+至少, ZHI4 SHAO3, 2
+制定, ZHI4 DING4, 2
+制订, ZHI4 DING4, 2
+制度, ZHI4 DU4, 2
+制造, ZHI4 ZAO4, 2
+秩序, ZHI4 XU4, 2
+质量, ZHI4 LIANG4, 2
+治, ZHI4, 2
+中餐, ZHONG1 CAN1, 2
+中心, ZHONG1 XIN1, 2
+中央, ZHONG1 YANG1, 2
+中药, ZHONG1 YAO4, 2
+终于, ZHONG1 YU2, 2
+种子, ZHONG3 ZI5, 2
+种, ZHONG4, 2
+重大, ZHONG4 DA4, 2
+重点, ZHONG4 DIAN3, 2
+重量, ZHONG4 LIANG4, 2
+重视, ZHONG4 SHI4, 2
+周到, ZHOU1 DAO5, 2
+株, ZHU1, 2
+逐步, ZHU2 BU4, 2
+逐渐, ZHU2 JIAN4, 2
+竹子, ZHU2 ZI5, 2
+煮, ZHU3, 2
+主动, ZHU3 DONG4, 2
+主观, ZHU3 GUAN1, 2
+主人, ZHU3 REN2, 2
+主任, ZHU3 REN4, 2
+主席, ZHU3 XI2, 2
+主张, ZHU3 ZHANG1, 2
+著名, ZHU4 MING2, 2
+著作, ZHU4 ZUO4, 2
+住院, ZHU4 YUAN4, 2
+祝贺, ZHU4 HE4, 2
+抓, ZHUA1, 2
+抓紧, ZHUA1 JIN3, 2
+专家, ZHUAN1 JIA1, 2
+专门, ZHUAN1 MEN2, 2
+专心, ZHUAN1 XIN1, 2
+专业, ZHUAN1 YE4, 2
+转, ZHUAN3, 2
+转变, ZHUAN3 BIAN4, 2
+转告, ZHUAN3 GAO4, 2
+转, ZHUAN4, 2
+庄稼, ZHUANG1 JIA5, 2
+庄严, ZHUANG1 YAN2, 2
+撞, ZHUANG4, 2
+状况, ZHUANG4 KUANG4, 2
+状态, ZHUANG4 TAI4, 2
+追, ZHUI1, 2
+准, ZHUN3, 2
+准确, ZHUN3 QUE4, 2
+准时, ZHUN3 SHI2, 2
+捉, ZHUO1, 2
+资料, ZI1 LIAO4, 2
+资源, ZI1 YUAN2, 2
+紫, ZI3, 2
+仔细, ZI3 XI4, 2
+自, ZI4, 2
+自从, ZI4 CONG2, 2
+自动, ZI4 DONG4, 2
+自费, ZI4 FEI4, 2
+自觉, ZI4 JUE2, 2
+自然, ZI4 RAN2, 2
+自我, ZI4 WO3, 2
+自学, ZI4 XUE2, 2
+自由, ZI4 YOU2, 2
+综合, ZONG1 HE2, 2
+总结, ZONG3 JIE2, 2
+总理, ZONG3 LI3, 2
+总统, ZONG3 TONG3, 2
+走道, ZOU3 DAO4, 2
+组, ZU3, 2
+钻, ZUAN1, 2
+钻研, ZUAN1 YAN2, 2
+醉, ZUI4, 2
+最好, ZUI4 HAO3, 2
+尊敬, ZUN1 JING4, 2
+遵守, ZUN1 SHOU3, 2
+左边, ZUO3 BIAN5, 2
+左右, ZUO3 YOU4, 2
+做法, ZUO4 FA3, 2
+做客, ZUO4 KE4, 2
+做梦, ZUO4 MENG4, 2
+作家, ZUO4 JIA1, 2
+作品, ZUO4 PIN3, 2
+作为, ZUO4 WEI2, 2
+作文, ZUO4 WEN2, 2
+作用, ZUO4 YONG4, 2
+作者, ZUO4 ZHE3, 2
+坐班, ZUO4 BAN1, 2
+座谈, ZUO4 TAN2, 2
+座位, ZUO4 WEI4, 2
+连续, LIAN2 XU4, 2
+哎哟, AI1 YO1, 3
+唉, AI1, 3
+挨, AI2, 3
+癌, AI2, 3
+安, AN1, 3
+安定, AN1 DING4, 3
+安装, AN1 ZHUANG1, 3
+按期, AN4 QI1, 3
+暗暗, AN4 AN4, 3
+熬, AO2, 3
+奥秘, AO4 MI4, 3
+扒, BA1, 3
+把, BA3, 3
+把握, BA3 WO4, 3
+坝, BA4, 3
+罢, BA4, 3
+罢工, BA4 GONG1, 3
+白白, BAI2 BAI2, 3
+百货, BAI3 HUO4, 3
+柏树, BAI3 SHU4, 3
+摆脱, BAI3 TUO1, 3
+拜访, BAI4 FANG3, 3
+拜会, BAI4 HUI4, 3
+般, BAN1, 3
+瓣, BAN4, 3
+半岛, BAN4 DAO3, 3
+办理, BAN4 LI3, 3
+帮, BANG1, 3
+绑, BANG3, 3
+棒, BANG4, 3
+棒, BANG4, 3
+磅, BANG4, 3
+包袱, BAO1 FU5, 3
+包含, BAO1 HAN2, 3
+包围, BAO1 WEI2, 3
+剥, BAO1, 3
+保管, BAO3 GUAN3, 3
+保密, BAO3 MI4, 3
+保守, BAO3 SHOU3, 3
+保险, BAO3 XIAN3, 3
+保障, BAO3 ZHANG4, 3
+宝, BAO3, 3
+宝石, BAO3 SHI2, 3
+报, BAO4, 3
+报仇, BAO4 CHOU2, 3
+报酬, BAO4 CHOU5, 3
+报复, BAO4 FU4, 3
+报刊, BAO4 KAN1, 3
+报社, BAO4 SHE4, 3
+暴露, BAO4 LU4, 3
+暴雨, BAO4 YU3, 3
+爆发, BAO4 FA1, 3
+爆炸, BAO4 ZHA4, 3
+悲哀, BEI1 AI1, 3
+悲观, BEI1 GUAN1, 3
+辈, BEI4, 3
+背包, BEI4 BAO1, 3
+背景, BEI4 JING3, 3
+背诵, BEI4 SONG4, 3
+背心, BEI4 XIN1, 3
+被动, BEI4 DONG4, 3
+被迫, BEI4 PO4, 3
+奔, BEN1, 3
+奔跑, BEN1 PAO3, 3
+本人, BEN3 REN2, 3
+本身, BEN3 SHEN1, 3
+奔, BEN4, 3
+甭, BENG2, 3
+比方, BI3 FANG5, 3
+笔试, BI3 SHI4, 3
+彼此, BI3 CI3, 3
+毕竟, BI4 JING4, 3
+闭幕, BI4 MU4, 3
+必, BI4, 3
+必定, BI4 DING4, 3
+必修, BI4 XIU1, 3
+必需, BI4 XU1, 3
+壁, BI4, 3
+边疆, BIAN1 JIANG1, 3
+边界, BIAN1 JIE4, 3
+边缘, BIAN1 YUAN2, 3
+编辑, BIAN1 JI2, 3
+编制, BIAN1 ZHI4, 3
+便利, BIAN4 LI4, 3
+便于, BIAN4 YU2, 3
+变动, BIAN4 DONG4, 3
+变革, BIAN4 GE2, 3
+辩论, BIAN4 LUN4, 3
+标语, BIAO1 YU3, 3
+标志, BIAO1 ZHI4, 3
+表情, BIAO3 QING2, 3
+别, BIE2, 3
+别处, BIE2 CHU4, 3
+别字, BIE2 ZI4, 3
+冰棍儿, BING1 GUN4 R5, 3
+柄, BING3, 3
+丙, BING3, 3
+饼, BING3, 3
+病床, BING4 CHUANG2, 3
+病情, BING4 QING2, 3
+剥削, BO1 XUE1, 3
+播, BO1, 3
+播送, BO1 SONG4, 3
+拨, BO1, 3
+波浪, BO1 LANG4, 3
+菠菜, BO1 CAI4, 3
+博士, BO2 SHI4, 3
+博物馆, BO2 WU4 GUAN3, 3
+薄弱, BO2 RUO4, 3
+不安, BU4 AN1, 3
+不比, BU4 BI3, 3
+不曾, BU4 CENG2, 3
+不对, BU4 DUI4, 3
+不够, BU4 GOU4, 3
+不顾, BU4 GU4, 3
+不见, BU4 JIAN4, 3
+不见得, BU4 JIAN4 DE5, 3
+不禁, BU4 JIN1, 3
+不觉, BU4 JUE2, 3
+不可, BU4 KE3, 3
+不利, BU4 LI4, 3
+不料, BU4 LIAO4, 3
+不满, BU4 MAN3, 3
+不免, BU4 MIAN3, 3
+不是, BU4 SHI4, 3
+不是_而是_, BU4 SHI4 ER2 SHI4, 3
+不是_就是_, BU4 SHI4 JIU4 SHI4, 3
+不停, BU4 TING2, 3
+不像话, BU4 XIANG4 HUA4, 3
+不由得, BU4 YOU2 DE5, 3
+不在乎, BU4 ZAI4 HU5, 3
+不怎么样, BU4 ZEN3 ME5 YANG4, 3
+不止, BU4 ZHI3, 3
+不只, BU4 ZHI3, 3
+不足, BU4 ZU2, 3
+布告, BU4 GAO4, 3
+步骤, BU4 ZHOU4, 3
+部署, BU4 SHU3, 3
+猜想, CAI1 XIANG3, 3
+裁缝, CAI2 FENG5, 3
+裁判, CAI2 PAN4, 3
+才, CAI2, 3
+才能, CAI2 NENG2, 3
+财产, CAI2 CHAN3, 3
+财富, CAI2 FU4, 3
+财政, CAI2 ZHENG4, 3
+餐车, CAN1 CHE1, 3
+参考, CAN1 KAO3, 3
+参谋, CAN1 MOU2, 3
+蚕, CAN2, 3
+残酷, CAN2 KU4, 3
+惭愧, CAN2 KUI4, 3
+惨, CAN3, 3
+灿烂, CAN4 LAN4, 3
+苍白, CANG1 BAI2, 3
+苍蝇, CANG1 YING5, 3
+舱, CANG1, 3
+仓库, CANG1 KU4, 3
+操心, CAO1 XIN1, 3
+操纵, CAO1 ZONG4, 3
+操作, CAO1 ZUO4, 3
+草案, CAO3 AN4, 3
+侧, CE4, 3
+测, CE4, 3
+测量, CE4 LIANG2, 3
+测试, CE4 SHI4, 3
+插秧, CHA1 YANG1, 3
+差别, CHA1 BIE2, 3
+茶馆, CHA2 GUAN3, 3
+茶话会, CHA2 HUA4 HUI4, 3
+茶叶, CHA2 YE4, 3
+铲, CHAN3, 3
+产物, CHAN3 WU4, 3
+产值, CHAN3 ZHI2, 3
+颤动, CHAN4 DONG4, 3
+颤抖, CHAN4 DOU3, 3
+常识, CHANG2 SHI2, 3
+长度, CHANG2 DU4, 3
+长久, CHANG2 JIU3, 3
+长远, CHANG2 YUAN3, 3
+肠, CHANG2, 3
+厂长, CHANG3 ZHANG3, 3
+场地, CHANG3 DI4, 3
+场合, CHANG3 HE2, 3
+场面, CHANG3 MIAN4, 3
+超额, CHAO1 E2, 3
+钞票, CHAO1 PIAO4, 3
+潮, CHAO2, 3
+潮湿, CHAO2 SHI1, 3
+吵架, CHAO3 JIA4, 3
+炒, CHAO3, 3
+车辆, CHE1 LIANG4, 3
+车厢, CHE1 XIANG1, 3
+扯, CHE3, 3
+撤, CHE4, 3
+尘土, CHEN2 TU3, 3
+沉, CHEN2, 3
+沉思, CHEN2 SI1, 3
+沉重, CHEN2 ZHONG4, 3
+陈列, CHEN2 LIE4, 3
+撑, CHENG1, 3
+称呼, CHENG1 HU5, 3
+成, CHENG2, 3
+成本, CHENG2 BEN3, 3
+成千上万, CHENG2 QIAN1 SHANG4 WAN4, 3
+成天, CHENG2 TIAN1, 3
+成语, CHENG2 YU3, 3
+成员, CHENG2 YUAN2, 3
+乘客, CHENG2 KE4, 3
+盛, CHENG2, 3
+程序, CHENG2 XU4, 3
+承包, CHENG2 BAO1, 3
+承担, CHENG2 DAN1, 3
+吃苦, CHI1 KU3, 3
+吃亏, CHI1 KUI1, 3
+吃力, CHI1 LI4, 3
+持久, CHI2 JIU3, 3
+池, CHI2, 3
+迟, CHI2, 3
+尺寸, CHI3 CUN5, 3
+尺子, CHI3 ZI5, 3
+赤道, CHI4 DAO4, 3
+充实, CHONG1 SHI2, 3
+冲击, CHONG1 JI1, 3
+冲突, CHONG1 TU1, 3
+冲, CHONG4, 3
+仇, CHOU2, 3
+仇恨, CHOU2 HEN4, 3
+丑, CHOU3, 3
+初期, CHU1 QI1, 3
+初中, CHU1 ZHONG1, 3
+出路, CHU1 LU4, 3
+出卖, CHU1 MAI4, 3
+出门, CHU1 MEN2, 3
+出难题, CHU1 NAN2 TI2, 3
+出身, CHU1 SHEN1, 3
+出事, CHU1 SHI4, 3
+出息, CHU1 XI5, 3
+出洋相, CHU1 YANG2 XIANG4, 3
+出租, CHU1 ZU1, 3
+除, CHU2, 3
+除非, CHU2 FEI1, 3
+处于, CHU3 YU2, 3
+处处, CHU4 CHU4, 3
+传达, CHUAN2 DA2, 3
+传染, CHUAN2 RAN3, 3
+传说, CHUAN2 SHUO1, 3
+喘, CHUAN3, 3
+串, CHUAN4, 3
+窗口, CHUANG1 KOU3, 3
+窗帘, CHUANG1 LIAN2, 3
+窗台, CHUANG1 TAI2, 3
+床单, CHUANG2 DAN1, 3
+创立, CHUANG4 LI4, 3
+创新, CHUANG4 XIN1, 3
+垂, CHUI2, 3
+垂直, CHUI2 ZHI2, 3
+春季, CHUN1 JI4, 3
+纯, CHUN2, 3
+纯洁, CHUN2 JIE2, 3
+瓷, CI2, 3
+词汇, CI2 HUI4, 3
+此刻, CI3 KE4, 3
+刺激, CI4 JI1, 3
+次, CI4, 3
+次要, CI4 YAO5, 3
+伺候, CI4 HOU5, 3
+匆忙, CONG1 MANG2, 3
+从容, CONG2 RONG2, 3
+丛, CONG2, 3
+凑, COU4, 3
+粗心, CU1 XIN1, 3
+粗心大意, CU1 XIN1 DA4 YI4, 3
+促使, CU4 SHI3, 3
+窜, CUAN4, 3
+摧毁, CUI1 HUI3, 3
+村庄, CUN1 ZHUANG1, 3
+村子, CUN1 ZI5, 3
+搓, CUO1, 3
+挫折, CUO4 ZHE2, 3
+错字, CUO4 ZI4, 3
+答复, DA2 FU4, 3
+达, DA2, 3
+达成, DA2 CHENG2, 3
+打, DA3, 3
+打败, DA3 BAI4, 3
+打击, DA3 JI1, 3
+打架, DA3 JIA4, 3
+打交道, DA3 JIAO1 DAO4, 3
+打量, DA3 LIANG5, 3
+打破, DA3 PO4, 3
+打扫, DA3 SAO3, 3
+打仗, DA3 ZHANG4, 3
+打招呼, DA3 ZHAO1 HU5, 3
+大半, DA4 BAN4, 3
+大便, DA4 BIAN4, 3
+大大, DA4 DA4, 3
+大道, DA4 DAO4, 3
+大地, DA4 DI4, 3
+大都, DA4 DU1, 3
+大队, DA4 DUI4, 3
+大方, DA4 FANG5, 3
+大哥, DA4 GE1, 3
+大力, DA4 LI4, 3
+大脑, DA4 NAO3, 3
+大嫂, DA4 SAO3, 3
+大使, DA4 SHI3, 3
+大意, DA4 YI4, 3
+大致, DA4 ZHI4, 3
+大众, DA4 ZHONG4, 3
+大自然, DA4 ZI4 RAN2, 3
+带儿, DAI4 R5, 3
+带动, DAI4 DONG4, 3
+带领, DAI4 LING3, 3
+带头, DAI4 TOU2, 3
+代, DAI4, 3
+代办, DAI4 BAN4, 3
+代价, DAI4 JIA4, 3
+代理, DAI4 LI3, 3
+待遇, DAI4 YU4, 3
+逮捕, DAI4 BU3, 3
+耽误, DAN1 WU5, 3
+担, DAN1, 3
+担负, DAN1 FU4, 3
+单纯, DAN1 CHUN2, 3
+单独, DAN1 DU2, 3
+胆, DAN3, 3
+诞生, DAN4 SHENG1, 3
+蛋白质, DAN4 BAI2 ZHI4, 3
+当, DANG1, 3
+当初, DANG1 CHU1, 3
+当代, DANG1 DAI4, 3
+当家, DANG1 JIA1, 3
+当面, DANG1 MIAN4, 3
+当中, DANG1 ZHONG1, 3
+党派, DANG3 PAI4, 3
+党委, DANG3 WEI3, 3
+档案, DANG4 AN4, 3
+倒霉, DAO3 MEI2, 3
+倒腾, DAO3 TENG5, 3
+岛屿, DAO3 YU3, 3
+导弹, DAO3 DAN4, 3
+导师, DAO3 SHI1, 3
+导演, DAO3 YAN3, 3
+导致, DAO3 ZHI4, 3
+到_为止_, DAO4 WEI2 ZHI3, 3
+得病, DE2 BING4, 3
+得了, DE2 LIAO3, 3
+得意, DE2 YI4, 3
+灯火, DENG1 HUO3, 3
+灯笼, DENG1 LONG5, 3
+蹬, DENG1, 3
+等到, DENG3 DAO4, 3
+等候, DENG3 HOU4, 3
+瞪, DENG4, 3
+凳子, DENG4 ZI5, 3
+堤, DI1, 3
+滴, DI1, 3
+抵, DI3, 3
+抵抗, DI3 KANG4, 3
+底, DI3, 3
+底片, DI3 PIAN4, 3
+地板, DI4 BAN3, 3
+地步, DI4 BU4, 3
+地道, DI4 DAO4, 3
+地理, DI4 LI3, 3
+地势, DI4 SHI4, 3
+地毯, DI4 TAN3, 3
+地形, DI4 XING2, 3
+地震, DI4 ZHEN4, 3
+地质, DI4 ZHI4, 3
+地主, DI4 ZHU3, 3
+弟兄, DI4 XIONG5, 3
+典礼, DIAN3 LI3, 3
+典型, DIAN3 XING2, 3
+电池, DIAN4 CHI2, 3
+电力, DIAN4 LI4, 3
+电铃, DIAN4 LING2, 3
+电流, DIAN4 LIU2, 3
+电炉, DIAN4 LU2, 3
+电脑, DIAN4 NAO3, 3
+电器, DIAN4 QI4, 3
+电线, DIAN4 XIAN4, 3
+电压, DIAN4 YA1, 3
+电子, DIAN4 ZI3, 3
+惦记, DIAN4 JI4, 3
+垫, DIAN4, 3
+奠定, DIAN4 DING4, 3
+雕刻, DIAO1 KE4, 3
+调动, DIAO4 DONG4, 3
+爹, DIE1, 3
+叠, DIE2, 3
+丁, DING1, 3
+盯, DING1, 3
+钉, DING1, 3
+钉子, DING1 ZI5, 3
+顶, DING3, 3
+顶, DING3, 3
+定期, DING4 QI1, 3
+订婚, DING4 HUN1, 3
+动机, DONG4 JI1, 3
+懂事, DONG3 SHI4, 3
+冬季, DONG1 JI4, 3
+动静, DONG4 JING5, 3
+动力, DONG4 LI4, 3
+动摇, DONG4 YAO2, 3
+抖, DOU3, 3
+陡, DOU3, 3
+斗, DOU4, 3
+豆浆, DOU4 JIANG1, 3
+豆子, DOU4 ZI5, 3
+毒, DU2, 3
+毒, DU2, 3
+独特, DU2 TE4, 3
+独自, DU2 ZI4, 3
+读物, DU2 WU4, 3
+端, DUAN1, 3
+端正, DUAN1 ZHENG4, 3
+堆, DUI1, 3
+堆积, DUI1 JI1, 3
+兑换, DUI4 HUAN4, 3
+队员, DUI4 YUAN2, 3
+对得起, DUI4 DE5 QI3, 3
+对_来说, DUI4 LAI2 SHUO1, 3
+对了, DUI4 LE5, 3
+对立, DUI4 LI4, 3
+对门, DUI4 MEN2, 3
+顿时, DUN4 SHI2, 3
+哆嗦, DUO1 SUO5, 3
+多半, DUO1 BAN4, 3
+多亏, DUO1 KUI1, 3
+多劳多得, DUO1 LAO2 DUO1 DE2, 3
+多余, DUO1 YU2, 3
+夺取, DUO2 QU3, 3
+俄语, E2 YU3, 3
+恶心, E3 XIN5, 3
+恶, E4, 3
+恶化, E4 HUA4, 3
+恶劣, E4 LIE4, 3
+儿女, ER2 NÜ3, 3
+发电, FA1 DIAN4, 3
+发觉, FA1 JUE2, 3
+发射, FA1 SHE4, 3
+发行, FA1 XING2, 3
+发育, FA1 YU4, 3
+罚, FA2, 3
+法令, FA3 LING4, 3
+法院, FA3 YUAN4, 3
+法制, FA3 ZHI4, 3
+法子, FA3 ZI5, 3
+番, FAN1, 3
+翻身, FAN1 SHEN1, 3
+繁殖, FAN2 ZHI2, 3
+凡是, FAN2 SHI4, 3
+烦, FAN2, 3
+反, FAN3, 3
+反, FAN3, 3
+反而, FAN3 ER2, 3
+反击, FAN3 JI1, 3
+反问, FAN3 WEN4, 3
+返, FAN3, 3
+犯人, FAN4 REN2, 3
+犯罪, FAN4 ZUI4, 3
+饭馆, FAN4 GUAN3, 3
+泛滥, FAN4 LAN4, 3
+方, FANG1, 3
+房屋, FANG2 WU1, 3
+防守, FANG2 SHOU3, 3
+防御, FANG2 YU4, 3
+防治, FANG2 ZHI4, 3
+妨碍, FANG2 AI4, 3
+纺, FANG3, 3
+放手, FANG4 SHOU3, 3
+放松, FANG4 SONG1, 3
+放学, FANG4 XUE2, 3
+放映, FANG4 YING4, 3
+非, FEI1, 3
+非, FEI1, 3
+飞快, FEI1 KUAI4, 3
+飞行, FEI1 XING2, 3
+飞跃, FEI1 YUE4, 3
+肥料, FEI2 LIAO4, 3
+肥皂, FEI2 ZAO4, 3
+废, FEI4, 3
+废除, FEI4 CHU2, 3
+废话, FEI4 HUA4, 3
+废墟, FEI4 XU1, 3
+沸腾, FEI4 TENG2, 3
+费力, FEI4 LI4, 3
+分布, FEN1 BU4, 3
+分割, FEN1 GE1, 3
+分工, FEN1 GONG1, 3
+分解, FEN1 JIE3, 3
+分离, FEN1 LI2, 3
+分裂, FEN1 LIE4, 3
+分泌, FEN1 MI4, 3
+分明, FEN1 MING2, 3
+分散, FEN1 SAN4, 3
+分数, FEN1 SHU4, 3
+分子, FEN1 ZI3, 3
+坟, FEN2, 3
+粉, FEN3, 3
+粉碎, FEN3 SUI4, 3
+分量, FEN1 LIANG4, 3
+分子, FEN4 ZI5, 3
+粪, FEN4, 3
+丰产, FENG1 CHAN3, 3
+丰收, FENG1 SHOU1, 3
+封, FENG1, 3
+封锁, FENG1 SUO3, 3
+风格, FENG1 GE2, 3
+风气, FENG1 QI4, 3
+疯, FENG1, 3
+疯狂, FENG1 KUANG2, 3
+缝, FENG2, 3
+讽刺, FENG3 CI4, 3
+佛教, FO2 JIAO4, 3
+夫妻, FU1 QI1, 3
+服, FU2, 3
+俯, FU3, 3
+腐蚀, FU3 SHI2, 3
+腐朽, FU3 XIU3, 3
+复活节, FU4 HUO2 JIE2, 3
+复制, FU4 ZHI4, 3
+负, FU4, 3
+负担, FU4 DAN1, 3
+富有, FU4 YOU3, 3
+富裕, FU4 YU4, 3
+妇人, FU4 REN2, 3
+改编, GAI3 BIAN1, 3
+改良, GAI3 LIANG2, 3
+盖子, GAI4 ZI5, 3
+干旱, GAN1 HAN4, 3
+干扰, GAN1 RAO3, 3
+干涉, GAN1 SHE4, 3
+甘, GAN1, 3
+赶忙, GAN3 MANG2, 3
+赶上, GAN3 SHANG4, 3
+感受, GAN3 SHOU4, 3
+敢于, GAN3 YU2, 3
+干劲, GAN4 JIN4, 3
+缸, GANG1, 3
+纲领, GANG1 LING3, 3
+岗位, GANG3 WEI4, 3
+港币, GANG3 BI4, 3
+港口, GANG3 KOU3, 3
+高潮, GAO1 CHAO2, 3
+高等, GAO1 DENG3, 3
+高峰, GAO1 FENG1, 3
+高级, GAO1 JI2, 3
+高粱, GAO1 LIANG5, 3
+高尚, GAO1 SHANG4, 3
+高速, GAO1 SU4, 3
+高压, GAO1 YA1, 3
+高中, GAO1 ZHONG1, 3
+稿, GAO3, 3
+告辞, GAO4 CI2, 3
+歌唱, GE1 CHANG4, 3
+歌剧, GE1 JU4, 3
+歌曲, GE1 QU3, 3
+歌颂, GE1 SONG4, 3
+鸽子, GE1 ZI5, 3
+革新, GE2 XIN1, 3
+格外, GE2 WAI4, 3
+隔阂, GE2 HE2, 3
+个儿, GE4 R5, 3
+个体户, GE4 TI3 HU4, 3
+个性, GE4 XING4, 3
+各式各样, GE4 SHI4 GE4 YANG4, 3
+各自, GE4 ZI4, 3
+给以, GEI3 YI3, 3
+根源, GEN1 YUAN2, 3
+耕地, GENG1 DI4, 3
+工地, GONG1 DI4, 3
+工龄, GONG1 LING2, 3
+工钱, GONG1 QIAN5, 3
+工序, GONG1 XU4, 3
+攻, GONG1, 3
+攻击, GONG1 JI1, 3
+攻克, GONG1 KE4, 3
+功课, GONG1 KE4, 3
+功劳, GONG1 LAO2, 3
+功能, GONG1 NENG2, 3
+供应, GONG1 YING4, 3
+公, GONG1, 3
+公安, GONG1 AN1, 3
+公布, GONG1 BU4, 3
+公民, GONG1 MIN2, 3
+公顷, GONG1 QING3, 3
+公式, GONG1 SHI4, 3
+公用, GONG1 YONG4, 3
+宫, GONG1, 3
+宫殿, GONG1 DIAN4, 3
+弓, GONG1, 3
+共和国, GONG4 HE2 GUO2, 3
+共青团, GONG4 QING1 TUAN2, 3
+钩, GOU1, 3
+钩子, GOU1 ZI5, 3
+勾结, GOU1 JIE2, 3
+沟, GOU1, 3
+购, GOU4, 3
+购买, GOU4 MAI3, 3
+辜负, GU1 FU4, 3
+孤立, GU1 LI4, 3
+鼓动, GU3 DONG4, 3
+古典, GU3 DIAN3, 3
+骨干, GU3 GAN4, 3
+谷子, GU3 ZI5, 3
+股, GU3, 3
+雇, GU4, 3
+顾问, GU4 WEN4, 3
+固定, GU4 DING4, 3
+固然, GU4 RAN2, 3
+固体, GU4 TI3, 3
+瓜, GUA1, 3
+瓜子, GUA1 ZI3, 3
+寡妇, GUA3 FU5, 3
+乖, GUAI1, 3
+拐弯儿, GUAI3 WAN1 R5, 3
+怪, GUAI4, 3
+怪, GUAI4, 3
+怪不得, GUAI4 BU5 DE5, 3
+关, GUAN1, 3
+关怀, GUAN1 HUAI2, 3
+关头, GUAN1 TOU2, 3
+官僚主义, GUAN1 LIAO2 ZHU3 YI4, 3
+观测, GUAN1 CE4, 3
+观看, GUAN1 KAN4, 3
+观念, GUAN1 NIAN4, 3
+管道, GUAN3 DAO4, 3
+管子, GUAN3 ZI5, 3
+罐, GUAN4, 3
+惯, GUAN4, 3
+灌, GUAN4, 3
+灌溉, GUAN4 GAI4, 3
+光, GUANG1, 3
+光彩, GUANG1 CAI3, 3
+光滑, GUANG1 HUA5, 3
+光临, GUANG1 LIN2, 3
+广, GUANG3, 3
+规划, GUI1 HUA4, 3
+规矩, GUI1 JU5, 3
+规则, GUI1 ZE2, 3
+归, GUI1, 3
+轨道, GUI3 DAO4, 3
+柜台, GUI4 TAI2, 3
+柜子, GUI4 ZI5, 3
+贵宾, GUI4 BIN1, 3
+棍子, GUN4 ZI5, 3
+锅炉, GUO1 LU2, 3
+国防, GUO2 FANG2, 3
+国籍, GUO2 JI2, 3
+国旗, GUO2 QI2, 3
+国庆节, GUO2 QING4 JIE2, 3
+国务院, GUO2 WU4 YUAN4, 3
+国营, GUO2 YING2, 3
+果实, GUO3 SHI2, 3
+果树, GUO3 SHU4, 3
+裹, GUO3, 3
+过, GUO4, 3
+过渡, GUO4 DU4, 3
+过分, GUO4 FEN4, 3
+咳, HAI1, 3
+海拔, HAI3 BA2, 3
+海军, HAI3 JUN1, 3
+海面, HAI3 MIAN4, 3
+海峡, HAI3 XIA2, 3
+害虫, HAI4 CHONG2, 3
+含糊, HAN2 HU5, 3
+含量, HAN2 LIANG4, 3
+喊叫, HAN3 JIAO4, 3
+旱, HAN4, 3
+焊, HAN4, 3
+行, HANG2, 3
+行列, HANG2 LIE4, 3
+行业, HANG2 YE4, 3
+航行, HANG2 XING2, 3
+毫米, HAO2 MI3, 3
+好, HAO3, 3
+好比, HAO3 BI3, 3
+耗, HAO4, 3
+好奇, HAO4 QI2, 3
+呵, HE1, 3
+核, HE2, 3
+何必, HE2 BI4, 3
+何况, HE2 KUANG4, 3
+合唱, HE2 CHANG4, 3
+合成, HE2 CHENG2, 3
+合法, HE2 FA3, 3
+合格, HE2 GE2, 3
+合金, HE2 JIN1, 3
+合算, HE2 SUAN4, 3
+河流, HE2 LIU2, 3
+黑夜, HEI1 YE4, 3
+痕迹, HEN2 JI4, 3
+狠, HEN3, 3
+恨不得, HEN4 BU5 DE5, 3
+横, HENG2, 3
+宏伟, HONG2 WEI3, 3
+洪水, HONG2 SHUI3, 3
+喉咙, HOU2 LONG2, 3
+吼, HOU3, 3
+后代, HOU4 DAI4, 3
+后方, HOU4 FANG1, 3
+后果, HOU4 GUO3, 3
+后头, HOU4 TOU5, 3
+后退, HOU4 TUI4, 3
+呼呼, HU1 HU1, 3
+忽视, HU1 SHI4, 3
+胡说, HU2 SHUO1, 3
+胡同, HU2 TONG4, 3
+蝴蝶, HU2 DIE2, 3
+护, HU4, 3
+互助, HU4 ZHU4, 3
+花朵, HUA1 DUO3, 3
+花生, HUA1 SHENG1, 3
+哗哗, HUA1 HUA1, 3
+华侨, HUA2 QIAO2, 3
+华人, HUA2 REN2, 3
+滑雪, HUA2 XUE3, 3
+画家, HUA4 JIA1, 3
+画蛇添足, HUA4 SHE2 TIAN1 ZU2, 3
+化工, HUA4 GONG1, 3
+化合, HUA4 HE2, 3
+化石, HUA4 SHI2, 3
+化验, HUA4 YAN4, 3
+话剧, HUA4 JU4, 3
+怀, HUAI2, 3
+怀念, HUAI2 NIAN4, 3
+怀疑, HUAI2 YI2, 3
+坏蛋, HUAI4 DAN4, 3
+欢呼, HUAN1 HU1, 3
+欢乐, HUAN1 LE4, 3
+欢喜, HUAN1 XI3, 3
+缓和, HUAN3 HE2, 3
+缓缓, HUAN3 HUAN3, 3
+缓慢, HUAN3 MAN4, 3
+患, HUAN4, 3
+幻灯, HUAN4 DENG1, 3
+幻想, HUAN4 XIANG3, 3
+唤, HUAN4, 3
+荒, HUANG1, 3
+慌忙, HUANG1 MANG2, 3
+黄昏, HUANG2 HUN1, 3
+黄色, HUANG2 SE4, 3
+晃, HUANG4, 3
+灰, HUI1, 3
+灰尘, HUI1 CHEN2, 3
+灰心, HUI1 XIN1, 3
+辉煌, HUI1 HUANG2, 3
+回想, HUI2 XIANG3, 3
+毁, HUI3, 3
+汇, HUI4, 3
+汇报, HUI4 BAO4, 3
+汇款, HUI4 KUAN3, 3
+昏, HUN1, 3
+浑身, HUN2 SHEN1, 3
+混合, HUN4 HE2, 3
+混乱, HUN4 LUAN4, 3
+混凝土, HUN4 NING2 TU3, 3
+混淆, HUN4 XIAO2, 3
+活, HUO2, 3
+活该, HUO2 GAI1, 3
+伙, HUO3, 3
+伙伴, HUO3 BAN4, 3
+火箭, HUO3 JIAN4, 3
+火力, HUO3 LI4, 3
+火焰, HUO3 YAN4, 3
+火药, HUO3 YAO4, 3
+获, HUO4, 3
+或多或少, HUO4 DUO1 HUO4 SHAO3, 3
+货币, HUO4 BI4, 3
+货物, HUO4 WU4, 3
+基层, JI1 CENG2, 3
+基地, JI1 DI4, 3
+机, JI1, 3
+机动, JI1 DONG4, 3
+机构, JI1 GOU4, 3
+肌肉, JI1 ROU4, 3
+饥饿, JI1 E4, 3
+激素, JI1 SU4, 3
+极端, JI2 DUAN1, 3
+集团, JI2 TUAN2, 3
+急躁, JI2 ZAO4, 3
+疾病, JI2 BING4, 3
+即将, JI2 JIANG1, 3
+即使, JI2 SHI3, 3
+级别, JI2 BIE2, 3
+给予, JI3 YU3, 3
+技能, JI4 NENG2, 3
+技巧, JI4 QIAO3, 3
+季, JI4, 3
+寂寞, JI4 MO4, 3
+计, JI4, 3
+计算机, JI4 SUAN4 JI1, 3
+记载, JI4 ZAI3, 3
+继承, JI4 CHENG2, 3
+夹子, JIA1 ZI5, 3
+佳, JIA1, 3
+家伙, JIA1 HUO5, 3
+家属, JIA1 SHU3, 3
+加紧, JIA1 JIN3, 3
+加入, JIA1 RU4, 3
+加速, JIA1 SU4, 3
+加油, JIA1 YOU2, 3
+甲, JIA3, 3
+假如, JIA3 RU2, 3
+假若, JIA3 RUO4, 3
+假使, JIA3 SHI3, 3
+价, JIA4, 3
+价钱, JIA4 QIAN5, 3
+架, JIA4, 3
+架子, JIA4 ZI5, 3
+驾驶, JIA4 SHI3, 3
+假, JIA4, 3
+假期, JIA4 QI1, 3
+嫁, JIA4, 3
+歼灭, JIAN1 MIE4, 3
+监督, JIAN1 DU1, 3
+监视, JIAN1 SHI4, 3
+监狱, JIAN1 YU4, 3
+坚固, JIAN1 GU4, 3
+坚硬, JIAN1 YING4, 3
+尖子, JIAN1 ZI5, 3
+煎, JIAN1, 3
+兼, JIAN1, 3
+艰难, JIAN1 NAN2, 3
+检讨, JIAN3 TAO3, 3
+检验, JIAN3 YAN4, 3
+碱, JIAN3, 3
+简便, JIAN3 BIAN4, 3
+简直, JIAN3 ZHI2, 3
+鉴定, JIAN4 DING4, 3
+贱, JIAN4, 3
+见解, JIAN4 JIE3, 3
+健全, JIAN4 QUAN2, 3
+渐, JIAN4, 3
+溅, JIAN4, 3
+建造, JIAN4 ZAO4, 3
+僵, JIANG1, 3
+将军, JIANG1 JUN1, 3
+奖金, JIANG3 JIN1, 3
+奖励, JIANG3 LI4, 3
+讲究, JIANG3 JIU5, 3
+讲课, JIANG3 KE4, 3
+讲义, JIANG3 YI4, 3
+酱, JIANG4, 3
+焦急, JIAO1 JI2, 3
+胶卷, JIAO1 JUAN3, 3
+交代, JIAO1 DAI4, 3
+交谈, JIAO1 TAN2, 3
+交易, JIAO1 YI4, 3
+浇, JIAO1, 3
+搅, JIAO3, 3
+脚步, JIAO3 BU4, 3
+狡猾, JIAO3 HUA2, 3
+角度, JIAO3 DU4, 3
+角落, JIAO3 LUO4, 3
+教导, JIAO4 DAO3, 3
+教练, JIAO4 LIAN4, 3
+教堂, JIAO4 TANG2, 3
+教研室, JIAO4 YAN2 SHI4, 3
+觉, JIAO4, 3
+揭, JIE1, 3
+揭露, JIE1 LU4, 3
+接连, JIE1 LIAN2, 3
+阶层, JIE1 CENG2, 3
+结, JIE1, 3
+截, JIE2, 3
+节, JIE2, 3
+竭力, JIE2 LI4, 3
+洁白, JIE2 BAI2, 3
+结, JIE2, 3
+结果, JIE2 GUO3, 3
+解放军, JIE3 FANG4 JUN1, 3
+解剖, JIE3 POU1, 3
+界线, JIE4 XIAN4, 3
+借口, JIE4 KOU3, 3
+金鱼, JIN1 YU2, 3
+今日, JIN1 RI4, 3
+紧急, JIN3 JI2, 3
+紧密, JIN3 MI4, 3
+紧俏, JIN3 QIAO4, 3
+谨慎, JIN3 SHEN4, 3
+进军, JIN4 JUN1, 3
+近代, JIN4 DAI4, 3
+浸, JIN4, 3
+尽力, JIN4 LI4, 3
+惊, JING1, 3
+惊动, JING1 DONG4, 3
+惊奇, JING1 QI2, 3
+惊人, JING1 REN2, 3
+惊讶, JING1 YA4, 3
+惊异, JING1 YI4, 3
+精, JING1, 3
+精神, JING1 SHEN5, 3
+精细, JING1 XI4, 3
+精致, JING1 ZHI4, 3
+鲸鱼, JING1 YU2, 3
+经费, JING1 FEI4, 3
+经营, JING1 YING2, 3
+警告, JING3 GAO4, 3
+警惕, JING3 TI4, 3
+景色, JING3 SE4, 3
+景物, JING3 WU4, 3
+景象, JING3 XIANG4, 3
+境, JING4, 3
+敬酒, JING4 JIU3, 3
+竟, JING4, 3
+竟然, JING4 RAN2, 3
+竞争, JING4 ZHENG1, 3
+净, JING4, 3
+净, JING4, 3
+揪, JIU1, 3
+酒店, JIU3 DIAN4, 3
+舅舅, JIU4 JIU5, 3
+舅母, JIU4 MU5, 3
+就, JIU4, 3
+就是说, JIU4 SHI4 SHUO1, 3
+就是_也_, JIU4 SHI4 YE3, 3
+居民, JU1 MIN2, 3
+居然, JU1 RAN2, 3
+居住, JU1 ZHU4, 3
+局, JU2, 3
+局部, JU2 BU4, 3
+局面, JU2 MIAN4, 3
+举办, JU3 BAN4, 3
+聚, JU4, 3
+聚集, JU4 JI2, 3
+聚精会神, JU4 JING1 HUI4 SHEN2, 3
+据, JU4, 3
+距, JU4, 3
+剧, JU4, 3
+剧烈, JU4 LIE4, 3
+剧院, JU4 YUAN4, 3
+卷, JUAN3, 3
+觉, JUE2, 3
+决口, JUE2 KOU3, 3
+决议, JUE2 YI4, 3
+绝, JUE2, 3
+均, JUN1, 3
+均匀, JUN1 YUN2, 3
+军备, JUN1 BEI4, 3
+军官, JUN1 GUAN1, 3
+军舰, JUN1 JIAN4, 3
+军人, JUN1 REN2, 3
+开办, KAI1 BAN4, 3
+开除, KAI1 CHU2, 3
+开动, KAI1 DONG4, 3
+开发, KAI1 FA1, 3
+开饭, KAI1 FAN4, 3
+开口, KAI1 KOU3, 3
+开幕, KAI1 MU4, 3
+开设, KAI1 SHE4, 3
+开水, KAI1 SHUI3, 3
+开夜车, KAI1 YE4 CHE1, 3
+刊物, KAN1 WU4, 3
+看, KAN4, 3
+抗议, KANG4 YI4, 3
+考察, KAO3 CHA2, 3
+考验, KAO3 YAN4, 3
+靠近, KAO4 JIN4, 3
+科技, KE1 JI4, 3
+科普, KE1 PU3, 3
+壳, KE2, 3
+可不是, KE3 BU5 SHI4, 3
+可见, KE3 JIAN4, 3
+可巧, KE3 QIAO3, 3
+可惜, KE3 XI1, 3
+可笑, KE3 XIAO4, 3
+可行, KE3 XING2, 3
+渴望, KE3 WANG4, 3
+客, KE4, 3
+客观, KE4 GUAN1, 3
+客厅, KE4 TING1, 3
+课堂, KE4 TANG2, 3
+坑, KENG1, 3
+空军, KONG1 JUN1, 3
+恐怖, KONG3 BU4, 3
+空, KONG4, 3
+口气, KOU3 QI4, 3
+口试, KOU3 SHI4, 3
+口头, KOU3 TOU2, 3
+枯, KU1, 3
+窟窿, KU1 LONG5, 3
+夸, KUA1, 3
+垮, KUA3, 3
+快餐, KUAI4 CAN1, 3
+快活, KUAI4 HUO5, 3
+宽阔, KUAN1 KUO4, 3
+款待, KUAN3 DAI4, 3
+筐, KUANG1, 3
+狂, KUANG2, 3
+狂风, KUANG2 FENG1, 3
+矿石, KUANG4 SHI2, 3
+况且, KUANG4 QIE3, 3
+昆虫, KUN1 CHONG2, 3
+阔, KUO4, 3
+喇叭, LA3 BA5, 3
+蜡烛, LA4 ZHU2, 3
+辣, LA4, 3
+辣椒, LA4 JIAO1, 3
+来宾, LAI2 BIN1, 3
+来回, LAI2 HUI2, 3
+来客, LAI2 KE4, 3
+来往, LAI2 WANG3, 3
+来源, LAI2 YUAN2, 3
+篮子, LAN2 ZI5, 3
+朗诵, LANG3 SONG4, 3
+牢, LAO2, 3
+牢固, LAO2 GU4, 3
+牢骚, LAO2 SAO1, 3
+老年, LAO3 NIAN2, 3
+老婆, LAO3 PO5, 3
+老人家, LAO3 REN5 JIA5, 3
+老乡, LAO3 XIANG1, 3
+姥姥, LAO3 LAO5, 3
+乐, LE4, 3
+类似, LEI4 SI4, 3
+类型, LEI4 XING2, 3
+冷静, LENG3 JING4, 3
+冷却, LENG3 QUE4, 3
+冷饮, LENG3 YIN3, 3
+愣, LENG4, 3
+黎明, LI2 MING2, 3
+理, LI3, 3
+理, LI3, 3
+里头, LI3 TOU5, 3
+礼, LI3, 3
+礼拜, LI3 BAI4, 3
+历年, LI4 NIAN2, 3
+利, LI4, 3
+利润, LI4 RUN4, 3
+力求, LI4 QIU2, 3
+力争, LI4 ZHENG1, 3
+联络, LIAN2 LUO4, 3
+联盟, LIAN2 MENG2, 3
+连接, LIAN2 JIE1, 3
+脸色, LIAN3 SE4, 3
+炼, LIAN4, 3
+凉水, LIANG2 SHUI3, 3
+两旁, LIANG3 PANG2, 3
+量, LIANG4, 3
+谅解, LIANG4 JIE3, 3
+料, LIAO4, 3
+列车, LIE4 CHE1, 3
+裂, LIE4, 3
+烈士, LIE4 SHI4, 3
+猎人, LIE4 REN2, 3
+淋, LIN2, 3
+零件, LING2 JIAN4, 3
+灵魂, LING2 HUN2, 3
+领会, LING3 HUI4, 3
+领土, LING3 TU3, 3
+领域, LING3 YU4, 3
+令, LING4, 3
+溜, LIU1, 3
+留学, LIU2 XUE2, 3
+流传, LIU2 CHUAN2, 3
+流动, LIU2 DONG4, 3
+流氓, LIU2 MANG2, 3
+流水, LIU2 SHUI3, 3
+流行, LIU2 XING2, 3
+流域, LIU2 YU4, 3
+柳树, LIU3 SHU4, 3
+笼子, LONG2 ZI5, 3
+拢, LONG3, 3
+垄断, LONG3 DUAN4, 3
+笼罩, LONG3 ZHAO4, 3
+楼道, LOU2 DAO4, 3
+楼房, LOU2 FANG2, 3
+搂, LOU3, 3
+露面, LOU4 MIAN4, 3
+喽, LOU5, 3
+炉子, LU2 ZI5, 3
+路过, LU4 GUO4, 3
+路口, LU4 KOU3, 3
+露, LU4, 3
+陆地, LU4 DI4, 3
+陆军, LU4 JUN1, 3
+驴, LÜ2, 3
+铝, LÜ3, 3
+旅游, LÜ3 YOU2, 3
+卵, LUAN3, 3
+掠夺, LÜE4 DUO2, 3
+轮廓, LUN2 KUO4, 3
+轮流, LUN2 LIU2, 3
+轮子, LUN2 ZI5, 3
+论, LUN4, 3
+逻辑, LUO2 JI5, 3
+锣, LUO2, 3
+骆驼, LUO4 TUO5, 3
+马克思主义, MA3 KE4 SI1 ZHU3 YI4, 3
+瞒, MAN2, 3
+满腔, MAN3 QIANG1, 3
+漫长, MAN4 CHANG2, 3
+盲目, MANG2 MU4, 3
+毛笔, MAO2 BI3, 3
+毛线, MAO2 XIAN4, 3
+毛泽东思想, MAO2 ZE2 DONG1 SI1 XIANG3, 3
+茅台酒, MAO2 TAI2 JIU3, 3
+梅花, MEI2 HUA1, 3
+没说的, MEI2 SHUO1 DE5, 3
+眉毛, MEI2 MAO5, 3
+眉头, MEI2 TOU2, 3
+美观, MEI3 GUAN1, 3
+闷, MEN1, 3
+门诊, MEN2 ZHEN3, 3
+闷, MEN4, 3
+蒙, MENG2, 3
+猛, MENG3, 3
+猛烈, MENG3 LIE4, 3
+猛然, MENG3 RAN2, 3
+梦想, MENG4 XIANG3, 3
+眯, MI1, 3
+迷, MI2, 3
+迷糊, MI2 HU5, 3
+迷信, MI2 XIN4, 3
+谜语, MI2 YU3, 3
+秘书, MI4 SHU1, 3
+蜜, MI4, 3
+免得, MIAN3 DE5, 3
+勉强, MIAN3 QIANG3, 3
+面对, MIAN4 DUI4, 3
+面粉, MIAN4 FEN3, 3
+面孔, MIAN4 KONG3, 3
+面临, MIAN4 LIN2, 3
+苗, MIAO2, 3
+灭亡, MIE4 WANG2, 3
+民兵, MIN2 BING1, 3
+民间, MIN2 JIAN1, 3
+民用, MIN2 YONG4, 3
+敏捷, MIN3 JIE2, 3
+明白, MING2 BAI5, 3
+明明, MING2 MING2, 3
+明信片, MING2 XIN4 PIAN4, 3
+鸣, MING2, 3
+命, MING4, 3
+模范, MO2 FAN4, 3
+模糊, MO2 HU5, 3
+模型, MO2 XING2, 3
+摩托车, MO2 TUO1 CHE1, 3
+抹, MO3, 3
+末, MO4, 3
+墨, MO4, 3
+陌生, MO4 SHENG1, 3
+某些, MOU3 XIE1, 3
+墓, MU4, 3
+幕, MU4, 3
+木材, MU4 CAI2, 3
+目光, MU4 GUANG1, 3
+牧场, MU4 CHANG3, 3
+牧民, MU4 MIN2, 3
+拿_来说, NA2 LAI2 SHUO1, 3
+奶, NAI3, 3
+耐, NAI4, 3
+耐烦, NAI4 FAN2, 3
+男子, NAN2 ZI3, 3
+难得, NAN2 DE2, 3
+难怪, NAN2 GUAI4, 3
+难题, NAN2 TI2, 3
+难以, NAN2 YI3, 3
+脑筋, NAO3 JIN1, 3
+脑力, NAO3 LI4, 3
+闹笑话, NAO4 XIAO4 HUA4, 3
+闹着玩儿, NAO4 ZHE5 WAN2 R5, 3
+内科, NEI4 KE1, 3
+嫩, NEN4, 3
+能, NENG2, 3
+能, NENG2, 3
+能歌善舞, NENG2 GE1 SHAN4 WU3, 3
+能量, NENG2 LIANG4, 3
+泥土, NI2 TU3, 3
+念书, NIAN4 SHU1, 3
+娘, NIANG2, 3
+捏, NIE1, 3
+拧, NING3, 3
+宁可, NING4 KE3, 3
+扭转, NIU3 ZHUAN3, 3
+农场, NONG2 CHANG3, 3
+农具, NONG2 JU4, 3
+农贸市场, NONG2 MAO4 SHI4 CHANG3, 3
+农田, NONG2 TIAN2, 3
+农药, NONG2 YAO4, 3
+农作物, NONG2 ZUO4 WU4, 3
+奴隶, NU2 LI4, 3
+怒, NU4, 3
+女子, NÜ3 ZI3, 3
+噢, O1, 3
+哦, O4, 3
+偶尔, OU3 ER3, 3
+偶然, OU3 RAN2, 3
+趴, PA1, 3
+拍摄, PAI1 SHE4, 3
+拍子, PAI1 ZI5, 3
+排斥, PAI2 CHI4, 3
+排列, PAI2 LIE4, 3
+牌子, PAI2 ZI5, 3
+攀, PAN1, 3
+攀登, PAN1 DENG1, 3
+盘, PAN2, 3
+盼, PAN4, 3
+畔, PAN4, 3
+抛, PAO1, 3
+炮弹, PAO4 DAN4, 3
+泡, PAO4, 3
+培养, PEI2 YANG3, 3
+培育, PEI2 YU4, 3
+赔偿, PEI2 CHANG2, 3
+陪同, PEI2 TONG2, 3
+配, PEI4, 3
+佩服, PEI4 FU5, 3
+盆地, PEN2 DI4, 3
+蓬勃, PENG2 BO2, 3
+棚, PENG2, 3
+膨胀, PENG2 ZHANG4, 3
+碰钉子, PENG4 DING1 ZI5, 3
+批, PI1, 3
+疲倦, PI2 JUAN4, 3
+屁股, PI4 GU5, 3
+譬如, PI4 RU2, 3
+偏, PIAN1, 3
+偏偏, PIAN1 PIAN1, 3
+飘扬, PIAO1 YANG2, 3
+拼, PIN1, 3
+贫苦, PIN2 KU3, 3
+贫穷, PIN2 QIONG2, 3
+品德, PIN3 DE2, 3
+品质, PIN3 ZHI4, 3
+平凡, PING2 FAN2, 3
+平衡, PING2 HENG2, 3
+平行, PING2 XING2, 3
+凭, PING2, 3
+评, PING2, 3
+评价, PING2 JIA4, 3
+评论, PING2 LUN4, 3
+泼, PO1, 3
+破产, PO4 CHAN3, 3
+破烂, PO4 LAN4, 3
+迫害, PO4 HAI4, 3
+葡萄, PU2 TAO5, 3
+普及, PU3 JI2, 3
+普通话, PU3 TONG1 HUA4, 3
+欺负, QI1 FU5, 3
+漆, QI1, 3
+其, QI2, 3
+其实, QI2 SHI2, 3
+棋, QI2, 3
+奇迹, QI2 JI4, 3
+旗袍, QI2 PAO2, 3
+旗帜, QI2 ZHI4, 3
+起初, QI3 CHU1, 3
+起飞, QI3 FEI1, 3
+起义, QI3 YI4, 3
+起源, QI3 YUAN2, 3
+器材, QI4 CAI2, 3
+器官, QI4 GUAN1, 3
+气, QI4, 3
+气氛, QI4 FEN1, 3
+气愤, QI4 FEN4, 3
+气概, QI4 GAI4, 3
+气体, QI4 TI3, 3
+气味, QI4 WEI4, 3
+气压, QI4 YA1, 3
+汽船, QI4 CHUAN2, 3
+恰当, QIA4 DANG4, 3
+恰好, QIA4 HAO3, 3
+恰恰, QIA4 QIA4, 3
+铅, QIAN1, 3
+千方百计, QIAN1 FANG1 BAI3 JI4, 3
+千克, QIAN1 KE4, 3
+谦虚, QIAN1 XU1, 3
+前方, QIAN2 FANG1, 3
+前后, QIAN2 HOU4, 3
+前头, QIAN2 TOU5, 3
+歉意, QIAN4 YI4, 3
+墙壁, QIANG2 BI4, 3
+强迫, QIANG3 PO4, 3
+翘, QIAO4, 3
+切实, QIE4 SHI2, 3
+侵犯, QIN1 FAN4, 3
+侵入, QIN1 RU4, 3
+亲, QIN1, 3
+亲热, QIN1 RE4, 3
+亲人, QIN1 REN2, 3
+亲眼, QIN1 YAN3, 3
+琴, QIN2, 3
+勤劳, QIN2 LAO2, 3
+青菜, QING1 CAI4, 3
+青春, QING1 CHUN1, 3
+青蛙, QING1 WA1, 3
+轻视, QING1 SHI4, 3
+轻易, QING1 YI4, 3
+倾向, QING1 XIANG4, 3
+清晨, QING1 CHEN2, 3
+清除, QING1 CHU2, 3
+清洁, QING1 JIE2, 3
+清晰, QING1 XI1, 3
+清醒, QING1 XING3, 3
+晴天, QING2 TIAN1, 3
+情, QING2, 3
+情报, QING2 BAO4, 3
+请教, QING3 JIAO4, 3
+请示, QING3 SHI4, 3
+穷人, QIONG2 REN2, 3
+秋季, QIU1 JI4, 3
+丘陵, QIU1 LING2, 3
+区域, QU1 YU4, 3
+曲折, QU1 ZHE2, 3
+渠道, QU2 DAO4, 3
+娶, QU3, 3
+趣味, QU4 WEI4, 3
+圈子, QUAN1 ZI5, 3
+权利, QUAN2 LI4, 3
+权力, QUAN2 LI4, 3
+全局, QUAN2 JU2, 3
+拳头, QUAN2 TOU5, 3
+劝告, QUAN4 GAO4, 3
+群岛, QUN2 DAO3, 3
+燃料, RAN2 LIAO4, 3
+染料, RAN3 LIAO4, 3
+饶, RAO2, 3
+热带, RE4 DAI4, 3
+热量, RE4 LIANG4, 3
+人家, REN2 JIA5, 3
+人间, REN2 JIAN1, 3
+人力, REN2 LI4, 3
+人群, REN2 QUN2, 3
+人士, REN2 SHI4, 3
+人体, REN2 TI3, 3
+人心, REN2 XIN1, 3
+忍不住, REN3 BU5 ZHU4, 3
+忍耐, REN3 NAI4, 3
+忍受, REN3 SHOU4, 3
+任, REN4, 3
+任, REN4, 3
+任性, REN4 XING4, 3
+任意, REN4 YI4, 3
+仍旧, RENG2 JIU4, 3
+日报, RI4 BAO4, 3
+日夜, RI4 YE4, 3
+日益, RI4 YI4, 3
+日用, RI4 YONG4, 3
+荣幸, RONG2 XING4, 3
+溶液, RONG2 YE4, 3
+容, RONG2, 3
+容器, RONG2 QI4, 3
+容许, RONG2 XU3, 3
+揉, ROU2, 3
+柔软, ROU2 RUAN3, 3
+如此, RU2 CI3, 3
+如同, RU2 TONG2, 3
+如下, RU2 XIA4, 3
+软弱, RUAN3 RUO4, 3
+若, RUO4, 3
+若干, RUO4 GAN1, 3
+塞, SAI1, 3
+散, SAN3, 3
+散文, SAN3 WEN2, 3
+散, SAN4, 3
+散布, SAN4 BU4, 3
+丧失, SANG4 SHI1, 3
+色彩, SE4 CAI3, 3
+纱, SHA1, 3
+删, SHAN1, 3
+山地, SHAN1 DI4, 3
+山峰, SHAN1 FENG1, 3
+山谷, SHAN1 GU3, 3
+闪电, SHAN3 DIAN4, 3
+闪烁, SHAN3 SHUO4, 3
+扇子, SHAN4 ZI5, 3
+伤害, SHANG1 HAI4, 3
+伤口, SHANG1 KOU3, 3
+伤脑筋, SHANG1 NAO3 JIN1, 3
+商人, SHANG1 REN2, 3
+上帝, SHANG4 DI4, 3
+上升, SHANG4 SHENG1, 3
+上述, SHANG4 SHU4, 3
+上头, SHANG4 TOU5, 3
+上下, SHANG4 XIA4, 3
+上旬, SHANG4 XUN2, 3
+上游, SHANG4 YOU2, 3
+少女, SHAO4 NÜ3, 3
+少先队, SHAO4 XIAN1 DUI4, 3
+哨兵, SHAO4 BING1, 3
+舍不得, SHE3 BU5 DE5, 3
+舍得, SHE3 DE5, 3
+摄氏, SHE4 SHI4, 3
+摄影, SHE4 YING3, 3
+射击, SHE4 JI1, 3
+社会主义, SHE4 HUI4 ZHU3 YI4, 3
+社论, SHE4 LUN4, 3
+设, SHE4, 3
+设法, SHE4 FA3, 3
+设想, SHE4 XIANG3, 3
+申请, SHEN1 QING3, 3
+身材, SHEN1 CAI2, 3
+身份, SHEN1 FEN5, 3
+身子, SHEN1 ZI5, 3
+深度, SHEN1 DU4, 3
+深夜, SHEN1 YE4, 3
+神话, SHEN2 HUA4, 3
+神秘, SHEN2 MI4, 3
+神气, SHEN2 QI4, 3
+神情, SHEN2 QING2, 3
+神圣, SHEN2 SHENG4, 3
+审查, SHEN3 CHA2, 3
+婶子, SHEN3 ZI5, 3
+甚至, SHEN4 ZHI4, 3
+甚至于, SHEN4 ZHI4 YU2, 3
+慎重, SHEN4 ZHONG4, 3
+声明, SHENG1 MING2, 3
+生, SHENG1, 3
+生病, SHENG1 BING4, 3
+生存, SHENG1 CUN2, 3
+生理, SHENG1 LI3, 3
+省得, SHENG3 DE5, 3
+省长, SHENG3 ZHANG3, 3
+圣诞节, SHENG4 DAN4 JIE2, 3
+剩余, SHENG4 YU2, 3
+师范, SHI1 FAN4, 3
+失掉, SHI1 DIAO4, 3
+失眠, SHI1 MIAN2, 3
+湿润, SHI1 RUN4, 3
+诗人, SHI1 REN2, 3
+时常, SHI2 CHANG2, 3
+时机, SHI2 JI1, 3
+时节, SHI2 JIE2, 3
+时时, SHI2 SHI2, 3
+实话, SHI2 HUA4, 3
+实况, SHI2 KUANG4, 3
+实施, SHI2 SHI1, 3
+实习, SHI2 XI2, 3
+实质, SHI2 ZHI4, 3
+使得, SHI3 DE5, 3
+使劲, SHI3 JIN4, 3
+驶, SHI3, 3
+示威, SHI4 WEI1, 3
+士兵, SHI4 BING1, 3
+似的, SHI4 DE5, 3
+事故, SHI4 GU4, 3
+事迹, SHI4 JI4, 3
+事务, SHI4 WU4, 3
+逝世, SHI4 SHI4, 3
+势力, SHI4 LI5, 3
+是的, SHI4 DE5, 3
+是非, SHI4 FEI1, 3
+是否, SHI4 FOU3, 3
+适宜, SHI4 YI2, 3
+市长, SHI4 ZHANG3, 3
+收割, SHOU1 GE1, 3
+收集, SHOU1 JI2, 3
+收缩, SHOU1 SUO1, 3
+手枪, SHOU3 QIANG1, 3
+手势, SHOU3 SHI4, 3
+守, SHOU3, 3
+寿命, SHOU4 MING4, 3
+售, SHOU4, 3
+售货, SHOU4 HUO4, 3
+梳, SHU1, 3
+梳子, SHU1 ZI5, 3
+舒畅, SHU1 CHANG4, 3
+书本, SHU1 BEN3, 3
+书籍, SHU1 JI2, 3
+树立, SHU4 LI4, 3
+树木, SHU4 MU4, 3
+束, SHU4, 3
+束缚, SHU4 FU4, 3
+数据, SHU4 JU4, 3
+数目, SHU4 MU4, 3
+刷子, SHUA1 ZI5, 3
+耍, SHUA3, 3
+衰弱, SHUAI1 RUO4, 3
+拴, SHUAN1, 3
+霜, SHUANG1, 3
+双, SHUANG1, 3
+水分, SHUI3 FEN4, 3
+水库, SHUI3 KU4, 3
+水利, SHUI3 LI4, 3
+水力, SHUI3 LI4, 3
+睡眠, SHUI4 MIAN2, 3
+税, SHUI4, 3
+顺, SHUN4, 3
+顺手, SHUN4 SHOU3, 3
+说不定, SHUO1 BU5 DING4, 3
+说法, SHUO1 FA5, 3
+说服, SHUO1 FU2, 3
+思考, SI1 KAO3, 3
+思念, SI1 NIAN4, 3
+思索, SI1 SUO3, 3
+思维, SI1 WEI2, 3
+私有, SI1 YOU3, 3
+司令, SI1 LING4, 3
+丝毫, SI1 HAO2, 3
+死, SI3, 3
+死亡, SI3 WANG2, 3
+四处, SI4 CHU4, 3
+四面八方, SI4 MIAN4 BA1 FANG1, 3
+四周, SI4 ZHOU1, 3
+饲养, SI4 YANG3, 3
+松树, SONG1 SHU4, 3
+送礼, SONG4 LI3, 3
+搜集, SOU1 JI2, 3
+艘, SOU1, 3
+俗话, SU2 HUA4, 3
+速成, SU4 CHENG2, 3
+算是, SUAN4 SHI4, 3
+算数, SUAN4 SHU4, 3
+虽, SUI1, 3
+虽说, SUI1 SHUO1, 3
+随后, SUI2 HOU4, 3
+随即, SUI2 JI2, 3
+随手, SUI2 SHOU3, 3
+岁数, SUI4 SHU5, 3
+孙女, SUN1 NÜ3, 3
+孙子, SUN1 ZI5, 3
+损害, SUN3 HAI4, 3
+损坏, SUN3 HUAI4, 3
+缩短, SUO1 DUAN3, 3
+缩小, SUO1 XIAO3, 3
+锁, SUO3, 3
+锁, SUO3, 3
+所在, SUO3 ZAI4, 3
+塌, TA1, 3
+踏实, TA1 SHI5, 3
+踏, TA4, 3
+摊, TAN1, 3
+摊, TAN1, 3
+滩, TAN1, 3
+谈话, TAN2 HUA4, 3
+谈论, TAN2 LUN4, 3
+坦克, TAN3 KE4, 3
+探索, TAN4 SUO3, 3
+叹气, TAN4 QI4, 3
+倘若, TANG3 RUO4, 3
+桃, TAO2, 3
+逃避, TAO2 BI4, 3
+特, TE4, 3
+特务, TE4 WU5, 3
+特征, TE4 ZHENG1, 3
+提包, TI2 BAO1, 3
+提纲, TI2 GANG1, 3
+提问, TI2 WEN4, 3
+提醒, TI2 XING3, 3
+提议, TI2 YI4, 3
+蹄, TI2, 3
+体操, TI3 CAO1, 3
+体力, TI3 LI4, 3
+体面, TI3 MIAN5, 3
+体温, TI3 WEN1, 3
+体现, TI3 XIAN4, 3
+天才, TIAN1 CAI2, 3
+天空, TIAN1 KONG1, 3
+天然, TIAN1 RAN2, 3
+天然气, TIAN1 RAN2 QI4, 3
+天上, TIAN1 SHANG4, 3
+天文, TIAN1 WEN2, 3
+天下, TIAN1 XIA4, 3
+天主教, TIAN1 ZHU3 JIAO4, 3
+田地, TIAN2 DI4, 3
+挑选, TIAO1 XUAN3, 3
+条例, TIAO2 LI4, 3
+调节, TIAO2 JIE2, 3
+调皮, TIAO2 PI2, 3
+跳动, TIAO4 DONG4, 3
+厅, TING1, 3
+停留, TING2 LIU2, 3
+亭子, TING2 ZI5, 3
+挺, TING3, 3
+通常, TONG1 CHANG2, 3
+通顺, TONG1 SHUN4, 3
+通信, TONG1 XIN4, 3
+同伴, TONG2 BAN4, 3
+同胞, TONG2 BAO1, 3
+同盟, TONG2 MENG2, 3
+筒, TONG3, 3
+统计, TONG3 JI4, 3
+统统, TONG3 TONG3, 3
+投机, TOU2 JI1, 3
+投降, TOU2 XIANG2, 3
+头脑, TOU2 NAO3, 3
+透明, TOU4 MING2, 3
+突破, TU1 PO4, 3
+图画, TU2 HUA4, 3
+徒弟, TU2 DI5, 3
+途径, TU2 JING4, 3
+土, TU3, 3
+土壤, TU3 RANG3, 3
+团体, TUAN2 TI3, 3
+团员, TUAN2 YUAN2, 3
+团长, TUAN2 ZHANG3, 3
+推迟, TUI1 CHI2, 3
+推辞, TUI1 CI2, 3
+推翻, TUI1 FAN1, 3
+推荐, TUI1 JIAN4, 3
+推进, TUI1 JIN4, 3
+退步, TUI4 BU4, 3
+退休, TUI4 XIU1, 3
+吞, TUN1, 3
+拖拉机, TUO1 LA1 JI1, 3
+托儿所, TUO1 ER2 SUO3, 3
+驮, TUO2, 3
+妥当, TUO3 DANG5, 3
+娃娃, WA2 WA5, 3
+瓦, WA3, 3
+歪曲, WAI1 QU1, 3
+外部, WAI4 BU4, 3
+外界, WAI4 JIE4, 3
+外科, WAI4 KE1, 3
+外头, WAI4 TOU5, 3
+外衣, WAI4 YI1, 3
+外祖父, WAI4 ZU3 FU4, 3
+外祖母, WAI4 ZU3 MU3, 3
+弯曲, WAN1 QU1, 3
+玩笑, WAN2 XIAO4, 3
+玩意儿, WAN2 YI4 R5, 3
+顽固, WAN2 GU4, 3
+顽强, WAN2 QIANG2, 3
+丸, WAN2, 3
+完备, WAN2 BEI4, 3
+完善, WAN2 SHAN4, 3
+挽, WAN3, 3
+挽救, WAN3 JIU4, 3
+晚报, WAN3 BAO4, 3
+万分, WAN4 FEN1, 3
+万古长青, WAN4 GU3 CHANG2 QING1, 3
+万岁, WAN4 SUI4, 3
+万万, WAN4 WAN4, 3
+万一, WAN4 YI1, 3
+网, WANG3, 3
+往来, WANG3 LAI2, 3
+威胁, WEI1 XIE2, 3
+微小, WEI1 XIAO3, 3
+违背, WEI2 BEI4, 3
+围巾, WEI2 JIN1, 3
+为难, WEI2 NAN2, 3
+为首, WEI2 SHOU3, 3
+为止, WEI2 ZHI3, 3
+维持, WEI2 CHI2, 3
+维生素, WEI2 SHENG1 SU4, 3
+委屈, WEI3 QU5, 3
+委托, WEI3 TUO1, 3
+未必, WEI4 BI4, 3
+味, WEI4, 3
+位于, WEI4 YU2, 3
+慰问, WEI4 WEN4, 3
+温, WEN1, 3
+温带, WEN1 DAI4, 3
+温和, WEN1 HE2, 3
+蚊子, WEN2 ZI5, 3
+闻名, WEN2 MING2, 3
+吻, WEN3, 3
+嗡, WENG1, 3
+卧, WO4, 3
+污, WU1, 3
+诬蔑, WU1 MIE4, 3
+无比, WU2 BI3, 3
+无产阶级, WU2 CHAN3 JIE1 JI2, 3
+无法, WU2 FA3, 3
+无可奈何, WU2 KE3 NAI4 HE2, 3
+无论如何, WU2 LUN4 RU2 HE2, 3
+无情, WU2 QING2, 3
+无所谓, WU2 SUO3 WEI4, 3
+无线电, WU2 XIAN4 DIAN4, 3
+无疑, WU2 YI2, 3
+武装, WU3 ZHUANG1, 3
+舞蹈, WU3 DAO3, 3
+舞会, WU3 HUI4, 3
+舞台, WU3 TAI2, 3
+侮辱, WU3 RU3, 3
+物品, WU4 PIN3, 3
+物体, WU4 TI3, 3
+物资, WU4 ZI1, 3
+误, WU4, 3
+西服, XI1 FU2, 3
+西医, XI1 YI1, 3
+吸取, XI1 QU3, 3
+稀, XI1, 3
+锡, XI1, 3
+袭击, XI2 JI1, 3
+媳妇, XI2 FU4, 3
+喜爱, XI3 AI4, 3
+喜悦, XI3 YUE4, 3
+戏剧, XI4 JU4, 3
+细胞, XI4 BAO1, 3
+细致, XI4 ZHI4, 3
+瞎, XIA1, 3
+虾, XIA1, 3
+峡谷, XIA2 GU3, 3
+下降, XIA4 JIANG4, 3
+下列, XIA4 LIE4, 3
+下旬, XIA4 XUN2, 3
+下游, XIA4 YOU2, 3
+夏季, XIA4 JI4, 3
+鲜明, XIAN1 MING2, 3
+鲜血, XIAN1 XUE4, 3
+鲜艳, XIAN1 YAN4, 3
+咸, XIAN2, 3
+闲话, XIAN2 HUA4, 3
+嫌, XIAN2, 3
+显示, XIAN3 SHI4, 3
+险, XIAN3, 3
+现, XIAN4, 3
+现成, XIAN4 CHENG2, 3
+县城, XIAN4 CHENG2, 3
+宪法, XIAN4 FA3, 3
+陷, XIAN4, 3
+线路, XIAN4 LU4, 3
+相对, XIANG1 DUI4, 3
+香烟, XIANG1 YAN1, 3
+箱, XIANG1, 3
+乡村, XIANG1 CUN1, 3
+响亮, XIANG3 LIANG4, 3
+巷, XIANG4, 3
+相声, XIANG4 SHENG5, 3
+向导, XIANG4 DAO3, 3
+向来, XIANG4 LAI2, 3
+象征, XIANG4 ZHENG1, 3
+削, XIAO1, 3
+消除, XIAO1 CHU2, 3
+消毒, XIAO1 DU2, 3
+消耗, XIAO1 HAO4, 3
+消极, XIAO1 JI2, 3
+小便, XIAO3 BIAN4, 3
+小组, XIAO3 ZU3, 3
+笑容, XIAO4 RONG2, 3
+协定, XIE2 DING4, 3
+协会, XIE2 HUI4, 3
+协助, XIE2 ZHU4, 3
+协作, XIE2 ZUO4, 3
+写作, XIE3 ZUO4, 3
+卸, XIE4, 3
+欣赏, XIN1 SHANG3, 3
+辛勤, XIN1 QIN2, 3
+新生, XIN1 SHENG1, 3
+新式, XIN1 SHI4, 3
+新型, XIN1 XING2, 3
+心爱, XIN1 AI4, 3
+心理, XIN1 LI3, 3
+心事, XIN1 SHI5, 3
+心思, XIN1 SI5, 3
+心意, XIN1 YI4, 3
+信号, XIN4 HAO4, 3
+信念, XIN4 NIAN4, 3
+信任, XIN4 REN4, 3
+信息, XIN4 XI1, 3
+形态, XING2 TAI4, 3
+行人, XING2 REN2, 3
+行驶, XING2 SHI3, 3
+行为, XING2 WEI2, 3
+行星, XING2 XING1, 3
+行政, XING2 ZHENG4, 3
+兴高采烈, XING4 GAO1 CAI3 LIE4, 3
+幸亏, XING4 KUI1, 3
+性别, XING4 BIE2, 3
+性能, XING4 NENG2, 3
+凶, XIONG1, 3
+凶恶, XIONG1 E4, 3
+修建, XIU1 JIAN4, 3
+修正, XIU1 ZHENG4, 3
+修筑, XIU1 ZHU4, 3
+绣, XIU4, 3
+锈, XIU4, 3
+需, XU1, 3
+须, XU1, 3
+叙述, XU4 SHU4, 3
+宣告, XUAN1 GAO4, 3
+宣言, XUAN1 YAN2, 3
+悬, XUAN2, 3
+悬崖, XUAN2 YA2, 3
+旋转, XUAN2 ZHUAN3, 3
+选修, XUAN3 XIU1, 3
+学会, XUE2 HUI4, 3
+学科, XUE2 KE1, 3
+学年, XUE2 NIAN2, 3
+学时, XUE2 SHI2, 3
+学说, XUE2 SHUO1, 3
+学位, XUE2 WEI4, 3
+学院, XUE2 YUAN4, 3
+学者, XUE2 ZHE3, 3
+学制, XUE2 ZHI4, 3
+雪花, XUE3 HUA1, 3
+血管, XUE4 GUAN3, 3
+血汗, XUE4 HAN4, 3
+循环, XUN2 HUAN2, 3
+询问, XUN2 WEN4, 3
+寻, XUN2, 3
+压力, YA1 LI4, 3
+压缩, YA1 SUO1, 3
+压制, YA1 ZHI4, 3
+押, YA1, 3
+鸭子, YA1 ZI5, 3
+芽, YA2, 3
+牙齿, YA2 CHI3, 3
+牙膏, YA2 GAO1, 3
+亚军, YA4 JUN1, 3
+烟, YAN1, 3
+烟囱, YAN1 CONG1, 3
+淹, YAN1, 3
+严, YAN2, 3
+严禁, YAN2 JIN4, 3
+严厉, YAN2 LI4, 3
+严密, YAN2 MI4, 3
+研究生, YAN2 JIU1 SHENG1, 3
+研制, YAN2 ZHI4, 3
+岩石, YAN2 SHI2, 3
+沿儿, YAN2 R5, 3
+沿海, YAN2 HAI3, 3
+掩盖, YAN3 GAI4, 3
+掩护, YAN3 HU4, 3
+眼光, YAN3 GUANG1, 3
+眼看, YAN3 KAN4, 3
+演说, YAN3 SHUO1, 3
+燕子, YAN4 ZI5, 3
+厌恶, YAN4 WU4, 3
+扬, YANG2, 3
+洋, YANG2, 3
+氧化, YANG3 HUA4, 3
+氧气, YANG3 QI4, 3
+养成, YANG3 CHENG2, 3
+养料, YANG3 LIAO4, 3
+摇摆, YAO2 BAI3, 3
+摇晃, YAO2 HUANG5, 3
+遥远, YAO2 YUAN3, 3
+窑, YAO2, 3
+谣言, YAO2 YAN2, 3
+药方, YAO4 FANG1, 3
+药品, YAO4 PIN3, 3
+药水儿, YAO4 SHUI3 R5, 3
+药物, YAO4 WU4, 3
+要, YAO4, 3
+要不, YAO4 BU4, 3
+要不然, YAO4 BU4 RAN2, 3
+要不是, YAO4 BU5 SHI4, 3
+要点, YAO4 DIAN3, 3
+要好, YAO4 HAO3, 3
+钥匙, YAO4 SHI5, 3
+野兽, YE3 SHOU4, 3
+冶金, YE3 JIN1, 3
+夜间, YE4 JIAN1, 3
+液体, YE4 TI3, 3
+一带, YI1 DAI4, 3
+一一, YI1 YI1, 3
+一口气, YI1 KOU3 QI4, 3
+一连, YI1 LIAN2, 3
+一路平安, YI1 LU4 PING2 AN1, 3
+一路顺风, YI1 LU4 SHUN4 FENG1, 3
+一面_一面_, YI1 MIAN4 YI1 MIAN4, 3
+一旁, YI1 PANG2, 3
+一系列, YI1 XI4 LIE4, 3
+一下, YI1 XIA4, 3
+一向, YI1 XIANG4, 3
+一心, YI1 XIN1, 3
+一行, YI1 XING2, 3
+一阵, YI1 ZHEN4, 3
+一再, YI1 ZAI4, 3
+医疗, YI1 LIAO2, 3
+依旧, YI1 JIU4, 3
+依据, YI1 JU4, 3
+依然, YI1 RAN2, 3
+依照, YI1 ZHAO4, 3
+伊斯兰教, YI1 SI1 LAN2 JIAO4, 3
+遗产, YI2 CHAN3, 3
+遗憾, YI2 HAN4, 3
+遗留, YI2 LIU2, 3
+仪表, YI2 BIAO3, 3
+仪式, YI2 SHI4, 3
+疑心, YI2 XIN1, 3
+姨, YI2, 3
+倚, YI3, 3
+乙, YI3, 3
+以便, YI3 BIAN4, 3
+以至, YI3 ZHI4, 3
+以致, YI3 ZHI4, 3
+抑制, YI4 ZHI4, 3
+易, YI4, 3
+意识, YI4 SHI5, 3
+意味着, YI4 WEI4 ZHE5, 3
+毅力, YI4 LI4, 3
+义务, YI4 WU4, 3
+议会, YI4 HUI4, 3
+音, YIN1, 3
+阴谋, YIN1 MOU2, 3
+阴天, YIN1 TIAN1, 3
+银幕, YIN2 MU4, 3
+饮料, YIN3 LIAO4, 3
+引, YIN3, 3
+引导, YIN3 DAO3, 3
+引进, YIN3 JIN4, 3
+隐约, YIN3 YUE1, 3
+印染, YIN4 RAN3, 3
+英镑, YING1 BANG4, 3
+英明, YING1 MING2, 3
+婴儿, YING1 ER2, 3
+迎, YING2, 3
+影片, YING3 PIAN4, 3
+应, YING4, 3
+应酬, YING4 CHOU5, 3
+应付, YING1 FU4, 3
+应邀, YING4 YAO1, 3
+硬, YING4, 3
+哟, YO5, 3
+拥挤, YONG1 JI3, 3
+踊跃, YONG3 YUE4, 3
+涌, YONG3, 3
+用品, YONG4 PIN3, 3
+用途, YONG4 TU2, 3
+用心, YONG4 XIN1, 3
+优胜, YOU1 SHENG4, 3
+优势, YOU1 SHI4, 3
+优越, YOU1 YUE4, 3
+邮包, YOU2 BAO1, 3
+犹豫, YOU2 YU4, 3
+油田, YOU2 TIAN2, 3
+游, YOU2, 3
+游戏, YOU2 XI4, 3
+游行, YOU2 XING2, 3
+有机, YOU3 JI1, 3
+有两下子, YOU3 LIANG3 XIA4 ZI5, 3
+有限, YOU3 XIAN4, 3
+有一些, YOU3 YI1 XIE1, 3
+有意, YOU3 YI4, 3
+有益, YOU3 YI4, 3
+友爱, YOU3 AI4, 3
+幼儿园, YOU4 ER2 YUAN2, 3
+幼稚, YOU4 ZHI4, 3
+愚蠢, YU2 CHUN3, 3
+余, YU2, 3
+渔民, YU2 MIN2, 3
+娱乐, YU2 LE4, 3
+与其, YU3 QI2, 3
+宇宙, YU3 ZHOU4, 3
+语文, YU3 WEN2, 3
+浴室, YU4 SHI4, 3
+愈_愈_, YU4 YU4, 3
+寓言, YU4 YAN2, 3
+预报, YU4 BAO4, 3
+预防, YU4 FANG2, 3
+预告, YU4 GAO4, 3
+预先, YU4 XIAN1, 3
+预祝, YU4 ZHU4, 3
+冤枉, YUAN1 WANG5, 3
+元旦, YUAN2 DAN4, 3
+元素, YUAN2 SU4, 3
+远销, YUAN3 XIAO1, 3
+原理, YUAN2 LI3, 3
+原始, YUAN2 SHI3, 3
+原先, YUAN2 XIAN1, 3
+原子, YUAN2 ZI3, 3
+原子弹, YUAN2 ZI3 DAN4, 3
+援助, YUAN2 ZHU4, 3
+园林, YUAN2 LIN2, 3
+圆满, YUAN2 MAN3, 3
+猿人, YUAN2 REN2, 3
+缘故, YUAN2 GU4, 3
+愿, YUAN4, 3
+苑, YUAN4, 3
+越, YUE4, 3
+跃进, YUE4 JIN4, 3
+月光, YUE4 GUANG1, 3
+乐器, YUE4 QI4, 3
+晕, YUN1, 3
+运气, YUN4 QI5, 3
+运转, YUN4 ZHUAN4, 3
+砸, ZA2, 3
+杂文, ZA2 WEN2, 3
+杂志, ZA2 ZHI4, 3
+杂质, ZA2 ZHI4, 3
+栽, ZAI1, 3
+灾难, ZAI1 NAN4, 3
+载, ZAI4, 3
+栽种, ZAI1 ZHONG4, 3
+再三, ZAI4 SAN1, 3
+再说, ZAI4 SHUO1, 3
+在于, ZAI4 YU2, 3
+在座, ZAI4 ZUO4, 3
+赞美, ZAN4 MEI3, 3
+赞扬, ZAN4 YANG2, 3
+遭, ZAO1, 3
+遭遇, ZAO1 YU4, 3
+糟, ZAO1, 3
+凿, ZAO2, 3
+早期, ZAO3 QI1, 3
+早晚, ZAO3 WAN3, 3
+早已, ZAO3 YI3, 3
+责备, ZE2 BEI4, 3
+增产, ZENG1 CHAN3, 3
+增进, ZENG1 JIN4, 3
+增强, ZENG1 QIANG2, 3
+赠送, ZENG4 SONG4, 3
+扎实, ZHA1 SHI5, 3
+渣, ZHA1, 3
+炸, ZHA2, 3
+炸, ZHA4, 3
+债, ZHAI4, 3
+沾, ZHAN1, 3
+盏, ZHAN3, 3
+崭新, ZHAN3 XIN1, 3
+占领, ZHAN4 LING3, 3
+占有, ZHAN4 YOU3, 3
+战场, ZHAN4 CHANG3, 3
+战略, ZHAN4 LÜE4, 3
+战术, ZHAN4 SHU4, 3
+战线, ZHAN4 XIAN4, 3
+战友, ZHAN4 YOU3, 3
+张, ZHANG1, 3
+张望, ZHANG1 WANG4, 3
+长, ZHANG3, 3
+掌声, ZHANG3 SHENG1, 3
+帐, ZHANG4, 3
+胀, ZHANG4, 3
+障碍, ZHANG4 AI4, 3
+招, ZHAO1, 3
+招手, ZHAO1 SHOU3, 3
+着凉, ZHAO2 LIANG2, 3
+照例, ZHAO4 LI4, 3
+照相机, ZHAO4 XIANG4 JI1, 3
+照样, ZHAO4 YANG4, 3
+照耀, ZHAO4 YAO4, 3
+罩, ZHAO4, 3
+召集, ZHAO4 JI2, 3
+遮, ZHE1, 3
+折合, ZHE2 HE2, 3
+折磨, ZHE2 MO5, 3
+者, ZHE3, 3
+这会儿, ZHE4 HUI4 R5, 3
+这样一来, ZHE4 YANG4 YI1 LAI2, 3
+珍贵, ZHEN1 GUI4, 3
+珍惜, ZHEN1 XI1, 3
+珍珠, ZHEN1 ZHU1, 3
+真是, ZHEN1 SHI5, 3
+针灸, ZHEN1 JIU3, 3
+枕头, ZHEN3 TOU5, 3
+震, ZHEN4, 3
+震动, ZHEN4 DONG4, 3
+振动, ZHEN4 DONG4, 3
+镇, ZHEN4, 3
+镇静, ZHEN4 JING4, 3
+镇压, ZHEN4 YA1, 3
+阵地, ZHEN4 DI4, 3
+蒸发, ZHENG1 FA1, 3
+蒸汽, ZHENG1 QI4, 3
+挣扎, ZHENG1 ZHA2, 3
+征, ZHENG1, 3
+征服, ZHENG1 FU2, 3
+争夺, ZHENG1 DUO2, 3
+整, ZHENG3, 3
+整顿, ZHENG3 DUN4, 3
+整风, ZHENG3 FENG1, 3
+整体, ZHENG3 TI3, 3
+正当, ZHENG4 DANG1, 3
+正经, ZHENG4 JING5, 3
+正面, ZHENG4 MIAN4, 3
+正义, ZHENG4 YI4, 3
+政党, ZHENG4 DANG3, 3
+政权, ZHENG4 QUAN2, 3
+症状, ZHENG4 ZHUANG4, 3
+挣, ZHENG4, 3
+证件, ZHENG4 JIAN4, 3
+证据, ZHENG4 JU4, 3
+证实, ZHENG4 SHI2, 3
+证书, ZHENG4 SHU1, 3
+枝, ZHI1, 3
+支, ZHI1, 3
+支配, ZHI1 PEI4, 3
+知, ZHI1, 3
+知识分子, ZHI1 SHI5 FEN4 ZI3, 3
+之, ZHI1, 3
+之, ZHI1, 3
+之类, ZHI1 LEI4, 3
+之内, ZHI1 NEI4, 3
+之外, ZHI1 WAI4, 3
+职员, ZHI2 YUAN2, 3
+直达, ZHI2 DA2, 3
+直径, ZHI2 JING4, 3
+殖民地, ZHI2 MIN2 DI4, 3
+值, ZHI2, 3
+指标, ZHI3 BIAO1, 3
+指点, ZHI3 DIAN3, 3
+指南针, ZHI3 NAN2 ZHEN1, 3
+指头, ZHI3 TOU5, 3
+指引, ZHI3 YIN3, 3
+只得, ZHI3 DE2, 3
+志愿, ZHI4 YUAN4, 3
+至于, ZHI4 YU2, 3
+致, ZHI4, 3
+制, ZHI4, 3
+制止, ZHI4 ZHI3, 3
+制作, ZHI4 ZUO4, 3
+智慧, ZHI4 HUI4, 3
+质, ZHI4, 3
+治疗, ZHI4 LIAO2, 3
+中部, ZHONG1 BU4, 3
+中断, ZHONG1 DUAN4, 3
+中年, ZHONG1 NIAN2, 3
+中旬, ZHONG1 XUN2, 3
+中医, ZHONG1 YI1, 3
+忠诚, ZHONG1 CHENG2, 3
+忠实, ZHONG1 SHI2, 3
+衷心, ZHONG1 XIN1, 3
+终身, ZHONG1 SHEN1, 3
+种类, ZHONG3 LEI4, 3
+肿, ZHONG3, 3
+中, ZHONG4, 3
+种植, ZHONG4 ZHI2, 3
+周末, ZHOU1 MO4, 3
+周年, ZHOU1 NIAN2, 3
+粥, ZHOU1, 3
+皱, ZHOU4, 3
+皱纹, ZHOU4 WEN2, 3
+嘱咐, ZHU3 FU5, 3
+主持, ZHU3 CHI2, 3
+主力, ZHU3 LI4, 3
+主权, ZHU3 QUAN2, 3
+柱子, ZHU4 ZI5, 3
+助, ZHU4, 3
+助手, ZHU4 SHOU3, 3
+铸, ZHU4, 3
+住宅, ZHU4 ZHAI2, 3
+注射, ZHU4 SHE4, 3
+注视, ZHU4 SHI4, 3
+祝愿, ZHU4 YUAN4, 3
+驻, ZHU4, 3
+专, ZHUAN1, 3
+专政, ZHUAN1 ZHENG4, 3
+砖, ZHUAN1, 3
+转播, ZHUAN3 BO1, 3
+转达, ZHUAN3 DA2, 3
+转动, ZHUAN3 DONG4, 3
+转化, ZHUAN3 HUA4, 3
+转入, ZHUAN3 RU4, 3
+转弯, ZHUAN3 WAN1, 3
+转移, ZHUAN3 YI2, 3
+赚, ZHUAN4, 3
+转动, ZHUAN4 DONG4, 3
+桩, ZHUANG1, 3
+装备, ZHUANG1 BEI4, 3
+装饰, ZHUANG1 SHI4, 3
+装置, ZHUANG1 ZHI4, 3
+幢, ZHUANG4, 3
+壮, ZHUANG4, 3
+壮大, ZHUANG4 DA4, 3
+壮丽, ZHUANG4 LI4, 3
+追求, ZHUI1 QIU2, 3
+着手, ZHUO2 SHOU3, 3
+着重, ZHUO2 ZHONG4, 3
+资本, ZI1 BEN3, 3
+资本家, ZI1 BEN3 JIA1, 3
+资本主义, ZI1 BEN3 ZHU3 YI4, 3
+资产阶级, ZI1 CHAN3 JIE1 JI2, 3
+资格, ZI1 GE2, 3
+资金, ZI1 JIN1, 3
+姿势, ZI1 SHI4, 3
+姿态, ZI1 TAI4, 3
+子, ZI3, 3
+子弹, ZI3 DAN4, 3
+自豪, ZI4 HAO2, 3
+自来水, ZI4 LAI2 SHUI3, 3
+自满, ZI4 MAN3, 3
+自身, ZI4 SHEN1, 3
+自始至终, ZI4 SHI3 ZHI4 ZHONG1, 3
+自私, ZI4 SI1, 3
+自相矛盾, ZI4 XIANG1 MAO2 DUN4, 3
+自信, ZI4 XIN4, 3
+自言自语, ZI4 YAN2 ZI4 YU3, 3
+自愿, ZI4 YUAN4, 3
+自治, ZI4 ZHI4, 3
+自治区, ZI4 ZHI4 QU1, 3
+自主, ZI4 ZHU3, 3
+字典, ZI4 DIAN3, 3
+字母, ZI4 MU3, 3
+宗教, ZONG1 JIAO4, 3
+宗派, ZONG1 PAI4, 3
+总, ZONG3, 3
+总得, ZONG3 DEI3, 3
+总而言之, ZONG3 ER2 YAN2 ZHI1, 3
+总共, ZONG3 GONG4, 3
+总算, ZONG3 SUAN4, 3
+总之, ZONG3 ZHI1, 3
+走后门儿, ZOU3 HOU4 MEN2 R5, 3
+走廊, ZOU3 LANG2, 3
+走弯路, ZOU3 WAN1 LU4, 3
+租, ZU1, 3
+足, ZU2, 3
+足, ZU2, 3
+祖父, ZU3 FU4, 3
+祖母, ZU3 MU3, 3
+祖先, ZU3 XIAN1, 3
+阻碍, ZU3 AI4, 3
+阻力, ZU3 LI4, 3
+阻止, ZU3 ZHI3, 3
+组成, ZU3 CHENG2, 3
+组长, ZU3 ZHANG3, 3
+嘴唇, ZUI3 CHUN2, 3
+罪, ZUI4, 3
+罪恶, ZUI4 E4, 3
+罪行, ZUI4 XING2, 3
+尊重, ZUN1 ZHONG4, 3
+作风, ZUO4 FENG1, 3
+作物, ZUO4 WU4, 3
+作战, ZUO4 ZHAN4, 3
+座儿, ZUO4 R5, 3
+哀悼, AI1 DAO4, 4
+哀求, AI1 QIU2, 4
+艾滋病, AI4 ZI1 BING4, 4
+爱戴, AI4 DAI4, 4
+爱面子, AI4 MIAN4 ZI5, 4
+爱惜, AI4 XI1, 4
+碍事, AI4 SHI4, 4
+安宁, AN1 NING2, 4
+安稳, AN1 WEN3, 4
+安详, AN1 XIANG2, 4
+安置, AN1 ZHI4, 4
+按劳分配, AN4 LAO2 FEN1 PEI4, 4
+暗淡, AN4 DAN4, 4
+暗杀, AN4 SHA1, 4
+暗示, AN4 SHI4, 4
+暗中, AN4 ZHONG1, 4
+案, AN4, 4
+案件, AN4 JIAN4, 4
+案情, AN4 QING2, 4
+昂贵, ANG2 GUI4, 4
+昂扬, ANG2 YANG2, 4
+凹, AO1, 4
+袄, AO3, 4
+芭蕾舞, BA1 LEI3 WU3, 4
+捌, BA1, 4
+疤, BA1, 4
+巴结, BA1 JIE5, 4
+把柄, BA3 BING3, 4
+把关, BA3 GUAN1, 4
+把手, BA3 SHOU5, 4
+把戏, BA3 XI4, 4
+霸道, BA4 DAO4, 4
+霸权, BA4 QUAN2, 4
+霸占, BA4 ZHAN4, 4
+掰, BAI1, 4
+白酒, BAI2 JIU3, 4
+百倍, BAI3 BEI4, 4
+百分比, BAI3 FEN1 BI3, 4
+百花齐放, BAI3 HUA1 QI2 FANG4, 4
+百家争鸣, BAI3 JIA1 ZHENG1 MING2, 4
+摆动, BAI3 DONG4, 4
+败坏, BAI4 HUAI4, 4
+拜, BAI4, 4
+拜年, BAI4 NIAN2, 4
+斑, BAN1, 4
+班机, BAN1 JI1, 4
+班子, BAN1 ZI5, 4
+搬运, BAN1 YUN4, 4
+扳, BAN1, 4
+颁布, BAN1 BU4, 4
+颁发, BAN1 FA1, 4
+版, BAN3, 4
+扮, BAN4, 4
+扮演, BAN4 YAN3, 4
+拌, BAN4, 4
+伴, BAN4, 4
+伴侣, BAN4 LÜ3, 4
+伴随, BAN4 SUI2, 4
+伴奏, BAN4 ZOU4, 4
+半边天, BAN4 BIAN1 TIAN1, 4
+半截, BAN4 JIE2, 4
+半径, BAN4 JING4, 4
+半路, BAN4 LU4, 4
+半数, BAN4 SHU4, 4
+半途而废, BAN4 TU2 ER2 FEI4, 4
+半真半假, BAN4 ZHEN1 BAN4 JIA3, 4
+办学, BAN4 XUE2, 4
+绑架, BANG3 JIA4, 4
+棒球, BANG4 QIU2, 4
+包办, BAO1 BAN4, 4
+包干儿, BAO1 GAN1 R5, 4
+包裹, BAO1 GUO3, 4
+包装, BAO1 ZHUANG1, 4
+雹子, BAO2 ZI5, 4
+保健, BAO3 JIAN4, 4
+保姆, BAO3 MU3, 4
+保温, BAO3 WEN1, 4
+保养, BAO3 YANG3, 4
+保重, BAO3 ZHONG4, 4
+堡垒, BAO3 LEI3, 4
+饱和, BAO3 HE2, 4
+饱满, BAO3 MAN3, 4
+宝贝, BAO3 BEI4, 4
+宝剑, BAO3 JIAN4, 4
+宝库, BAO3 KU4, 4
+抱负, BAO4 FU4, 4
+抱怨, BAO4 YUAN4, 4
+报答, BAO4 DA2, 4
+报考, BAO4 KAO3, 4
+报销, BAO4 XIAO1, 4
+暴动, BAO4 DONG4, 4
+暴风骤雨, BAO4 FENG1 ZHOU4 YU3, 4
+暴力, BAO4 LI4, 4
+爆, BAO4, 4
+爆破, BAO4 PO4, 4
+爆竹, BAO4 ZHU2, 4
+悲惨, BEI1 CAN3, 4
+悲愤, BEI1 FEN4, 4
+悲剧, BEI1 JU4, 4
+悲伤, BEI1 SHANG1, 4
+卑鄙, BEI1 BI3, 4
+背面, BEI4 MIAN4, 4
+背叛, BEI4 PAN4, 4
+贝壳, BEI4 KE2, 4
+倍数, BEI4 SHU4, 4
+备用, BEI4 YONG4, 4
+被告, BEI4 GAO4, 4
+奔驰, BEN1 CHI2, 4
+奔腾, BEN1 TENG2, 4
+本能, BEN3 NENG2, 4
+本钱, BEN3 QIAN5, 4
+本性, BEN3 XING4, 4
+本着, BEN3 ZHE5, 4
+笨蛋, BEN4 DAN4, 4
+笨重, BEN4 ZHONG4, 4
+笨拙, BEN4 ZHUO1, 4
+崩溃, BENG1 KUI4, 4
+绷, BENG1, 4
+绷带, BENG1 DAI4, 4
+蹦, BENG4, 4
+逼近, BI1 JIN4, 4
+逼迫, BI1 PO4, 4
+鼻涕, BI2 TI5, 4
+比分, BI3 FEN1, 4
+比价, BI3 JIA4, 4
+比喻, BI3 YU4, 4
+比重, BI3 ZHONG4, 4
+笔迹, BI3 JI4, 4
+笔直, BI3 ZHI2, 4
+彼, BI3, 4
+碧绿, BI4 LÜ4, 4
+币, BI4, 4
+闭幕式, BI4 MU4 SHI4, 4
+闭塞, BI4 SE4, 4
+弊病, BI4 BING4, 4
+弊端, BI4 DUAN1, 4
+必将, BI4 JIANG1, 4
+避, BI4, 4
+鞭策, BIAN1 CE4, 4
+鞭炮, BIAN1 PAO4, 4
+鞭子, BIAN1 ZI5, 4
+边防, BIAN1 FANG2, 4
+边境, BIAN1 JING4, 4
+编号, BIAN1 HAO4, 4
+编者按, BIAN1 ZHE3 AN4, 4
+贬低, BIAN3 DI1, 4
+贬义, BIAN3 YI4, 4
+贬值, BIAN3 ZHI2, 4
+便道, BIAN4 DAO4, 4
+变更, BIAN4 GENG1, 4
+变换, BIAN4 HUAN4, 4
+变迁, BIAN4 QIAN1, 4
+变形, BIAN4 XING2, 4
+变质, BIAN4 ZHI4, 4
+辩别, BIAN4 BIE2, 4
+辩认, BIAN4 REN4, 4
+辩护, BIAN4 HU4, 4
+辩解, BIAN4 JIE3, 4
+辩证, BIAN4 ZHENG4, 4
+辩证法, BIAN4 ZHENG4 FA3, 4
+辫子, BIAN4 ZI5, 4
+遍地, BIAN4 DI4, 4
+标, BIAO1, 4
+标本, BIAO1 BEN3, 4
+标题, BIAO1 TI2, 4
+表彰, BIAO3 ZHANG1, 4
+憋, BIE1, 4
+别扭, BIE4 NIU5, 4
+冰淇淋, BING1 QI5 LIN2, 4
+秉性, BING3 XING4, 4
+病虫害, BING4 CHONG2 HAI4, 4
+病毒, BING4 DU2, 4
+病号, BING4 HAO4, 4
+并存, BING4 CUN2, 4
+并非, BING4 FEI1, 4
+并列, BING4 LIE4, 4
+并排, BING4 PAI2, 4
+播放, BO1 FANG4, 4
+播音, BO1 YIN1, 4
+播种, BO1 ZHONG4, 4
+拨款, BO1 KUAN3, 4
+波动, BO1 DONG4, 4
+波涛, BO1 TAO1, 4
+博览会, BO2 LAN3 HUI4, 4
+薄膜, BO2 MO2, 4
+搏斗, BO2 DOU4, 4
+驳斥, BO2 CHI4, 4
+捕捞, BU3 LAO1, 4
+捕捉, BU3 ZHUO1, 4
+补偿, BU3 CHANG2, 4
+补救, BU3 JIU4, 4
+补贴, BU3 TIE1, 4
+补助, BU3 ZHU4, 4
+卜, BU3, 4
+不卑不亢, BU4 BEI1 BU4 KANG4, 4
+不辞而别, BU4 CI2 ER2 BIE2, 4
+不当, BU4 DANG4, 4
+不得, BU4 DE2, 4
+不得已, BU4 DE2 YI3, 4
+不等, BU4 DENG3, 4
+不定, BU4 DING4, 4
+不法, BU4 FA3, 4
+不妨, BU4 FANG2, 4
+不公, BU4 GONG1, 4
+不解, BU4 JIE3, 4
+不堪, BU4 KAN1, 4
+不愧, BU4 KUI4, 4
+不良, BU4 LIANG2, 4
+不容, BU4 RONG2, 4
+不时, BU4 SHI2, 4
+不惜, BU4 XI1, 4
+不相上下, BU4 XIANG1 SHANG4 XIA4, 4
+不朽, BU4 XIU3, 4
+不言而喻, BU4 YAN2 ER2 YU4, 4
+不宜, BU4 YI2, 4
+不正之风, BU4 ZHENG4 ZHI1 FENG1, 4
+不知不觉, BU4 ZHI1 BU4 JUE2, 4
+不至于, BU4 ZHI4 YU2, 4
+布局, BU4 JU2, 4
+步兵, BU4 BING1, 4
+步伐, BU4 FA2, 4
+步行, BU4 XING2, 4
+步子, BU4 ZI5, 4
+埠, BU4, 4
+部件, BU4 JIAN4, 4
+部位, BU4 WEI4, 4
+猜测, CAI1 CE4, 4
+裁, CAI2, 4
+裁决, CAI2 JUE2, 4
+裁军, CAI2 JUN1, 4
+才干, CAI2 GAN4, 4
+才智, CAI2 ZHI4, 4
+财, CAI2, 4
+财经, CAI2 JING1, 4
+财会, CAI2 KUAI4, 4
+财力, CAI2 LI4, 4
+财务, CAI2 WU4, 4
+采访, CAI3 FANG3, 4
+采集, CAI3 JI2, 4
+采纳, CAI3 NA4, 4
+菜单, CAI4 DAN1, 4
+餐, CAN1, 4
+参军, CAN1 JUN1, 4
+参议院, CAN1 YI4 YUAN4, 4
+参与, CAN1 YU4, 4
+参阅, CAN1 YUE4, 4
+参照, CAN1 ZHAO4, 4
+残, CAN2, 4
+残暴, CAN2 BAO4, 4
+残疾, CAN2 JI2, 4
+残忍, CAN2 REN3, 4
+残余, CAN2 YU2, 4
+仓促, CANG1 CU4, 4
+操, CAO1, 4
+操劳, CAO1 LAO2, 4
+操练, CAO1 LIAN4, 4
+槽, CAO2, 4
+草率, CAO3 SHUAI4, 4
+策划, CE4 HUA4, 4
+策略, CE4 LÜE4, 4
+侧面, CE4 MIAN4, 4
+测定, CE4 DING4, 4
+测算, CE4 SUAN4, 4
+层出不穷, CENG2 CHU1 BU4 QIONG2, 4
+层次, CENG2 CI4, 4
+蹭, CENG4, 4
+插嘴, CHA1 ZUI3, 4
+叉, CHA1, 4
+差错, CHA1 CUO4, 4
+差距, CHA1 JU4, 4
+差异, CHA1 YI4, 4
+查处, CHA2 CHU3, 4
+查获, CHA2 HUO4, 4
+查明, CHA2 MING2, 4
+查阅, CHA2 YUE4, 4
+刹那, CHA4 NA4, 4
+诧异, CHA4 YI4, 4
+岔, CHA4, 4
+柴油, CHAI2 YOU2, 4
+掺, CHAN1, 4
+搀, CHAN1, 4
+蝉, CHAN2, 4
+馋, CHAN2, 4
+馋言, CHAN2 YAN2, 4
+缠, CHAN2, 4
+产, CHAN3, 4
+产地, CHAN3 DI4, 4
+产区, CHAN3 QU1, 4
+产业, CHAN3 YE4, 4
+阐明, CHAN3 MING2, 4
+阐述, CHAN3 SHU4, 4
+颤, CHAN4, 4
+昌盛, CHANG1 SHENG4, 4
+猖狂, CHANG1 KUANG2, 4
+尝试, CHANG2 SHI4, 4
+常规, CHANG2 GUI1, 4
+常见, CHANG2 JIAN4, 4
+常年, CHANG2 NIAN2, 4
+常务, CHANG2 WU4, 4
+常用, CHANG2 YONG4, 4
+长处, CHANG2 CHU5, 4
+长短, CHANG2 DUAN3, 4
+长寿, CHANG2 SHOU4, 4
+长征, CHANG2 ZHENG1, 4
+偿, CHANG2, 4
+偿还, CHANG2 HUAN2, 4
+厂房, CHANG3 FANG2, 4
+厂家, CHANG3 JIA1, 4
+厂商, CHANG3 SHANG1, 4
+场所, CHANG3 SUO3, 4
+敞开, CHANG3 KAI1, 4
+畅谈, CHANG4 TAN2, 4
+畅通, CHANG4 TONG1, 4
+畅销, CHANG4 XIAO1, 4
+倡议, CHANG4 YI4, 4
+超产, CHAO1 CHAN3, 4
+超出, CHAO1 CHU1, 4
+超级, CHAO1 JI2, 4
+超越, CHAO1 YUE4, 4
+朝代, CHAO2 DAI4, 4
+嘲笑, CHAO2 XIAO4, 4
+潮流, CHAO2 LIU2, 4
+吵闹, CHAO3 NAO4, 4
+吵嘴, CHAO3 ZUI3, 4
+车床, CHE1 CHUANG2, 4
+撤退, CHE4 TUI4, 4
+撤销, CHE4 XIAO1, 4
+沉淀, CHEN2 DIAN4, 4
+沉静, CHEN2 JING4, 4
+沉闷, CHEN2 MEN4, 4
+沉痛, CHEN2 TONG4, 4
+沉着, CHEN2 ZHUO2, 4
+陈旧, CHEN2 JIU4, 4
+陈述, CHEN2 SHU4, 4
+称心, CHEN4 XIN1, 4
+称号, CHENG1 HAO4, 4
+城镇, CHENG2 ZHEN4, 4
+成交, CHENG2 JIAO1, 4
+成品, CHENG2 PIN3, 4
+成人, CHENG2 REN2, 4
+成套, CHENG2 TAO4, 4
+成效, CHENG2 XIAO4, 4
+成心, CHENG2 XIN1, 4
+呈, CHENG2, 4
+呈现, CHENG2 XIAN4, 4
+乘机, CHENG2 JI1, 4
+乘务员, CHENG2 WU4 YUAN2, 4
+惩, CHENG2, 4
+惩办, CHENG2 BAN4, 4
+惩罚, CHENG2 FA2, 4
+澄清, CHENG2 QING1, 4
+诚心诚意, CHENG2 XIN1 CHENG2 YI4, 4
+诚意, CHENG2 YI4, 4
+诚挚, CHENG2 ZHI4, 4
+承办, CHENG2 BAN4, 4
+承受, CHENG2 SHOU4, 4
+秤, CHENG4, 4
+持续, CHI2 XU4, 4
+池塘, CHI2 TANG2, 4
+迟缓, CHI2 HUAN3, 4
+迟疑, CHI2 YI2, 4
+齿轮, CHI3 LUN2, 4
+赤字, CHI4 ZI4, 4
+充当, CHONG1 DANG1, 4
+充沛, CHONG1 PEI4, 4
+冲锋, CHONG1 FENG1, 4
+冲破, CHONG1 PO4, 4
+重, CHONG2, 4
+重申, CHONG2 SHEN1, 4
+崇拜, CHONG2 BAI4, 4
+崇敬, CHONG2 JING4, 4
+抽空, CHOU1 KONG4, 4
+抽屉, CHOU1 TI5, 4
+踌躇, CHOU2 CHU2, 4
+稠密, CHOU2 MI4, 4
+筹备, CHOU2 BEI4, 4
+筹建, CHOU2 JIAN4, 4
+绸子, CHOU2 ZI5, 4
+丑恶, CHOU3 E4, 4
+出差, CHU1 CHAI1, 4
+出产, CHU1 CHAN3, 4
+出动, CHU1 DONG4, 4
+出发点, CHU1 FA1 DIAN3, 4
+出访, CHU1 FANG3, 4
+出境, CHU1 JING4, 4
+出面, CHU1 MIAN4, 4
+出名, CHU1 MING2, 4
+出品, CHU1 PIN3, 4
+出入, CHU1 RU4, 4
+出色, CHU1 SE4, 4
+出神, CHU1 SHEN2, 4
+出世, CHU1 SHI4, 4
+出售, CHU1 SHOU4, 4
+厨师, CHU2 SHI1, 4
+锄, CHU2, 4
+除此之外, CHU2 CI3 ZHI1 WAI4, 4
+除外, CHU2 WAI4, 4
+除夕, CHU2 XI1, 4
+储备, CHU3 BEI4, 4
+储藏, CHU3 CANG2, 4
+储存, CHU3 CUN2, 4
+储蓄, CHU3 XU4, 4
+处罚, CHU3 FA2, 4
+处方, CHU3 FANG1, 4
+处境, CHU3 JING4, 4
+处决, CHU3 JUE2, 4
+处置, CHU3 ZHI4, 4
+触, CHU4, 4
+触犯, CHU4 FAN4, 4
+川流不息, CHUAN1 LIU2 BU4 XI1, 4
+传单, CHUAN2 DAN1, 4
+传递, CHUAN2 DI4, 4
+传授, CHUAN2 SHOU4, 4
+传送, CHUAN2 SONG4, 4
+传真, CHUAN2 ZHEN1, 4
+船舶, CHUAN2 BO2, 4
+船只, CHUAN2 ZHI1, 4
+疮, CHUANG1, 4
+床铺, CHUANG2 PU4, 4
+床位, CHUANG2 WEI4, 4
+创办, CHUANG4 BAN4, 4
+创建, CHUANG4 JIAN4, 4
+创业, CHUANG4 YE4, 4
+炊事员, CHUI1 SHI4 YUAN2, 4
+吹牛, CHUI1 NIU2, 4
+吹捧, CHUI1 PENG3, 4
+捶, CHUI2, 4
+锤, CHUI2, 4
+春耕, CHUN1 GENG1, 4
+纯粹, CHUN2 CUI4, 4
+蠢, CHUN3, 4
+磁铁, CI2 TIE3, 4
+雌, CI2, 4
+辞, CI2, 4
+辞职, CI2 ZHI2, 4
+慈爱, CI2 AI4, 4
+慈祥, CI2 XIANG2, 4
+词句, CI2 JU4, 4
+此后, CI3 HOU4, 4
+此时, CI3 SHI2, 4
+次品, CI4 PIN3, 4
+次数, CI4 SHU4, 4
+次序, CI4 XU4, 4
+刺, CI4, 4
+葱, CONG1, 4
+匆匆, CONG1 CONG1, 4
+从_看来, CONG2 KAN4 LAI5, 4
+从容不迫, CONG2 RONG2 BU4 PO4, 4
+从头, CONG2 TOU2, 4
+从未, CONG2 WEI4, 4
+从小, CONG2 XIAO3, 4
+从中, CONG2 ZHONG1, 4
+凑合, COU4 HE5, 4
+凑巧, COU4 QIAO3, 4
+粗暴, CU1 BAO4, 4
+粗粮, CU1 LIANG2, 4
+粗鲁, CU1 LU3, 4
+粗细, CU1 XI4, 4
+促, CU4, 4
+摧残, CUI1 CAN2, 4
+翠绿, CUI4 LÜ4, 4
+脆, CUI4, 4
+脆弱, CUI4 RUO4, 4
+存放, CUN2 FANG4, 4
+存款, CUN2 KUAN3, 4
+磋商, CUO1 SHANG1, 4
+搭配, DA1 PEI4, 4
+答辨, DA1 BIAN4, 4
+打发, DA3 FA5, 4
+打猎, DA3 LIE4, 4
+大包大揽, DA4 BAO1 DA4 LAN3, 4
+大臣, DA4 CHEN2, 4
+大多, DA4 DUO1, 4
+大公无私, DA4 GONG1 WU2 SI1, 4
+大锅饭, DA4 GUO1 FAN4, 4
+大局, DA4 JU2, 4
+大理石, DA4 LI3 SHI2, 4
+大拇指, DA4 MU5 ZHI3, 4
+大炮, DA4 PAO4, 4
+大气压, DA4 QI4 YA1, 4
+大肆, DA4 SI4, 4
+大体, DA4 TI3, 4
+大同小异, DA4 TONG2 XIAO3 YI4, 4
+大无畏, DA4 WU2 WEI4, 4
+大厦, DA4 SHA4, 4
+大雁, DA4 YAN4, 4
+大有可为, DA4 YOU3 KE3 WEI2, 4
+大于, DA4 YU2, 4
+歹徒, DAI3 TU2, 4
+带劲, DAI4 JIN4, 4
+代号, DAI4 HAO4, 4
+代数, DAI4 SHU4, 4
+贷, DAI4, 4
+贷款, DAI4 KUAN3, 4
+待业, DAI4 YE4, 4
+怠工, DAI4 GONG1, 4
+怠慢, DAI4 MAN4, 4
+担保, DAN1 BAO3, 4
+担忧, DAN1 YOU1, 4
+担子, DAN4 ZI5, 4
+丹, DAN1, 4
+单元, DAN1 YUAN2, 4
+胆量, DAN3 LIANG4, 4
+胆怯, DAN3 QIE4, 4
+胆子, DAN3 ZI5, 4
+氮, DAN4, 4
+淡季, DAN4 JI4, 4
+淡水, DAN4 SHUI3, 4
+诞辰, DAN4 CHEN2, 4
+弹, DAN4, 4
+弹药, DAN4 YAO4, 4
+当场, DANG1 CHANG3, 4
+当局, DANG1 JU2, 4
+当事人, DANG1 SHI4 REN2, 4
+当天, DANG4 TIAN1, 4
+当心, DANG1 XIN1, 4
+当选, DANG1 XUAN3, 4
+党性, DANG3 XING4, 4
+党章, DANG3 ZHANG1, 4
+党中央, DANG3 ZHONG1 YANG1, 4
+当天, DANG4 TIAN1, 4
+档次, DANG4 CI4, 4
+荡, DANG4, 4
+刀刃, DAO1 REN4, 4
+叨唠, DAO1 LAO5, 4
+捣, DAO3, 4
+捣蛋, DAO3 DAN4, 4
+捣乱, DAO3 LUAN4, 4
+倒闭, DAO3 BI4, 4
+倒爷, DAO3 YE2, 4
+导航, DAO3 HANG2, 4
+导体, DAO3 TI3, 4
+导游, DAO3 YOU2, 4
+到来, DAO4 LAI2, 4
+到期, DAO4 QI1, 4
+倒退, DAO4 TUI4, 4
+稻子, DAO4 ZI5, 4
+悼念, DAO4 NIAN4, 4
+盗, DAO4, 4
+盗窃, DAO4 QIE4, 4
+得不偿失, DE2 BU4 CHANG2 SHI1, 4
+得力, DE2 LI4, 4
+得以, DE2 YI3, 4
+得罪, DE2 ZUI4, 4
+灯泡, DENG1 PAO4, 4
+登陆, DENG1 LU4, 4
+等级, DENG3 JI2, 4
+低级, DI1 JI2, 4
+低劣, DI1 LIE4, 4
+低温, DI1 WEN1, 4
+低下, DI1 XIA4, 4
+敌, DI2, 4
+敌对, DI2 DUI4, 4
+敌视, DI2 SHI4, 4
+笛子, DI2 ZI5, 4
+的确良, DI2 QUE4 LIANG2, 4
+抵达, DI3 DA2, 4
+抵制, DI3 ZHI4, 4
+地铁, DI4 TIE3, 4
+帝国, DI4 GUO2, 4
+帝国主义, DI4 GUO2 ZHU3 YI4, 4
+递交, DI4 JIAO1, 4
+递增, DI4 ZENG1, 4
+缔结, DI4 JIE2, 4
+掂, DIAN1, 4
+颠倒, DIAN1 DAO3, 4
+颠覆, DIAN1 FU4, 4
+颠簸, DIAN1 BO3, 4
+点火, DIAN3 HUO3, 4
+点名, DIAN3 MING2, 4
+点燃, DIAN3 RAN2, 4
+点缀, DIAN3 ZHUI5, 4
+点子, DIAN3 ZI5, 4
+电动机, DIAN4 DONG4 JI1, 4
+电路, DIAN4 LU4, 4
+电钮, DIAN4 NIU3, 4
+电气, DIAN4 QI4, 4
+电源, DIAN4 YUAN2, 4
+店员, DIAN4 YUAN2, 4
+淀粉, DIAN4 FEN3, 4
+殿, DIAN4, 4
+刁, DIAO1, 4
+叼, DIAO1, 4
+雕塑, DIAO1 SU4, 4
+调度, DIAO4 DU4, 4
+调换, DIAO4 HUAN4, 4
+碟子, DIE2 ZI5, 4
+叮嘱, DING1 ZHU3, 4
+顶点, DING3 DIAN3, 4
+顶端, DING3 DUAN1, 4
+定点, DING4 DIAN3, 4
+定额, DING4 E2, 4
+定价, DING4 JIA4, 4
+定居, DING4 JU1, 4
+定理, DING4 LI3, 4
+定量, DING4 LIANG4, 4
+定律, DING4 LÜ4, 4
+定向, DING4 XIANG4, 4
+定性, DING4 XING4, 4
+定义, DING4 YI4, 4
+订购, DING4 GOU4, 4
+订货, DING4 HUO4, 4
+订阅, DING4 YUE4, 4
+钉, DING4, 4
+丢人, DIU1 REN2, 4
+丢失, DIU1 SHI1, 4
+东奔西走, DONG1 BEN1 XI1 ZOU3, 4
+东道主, DONG1 DAO4 ZHU3, 4
+冬瓜, DONG1 GUA1, 4
+董事, DONG3 SHI4, 4
+动荡, DONG4 DANG4, 4
+动工, DONG4 GONG1, 4
+动乱, DONG4 LUAN4, 4
+动脉, DONG4 MAI4, 4
+动态, DONG4 TAI4, 4
+动用, DONG4 YONG4, 4
+冻结, DONG4 JIE2, 4
+栋, DONG4, 4
+兜, DOU1, 4
+兜儿, DOU1 R5, 4
+斗志, DOU4 ZHI4, 4
+都市, DU1 SHI4, 4
+督促, DU1 CU4, 4
+毒害, DU2 HAI4, 4
+毒品, DU2 PIN3, 4
+毒性, DU2 XING4, 4
+独, DU2, 4
+独裁, DU2 CAI2, 4
+独立自主, DU2 LI4 ZI4 ZHU3, 4
+堵塞, DU3 SE4, 4
+赌, DU3, 4
+赌博, DU3 BO2, 4
+杜绝, DU4 JUE2, 4
+镀, DU4, 4
+渡船, DU4 CHUAN2, 4
+渡口, DU4 KOU3, 4
+短处, DUAN3 CHU5, 4
+短促, DUAN3 CU4, 4
+短暂, DUAN3 ZAN4, 4
+缎子, DUAN4 ZI5, 4
+断定, DUAN4 DING4, 4
+断断续续, DUAN4 DUAN4 XU4 XU4, 4
+断绝, DUAN4 JUE2, 4
+兑现, DUI4 XIAN4, 4
+对岸, DUI4 AN4, 4
+对策, DUI4 CE4, 4
+对称, DUI4 CHEN4, 4
+对抗, DUI4 KANG4, 4
+对联, DUI4 LIAN2, 4
+对手, DUI4 SHOU3, 4
+对头, DUI4 TOU2, 4
+对应, DUI4 YING4, 4
+对照, DUI4 ZHAO4, 4
+夺得, DUO2 DE2, 4
+躲避, DUO3 BI4, 4
+躲藏, DUO3 CANG2, 4
+跺, DUO4, 4
+堕落, DUO4 LUO4, 4
+蛾子, E2 ZI5, 4
+额, E2, 4
+额外, E2 WAI4, 4
+讹, E2, 4
+恶毒, E4 DU2, 4
+恶性, E4 XING4, 4
+鄂, E4, 4
+恩, EN1, 4
+恩爱, EN1 AI4, 4
+恩情, EN1 QING2, 4
+恩人, EN1 REN2, 4
+而后, ER2 HOU4, 4
+而已, ER2 YI3, 4
+二氧化碳, ER4 YANG3 HUA4 TAN4, 4
+贰, ER4, 4
+发病, FA1 BING4, 4
+发布, FA1 BU4, 4
+发财, FA1 CAI2, 4
+发愁, FA1 CHOU2, 4
+发奋图强, FA1 FEN4 TU2 QIANG2, 4
+发火, FA1 HUO3, 4
+发脾气, FA1 PI2 QI5, 4
+发票, FA1 PIAO4, 4
+发起, FA1 QI3, 4
+发热, FA1 RE4, 4
+发誓, FA1 SHI4, 4
+发炎, FA1 YAN2, 4
+发扬光大, FA1 YANG2 GUANG1 DA4, 4
+伐, FA2, 4
+罚款, FA2 KUAN3, 4
+法, FA3, 4
+法定, FA3 DING4, 4
+法官, FA3 GUAN1, 4
+法规, FA3 GUI1, 4
+法人, FA3 REN2, 4
+法庭, FA3 TING2, 4
+法西斯, FA3 XI1 SI1, 4
+法则, FA3 ZE2, 4
+帆, FAN1, 4
+帆船, FAN1 CHUAN2, 4
+番茄, FAN1 QIE2, 4
+繁, FAN2, 4
+繁多, FAN2 DUO1, 4
+繁华, FAN2 HUA2, 4
+繁忙, FAN2 MANG2, 4
+繁体字, FAN2 TI3 ZI4, 4
+繁重, FAN2 ZHONG4, 4
+烦闷, FAN2 MEN4, 4
+烦恼, FAN2 NAO3, 4
+烦躁, FAN2 ZAO4, 4
+反驳, FAN3 BO2, 4
+反常, FAN3 CHANG2, 4
+反倒, FAN3 DAO4, 4
+反感, FAN3 GAN3, 4
+反革命, FAN3 GE2 MING4, 4
+反攻, FAN3 GONG1, 4
+反馈, FAN3 KUI4, 4
+反面, FAN3 MIAN4, 4
+反射, FAN3 SHE4, 4
+反思, FAN3 SI1, 4
+反之, FAN3 ZHI1, 4
+返回, FAN3 HUI2, 4
+贩卖, FAN4 MAI4, 4
+范畴, FAN4 CHOU2, 4
+犯法, FAN4 FA3, 4
+犯浑, FAN4 HUN2, 4
+饭碗, FAN4 WAN3, 4
+泛, FAN4, 4
+方程, FANG1 CHENG2, 4
+房东, FANG2 DONG1, 4
+房租, FANG2 ZU1, 4
+防护, FANG2 HU4, 4
+防线, FANG2 XIAN4, 4
+防汛, FANG2 XUN4, 4
+防疫, FANG2 YI4, 4
+放射, FANG4 SHE4, 4
+非法, FEI1 FA3, 4
+飞船, FEI1 CHUAN2, 4
+飞舞, FEI1 WU3, 4
+飞翔, FEI1 XIANG2, 4
+肥沃, FEI2 WO4, 4
+匪徒, FEI3 TU2, 4
+诽谤, FEI3 BANG4, 4
+肺炎, FEI4 YAN2, 4
+废品, FEI4 PIN3, 4
+废气, FEI4 QI4, 4
+废物, FEI4 WU4, 4
+分辩, FEN1 BIAN4, 4
+分辨, FEN1 BIAN4, 4
+分寸, FEN1 CUN5, 4
+分队, FEN1 DUI4, 4
+分红, FEN1 HONG2, 4
+分化, FEN1 HUA4, 4
+分类, FEN1 LEI4, 4
+分母, FEN1 MU3, 4
+分批, FEN1 PI1, 4
+分期, FEN1 QI1, 4
+分歧, FEN1 QI2, 4
+分清, FEN1 QING1, 4
+芬芳, FEN1 FANG1, 4
+坟墓, FEN2 MU4, 4
+粉末, FEN3 MO4, 4
+分外, FEN4 WAI4, 4
+奋勇, FEN4 YONG3, 4
+奋战, FEN4 ZHAN4, 4
+愤恨, FEN4 HEN4, 4
+丰满, FENG1 MAN3, 4
+封闭, FENG1 BI4, 4
+蜂, FENG1, 4
+蜂蜜, FENG1 MI4, 4
+锋利, FENG1 LI4, 4
+风暴, FENG1 BAO4, 4
+风度, FENG1 DU4, 4
+风光, FENG1 GUANG1, 4
+风浪, FENG1 LANG4, 4
+风趣, FENG1 QU4, 4
+风沙, FENG1 SHA1, 4
+风尚, FENG1 SHANG4, 4
+风味, FENG1 WEI4, 4
+风险, FENG1 XIAN3, 4
+风筝, FENG1 ZHENG5, 4
+疯子, FENG1 ZI5, 4
+缝, FENG4, 4
+奉献, FENG4 XIAN4, 4
+奉行, FENG4 XING2, 4
+凤凰, FENG4 HUANG2, 4
+否, FOU3, 4
+否决, FOU3 JUE2, 4
+否认, FOU3 REN4, 4
+夫妇, FU1 FU4, 4
+敷衍, FU1 YAN3, 4
+伏, FU2, 4
+辐射, FU2 SHE4, 4
+幅度, FU2 DU4, 4
+符号, FU2 HAO4, 4
+俘虏, FU2 LU3, 4
+服气, FU2 QI4, 4
+服装, FU2 ZHUANG1, 4
+浮雕, FU2 DIAO1, 4
+浮动, FU2 DONG4, 4
+福, FU2, 4
+福利, FU2 LI4, 4
+福气, FU2 QI5, 4
+抚养, FU3 YANG3, 4
+抚育, FU3 YU4, 4
+辅助, FU3 ZHU4, 4
+斧子, FU3 ZI5, 4
+腐败, FU3 BAI4, 4
+腐化, FU3 HUA4, 4
+腐烂, FU3 LAN4, 4
+赴, FU4, 4
+副业, FU4 YE4, 4
+副作用, FU4 ZUO4 YONG4, 4
+覆盖, FU4 GAI4, 4
+赋予, FU4 YU3, 4
+复, FU4, 4
+复辟, FU4 BI4, 4
+复合, FU4 HE2, 4
+复活, FU4 HUO2, 4
+复兴, FU4 XING1, 4
+付出, FU4 CHU1, 4
+付款, FU4 KUAN3, 4
+腹, FU4, 4
+负伤, FU4 SHANG1, 4
+富强, FU4 QIANG2, 4
+富余, FU4 YU5, 4
+附带, FU4 DAI4, 4
+附和, FU4 HE4, 4
+附加, FU4 JIA1, 4
+附属, FU4 SHU3, 4
+改建, GAI3 JIAN4, 4
+改邪归正, GAI3 XIE2 GUI1 ZHENG4, 4
+改组, GAI3 ZU3, 4
+概况, GAI4 KUANG4, 4
+钙, GAI4, 4
+干预, GAN1 YU4, 4
+甘心, GAN1 XIN1, 4
+甘蔗, GAN1 ZHE5, 4
+竿, GAN1, 4
+肝炎, GAN1 YAN2, 4
+秆, GAN3, 4
+感, GAN3, 4
+感化, GAN3 HUA4, 4
+感慨, GAN3 KAI3, 4
+感染, GAN3 RAN3, 4
+干线, GAN4 XIAN4, 4
+钢材, GANG1 CAI2, 4
+钢琴, GANG1 QIN2, 4
+纲, GANG1, 4
+纲要, GANG1 YAO4, 4
+杠杆, GANG4 GAN3, 4
+高产, GAO1 CHAN3, 4
+高超, GAO1 CHAO1, 4
+高档, GAO1 DANG4, 4
+高低, GAO1 DI1, 4
+高贵, GAO1 GUI4, 4
+高考, GAO1 KAO3, 4
+高空, GAO1 KONG1, 4
+高明, GAO1 MING2, 4
+高烧, GAO1 SHAO1, 4
+高温, GAO1 WEN1, 4
+高血压, GAO1 XUE4 YA1, 4
+高涨, GAO1 ZHANG3, 4
+搞鬼, GAO3 GUI3, 4
+搞活, GAO3 HUO2, 4
+稿件, GAO3 JIAN4, 4
+稿纸, GAO3 ZHI3, 4
+稿子, GAO3 ZI5, 4
+告诫, GAO4 JIE4, 4
+告状, GAO4 ZHUANG4, 4
+歌手, GE1 SHOU3, 4
+歌星, GE1 XING1, 4
+歌咏, GE1 YONG3, 4
+疙瘩, GE1 DA5, 4
+格, GE2, 4
+格格不入, GE2 GE2 BU4 RU4, 4
+格局, GE2 JU2, 4
+格式, GE2 SHI5, 4
+隔绝, GE2 JUE2, 4
+隔离, GE2 LI2, 4
+各奔前程, GE4 BEN4 QIAN2 CHENG2, 4
+各别, GE4 BIE2, 4
+各行各业, GE4 HANG2 GE4 YE4, 4
+各界, GE4 JIE4, 4
+根据地, GEN1 JU4 DI4, 4
+根深蒂固, GEN1 SHEN1 DI4 GU4, 4
+跟随, GEN1 SUI2, 4
+跟头, GEN1 TOU5, 4
+跟踪, GEN1 ZONG1, 4
+耕, GENG1, 4
+耕种, GENG1 ZHONG4, 4
+更改, GENG1 GAI3, 4
+更换, GENG1 HUAN4, 4
+更新, GENG1 XIN1, 4
+更正, GENG1 ZHENG4, 4
+梗, GENG3, 4
+工, GONG1, 4
+工具书, GONG1 JU4 SHU1, 4
+工人阶级, GONG1 REN2 JIE1 JI2, 4
+工事, GONG1 SHI4, 4
+攻读, GONG1 DU2, 4
+攻关, GONG1 GUAN1, 4
+功, GONG1, 4
+功绩, GONG1 JI4, 4
+功效, GONG1 XIAO4, 4
+恭敬, GONG1 JING4, 4
+供不应求, GONG1 BU4 YING4 QIU2, 4
+供销, GONG1 XIAO1, 4
+公报, GONG1 BAO4, 4
+公尺, GONG1 CHI3, 4
+公道, GONG1 DAO5, 4
+公分, GONG1 FEN1, 4
+公告, GONG1 GAO4, 4
+公关, GONG1 GUAN1, 4
+公平, GONG1 PING2, 4
+公然, GONG1 RAN2, 4
+公认, GONG1 REN4, 4
+公社, GONG1 SHE4, 4
+公务, GONG1 WU4, 4
+公有, GONG1 YOU3, 4
+公有制, GONG1 YOU3 ZHI4, 4
+公约, GONG1 YUE1, 4
+公债, GONG1 ZHAI4, 4
+公证, GONG1 ZHENG4, 4
+汞, GONG3, 4
+拱, GONG3, 4
+共产主义, GONG4 CHAN3 ZHU3 YI4, 4
+共计, GONG4 JI4, 4
+共鸣, GONG4 MING2, 4
+共性, GONG4 XING4, 4
+勾, GOU1, 4
+沟通, GOU1 TONG1, 4
+构成, GOU4 CHENG2, 4
+构思, GOU4 SI1, 4
+构想, GOU4 XIANG3, 4
+孤单, GU1 DAN1, 4
+孤独, GU1 DU2, 4
+姑且, GU1 QIE3, 4
+鼓, GU3, 4
+鼓吹, GU3 CHUI1, 4
+古怪, GU3 GUAI4, 4
+古人, GU3 REN2, 4
+古文, GU3 WEN2, 4
+骨, GU3, 4
+骨肉, GU3 ROU4, 4
+股东, GU3 DONG1, 4
+股份, GU3 FEN4, 4
+股票, GU3 PIAO4, 4
+雇佣, GU4 YONG1, 4
+雇员, GU4 YUAN2, 4
+故, GU4, 4
+故宫, GU4 GONG1, 4
+故障, GU4 ZHANG4, 4
+顾不得, GU4 BU5 DE5, 4
+顾虑, GU4 LÜ4, 4
+顾全大局, GU4 QUAN2 DA4 JU2, 4
+固有, GU4 YOU3, 4
+固执, GU4 ZHI2, 4
+瓜分, GUA1 FEN1, 4
+挂钩, GUA4 GOU1, 4
+挂念, GUA4 NIAN4, 4
+棺材, GUAN1 CAI5, 4
+关闭, GUAN1 BI4, 4
+关节炎, GUAN1 JIE2 YAN2, 4
+关切, GUAN1 QIE4, 4
+官方, GUAN1 FANG1, 4
+官僚, GUAN1 LIAO2, 4
+官员, GUAN1 YUAN2, 4
+观光, GUAN1 GUANG1, 4
+观赏, GUAN1 SHANG3, 4
+管辖, GUAN3 XIA2, 4
+惯例, GUAN4 LI4, 4
+惯用语, GUAN4 YONG4 YU3, 4
+灌木, GUAN4 MU4, 4
+光棍儿, GUANG1 GUN4 R5, 4
+光亮, GUANG1 LIANG4, 4
+光芒, GUANG1 MANG2, 4
+规范, GUI1 FAN4, 4
+规格, GUI1 GE2, 4
+规章, GUI1 ZHANG1, 4
+硅, GUI1, 4
+龟, GUI1, 4
+归根到底, GUI1 GEN1 DAO4 DI3, 4
+归还, GUI1 HUAN2, 4
+归结, GUI1 JIE2, 4
+归纳, GUI1 NA4, 4
+闺女, GUI1 NÜ5, 4
+鬼子, GUI3 ZI5, 4
+桂冠, GUI4 GUAN1, 4
+贵重, GUI4 ZHONG4, 4
+贵族, GUI4 ZU2, 4
+滚动, GUN3 DONG4, 4
+国产, GUO2 CHAN3, 4
+国法, GUO2 FA3, 4
+国会, GUO2 HUI4, 4
+国际法, GUO2 JI4 FA3, 4
+国际主义, GUO2 JI4 ZHU3 YI4, 4
+国库券, GUO2 KU4 QUAN4, 4
+国力, GUO2 LI4, 4
+国民, GUO2 MIN2, 4
+国情, GUO2 QING2, 4
+国土, GUO2 TU3, 4
+国有, GUO2 YOU3, 4
+果断, GUO3 DUAN4, 4
+过度, GUO4 DU4, 4
+过后, GUO4 HOU4, 4
+过滤, GUO4 LÜ4, 4
+过失, GUO4 SHI1, 4
+过问, GUO4 WEN4, 4
+过于, GUO4 YU2, 4
+海岸, HAI3 AN4, 4
+海滨, HAI3 BIN1, 4
+海港, HAI3 GANG3, 4
+海外, HAI3 WAI4, 4
+害羞, HAI4 XIU1, 4
+含义, HAN2 YI4, 4
+含有, HAN2 YOU3, 4
+寒, HAN2, 4
+寒暄, HAN2 XUAN1, 4
+函授, HAN2 SHOU4, 4
+罕见, HAN3 JIAN4, 4
+捍卫, HAN4 WEI4, 4
+旱灾, HAN4 ZAI1, 4
+汉奸, HAN4 JIAN1, 4
+汉学, HAN4 XUE2, 4
+航班, HANG2 BAN1, 4
+航道, HANG2 DAO4, 4
+航海, HANG2 HAI3, 4
+航天, HANG2 TIAN1, 4
+航线, HANG2 XIAN4, 4
+航运, HANG2 YUN4, 4
+豪华, HAO2 HUA2, 4
+好多, HAO3 DUO1, 4
+好感, HAO3 GAN3, 4
+好坏, HAO3 HUAI4, 4
+好说, HAO3 SHUO1, 4
+好样的, HAO3 YANG4 DE5, 4
+好在, HAO3 ZAI4, 4
+好转, HAO3 ZHUAN3, 4
+耗费, HAO4 FEI4, 4
+号称, HAO4 CHENG1, 4
+浩浩荡荡, HAO4 HAO5 DANG4 DANG4, 4
+好客, HAO4 KE4, 4
+荷花, HE2 HUA1, 4
+核桃, HE2 TAO5, 4
+核武器, HE2 WU3 QI4, 4
+核心, HE2 XIN1, 4
+和蔼, HE2 AI3, 4
+和解, HE2 JIE3, 4
+和睦, HE2 MU4, 4
+和平共处, HE2 PING2 GONG4 CHU3, 4
+和气, HE2 QI5, 4
+和尚, HE2 SHANG5, 4
+和谐, HE2 XIE2, 4
+和约, HE2 YUE1, 4
+何, HE2, 4
+何等, HE2 DENG3, 4
+合并, HE2 BING4, 4
+合乎, HE2 HU1, 4
+合伙, HE2 HUO3, 4
+合情合理, HE2 QING2 HE2 LI3, 4
+合营, HE2 YING2, 4
+合资, HE2 ZI1, 4
+禾苗, HE2 MIAO2, 4
+河道, HE2 DAO4, 4
+贺词, HE4 CI2, 4
+黑白, HEI1 BAI2, 4
+狠毒, HEN3 DU2, 4
+狠心, HEN3 XIN1, 4
+恒星, HENG2 XING1, 4
+横行, HENG2 XING2, 4
+横, HENG4, 4
+轰动, HONG1 DONG4, 4
+轰轰烈烈, HONG1 HONG1 LIE4 LIE4, 4
+轰炸, HONG1 ZHA4, 4
+烘, HONG1, 4
+虹, HONG2, 4
+宏大, HONG2 DA4, 4
+红领巾, HONG2 LING3 JIN1, 4
+哄, HONG3, 4
+哄, HONG4, 4
+厚度, HOU4 DU4, 4
+候补, HOU4 BU3, 4
+候选人, HOU4 XUAN3 REN2, 4
+后期, HOU4 QI1, 4
+后勤, HOU4 QIN2, 4
+后台, HOU4 TAI2, 4
+呼声, HU1 SHENG1, 4
+呼啸, HU1 XIAO4, 4
+呼吁, HU1 YU4, 4
+忽略, HU1 LÜE4, 4
+葫芦, HU2 LU5, 4
+胡, HU2, 4
+胡来, HU2 LAI2, 4
+糊, HU2, 4
+狐狸, HU2 LI5, 4
+互利, HU4 LI4, 4
+户口, HU4 KOU3, 4
+花费, HUA1 FEI4, 4
+花色, HUA1 SE4, 4
+花纹, HUA1 WEN2, 4
+花样, HUA1 YANG4, 4
+华丽, HUA2 LI4, 4
+画面, HUA4 MIAN4, 4
+划分, HUA4 FEN1, 4
+化肥, HUA4 FEI2, 4
+化纤, HUA4 XIAN1, 4
+化妆, HUA4 ZHUANG1, 4
+话题, HUA4 TI2, 4
+槐树, HUAI2 SHU4, 4
+怀孕, HUAI2 YUN4, 4
+欢笑, HUAN1 XIAO4, 4
+环节, HUAN2 JIE2, 4
+还原, HUAN2 YUAN2, 4
+缓, HUAN3, 4
+换取, HUAN4 QU3, 4
+患者, HUAN4 ZHE3, 4
+荒地, HUANG1 DI4, 4
+荒凉, HUANG1 LIANG2, 4
+荒谬, HUANG1 MIU4, 4
+荒唐, HUANG1 TANG2, 4
+慌乱, HUANG1 LUAN4, 4
+慌张, HUANG1 ZHANG1, 4
+黄金, HUANG2 JIN1, 4
+皇后, HUANG2 HOU4, 4
+蝗虫, HUANG2 CHONG2, 4
+晃, HUANG4, 4
+挥霍, HUI1 HUO4, 4
+回避, HUI2 BI4, 4
+回顾, HUI2 GU4, 4
+回击, HUI2 JI1, 4
+回收, HUI2 SHOU1, 4
+毁坏, HUI3 HUAI4, 4
+毁灭, HUI3 MIE4, 4
+悔, HUI3, 4
+悔改, HUI3 GAI3, 4
+悔恨, HUI3 HEN4, 4
+贿赂, HUI4 LU4, 4
+会同, HUI4 TONG2, 4
+会晤, HUI4 WU4, 4
+会员, HUI4 YUAN2, 4
+汇集, HUI4 JI2, 4
+汇率, HUI4 LÜ4, 4
+绘, HUI4, 4
+混纺, HUN4 FANG3, 4
+混合物, HUN4 HE2 WU4, 4
+混浊, HUN4 ZHUO2, 4
+豁, HUO1, 4
+活力, HUO2 LI4, 4
+伙, HUO3, 4
+伙计, HUO3 JI5, 4
+火山, HUO3 SHAN1, 4
+火灾, HUO3 ZAI1, 4
+获取, HUO4 QU3, 4
+或是, HUO4 SHI4, 4
+或许, HUO4 XU3, 4
+祸, HUO4, 4
+祸害, HUO4 HAI4, 4
+击, JI1, 4
+基督教, JI1 DU1 JIAO4, 4
+基金, JI1 JIN1, 4
+机车, JI1 CHE1, 4
+机灵, JI1 LING5, 4
+机密, JI1 MI4, 4
+机枪, JI1 QIANG1, 4
+机体, JI1 TI3, 4
+机遇, JI1 YU4, 4
+机智, JI1 ZHI4, 4
+积, JI1, 4
+积压, JI1 YA1, 4
+激, JI1, 4
+激发, JI1 FA1, 4
+激光, JI1 GUANG1, 4
+激励, JI1 LI4, 4
+激情, JI1 QING2, 4
+讥笑, JI1 XIAO4, 4
+吉普车, JI2 PU3 CHE1, 4
+吉祥, JI2 XIANG2, 4
+极度, JI2 DU4, 4
+极力, JI2 LI4, 4
+极限, JI2 XIAN4, 4
+籍贯, JI2 GUAN4, 4
+集会, JI2 HUI4, 4
+集市, JI2 SHI4, 4
+集邮, JI2 YOU2, 4
+集资, JI2 ZI1, 4
+及早, JI2 ZAO3, 4
+急剧, JI2 JU4, 4
+急切, JI2 QIE4, 4
+急需, JI2 XU1, 4
+急于, JI2 YU2, 4
+即便, JI2 BIAN4, 4
+嫉妒, JI2 DU4, 4
+脊梁, JI3 LIANG5, 4
+几何, JI3 HE2, 4
+迹象, JI4 XIANG4, 4
+季度, JI4 DU4, 4
+寄托, JI4 TUO1, 4
+寂静, JI4 JING4, 4
+计较, JI4 JIAO4, 4
+记号, JI4 HAO5, 4
+记性, JI4 XING5, 4
+记忆力, JI4 YI4 LI4, 4
+忌, JI4, 4
+继, JI4, 4
+纪要, JI4 YAO4, 4
+嘉奖, JIA1 JIANG3, 4
+夹杂, JIA1 ZA2, 4
+家常, JIA1 CHANG2, 4
+家畜, JIA1 CHU4, 4
+家务, JIA1 WU4, 4
+家喻户晓, JIA1 YU4 HU4 XIAO3, 4
+家长, JIA1 ZHANG3, 4
+加班, JIA1 BAN1, 4
+加急, JIA1 JI2, 4
+加剧, JIA1 JU4, 4
+加热, JIA1 RE4, 4
+加深, JIA1 SHEN1, 4
+加重, JIA1 ZHONG4, 4
+颊, JIA2, 4
+甲板, JIA3 BAN3, 4
+假定, JIA3 DING4, 4
+假冒, JIA3 MAO4, 4
+假设, JIA3 SHE4, 4
+假装, JIA3 ZHUANG1, 4
+驾, JIA4, 4
+监察, JIAN1 CHA2, 4
+坚韧, JIAN1 REN4, 4
+坚实, JIAN1 SHI2, 4
+坚信, JIAN1 XIN4, 4
+坚贞不屈, JIAN1 ZHEN1 BU4 QU1, 4
+尖端, JIAN1 DUAN1, 4
+兼任, JIAN1 REN4, 4
+肩膀, JIAN1 BANG3, 4
+艰险, JIAN1 XIAN3, 4
+奸, JIAN1, 4
+茧, JIAN3, 4
+检测, JIAN3 CE4, 4
+检察, JIAN3 CHA2, 4
+检举, JIAN3 JU3, 4
+检修, JIAN3 XIU1, 4
+简称, JIAN3 CHENG1, 4
+简短, JIAN3 DUAN3, 4
+简化, JIAN3 HUA4, 4
+简陋, JIAN3 LOU4, 4
+简明, JIAN3 MING2, 4
+简体字, JIAN3 TI3 ZI4, 4
+简要, JIAN3 YAO4, 4
+简易, JIAN3 YI4, 4
+剪彩, JIAN3 CAI3, 4
+剪刀, JIAN3 DAO1, 4
+减产, JIAN3 CHAN3, 4
+减低, JIAN3 DI1, 4
+减弱, JIAN3 RUO4, 4
+间隔, JIAN4 GE2, 4
+间接, JIAN4 JIE1, 4
+鉴别, JIAN4 BIE2, 4
+鉴于, JIAN4 YU2, 4
+践踏, JIAN4 TA4, 4
+见识, JIAN4 SHI5, 4
+见效, JIAN4 XIAO4, 4
+键盘, JIAN4 PAN2, 4
+健美, JIAN4 MEI3, 4
+健壮, JIAN4 ZHUANG4, 4
+建交, JIAN4 JIAO1, 4
+姜, JIANG1, 4
+将近, JIANG1 JIN4, 4
+桨, JIANG3, 4
+奖品, JIANG3 PIN3, 4
+奖状, JIANG3 ZHUANG4, 4
+讲解, JIANG3 JIE3, 4
+讲理, JIANG3 LI3, 4
+讲述, JIANG3 SHU4, 4
+讲演, JIANG3 YAN3, 4
+降价, JIANG4 JIA4, 4
+降临, JIANG4 LIN2, 4
+降落, JIANG4 LUO4, 4
+焦点, JIAO1 DIAN3, 4
+焦炭, JIAO1 TAN4, 4
+胶, JIAO1, 4
+胶片, JIAO1 PIAN4, 4
+交叉, JIAO1 CHA1, 4
+交错, JIAO1 CUO4, 4
+交点, JIAO1 DIAN3, 4
+交付, JIAO1 FU4, 4
+交涉, JIAO1 SHE4, 4
+交手, JIAO1 SHOU3, 4
+交替, JIAO1 TI4, 4
+交往, JIAO1 WANG3, 4
+浇灌, JIAO1 GUAN4, 4
+娇, JIAO1, 4
+娇气, JIAO1 QI4, 4
+嚼, JIAO2, 4
+搅拌, JIAO3 BAN4, 4
+绞, JIAO3, 4
+缴, JIAO3, 4
+缴纳, JIAO3 NA4, 4
+教会, JIAO4 HUI4, 4
+教唆, JIAO4 SUO1, 4
+教条, JIAO4 TIAO2, 4
+教养, JIAO4 YANG3, 4
+轿车, JIAO4 CHE1, 4
+较量, JIAO4 LIANG4, 4
+叫喊, JIAO4 HAN3, 4
+叫唤, JIAO4 HUAN5, 4
+叫嚷, JIAO4 RANG3, 4
+揭发, JIE1 FA1, 4
+揭示, JIE1 SHI4, 4
+接班, JIE1 BAN1, 4
+接二连三, JIE1 ER4 LIAN2 SAN1, 4
+接洽, JIE1 QIA4, 4
+接收, JIE1 SHOU1, 4
+皆, JIE1, 4
+街坊, JIE1 FANG5, 4
+街头, JIE1 TOU2, 4
+结果, JIE2 GUO3, 4
+截止, JIE2 ZHI3, 4
+劫, JIE2, 4
+劫持, JIE2 CHI2, 4
+节能, JIE2 NENG2, 4
+节育, JIE2 YU4, 4
+节奏, JIE2 ZOU4, 4
+杰出, JIE2 CHU1, 4
+杰作, JIE2 ZUO4, 4
+结晶, JIE2 JING1, 4
+结局, JIE2 JU2, 4
+结算, JIE2 SUAN4, 4
+结业, JIE2 YE4, 4
+解除, JIE3 CHU2, 4
+解雇, JIE3 GU4, 4
+解散, JIE3 SAN4, 4
+戒严, JIE4 YAN2, 4
+界, JIE4, 4
+界限, JIE4 XIAN4, 4
+借鉴, JIE4 JIAN4, 4
+借助, JIE4 ZHU4, 4
+金额, JIN1 E2, 4
+金黄, JIN1 HUANG2, 4
+金牌, JIN1 PAI2, 4
+金钱, JIN1 QIAN2, 4
+金融, JIN1 RONG2, 4
+筋, JIN1, 4
+津津有味, JIN1 JIN1 YOU3 WEI4, 4
+津贴, JIN1 TIE1, 4
+紧迫, JIN3 PO4, 4
+紧缩, JIN3 SUO1, 4
+锦绣, JIN3 XIU4, 4
+尽快, JIN3 KUAI4, 4
+进程, JIN4 CHENG2, 4
+进而, JIN4 ER2, 4
+进取, JIN4 QU3, 4
+进展, JIN4 ZHAN3, 4
+晋升, JIN4 SHENG1, 4
+禁, JIN4, 4
+禁区, JIN4 QU1, 4
+近年, JIN4 NIAN2, 4
+近期, JIN4 QI1, 4
+近视, JIN4 SHI5, 4
+近似, JIN4 SI4, 4
+劲头, JIN4 TOU2, 4
+惊慌, JING1 HUANG1, 4
+精打细算, JING1 DA3 XI4 SUAN4, 4
+精华, JING1 HUA2, 4
+精简, JING1 JIAN3, 4
+精美, JING1 MEI3, 4
+精密, JING1 MI4, 4
+精确, JING1 QUE4, 4
+精通, JING1 TONG1, 4
+精心, JING1 XIN1, 4
+精益求精, JING1 YI4 QIU2 JING1, 4
+兢兢业业, JING1 JING1 YE4 YE4, 4
+经典, JING1 DIAN3, 4
+经商, JING1 SHANG1, 4
+经受, JING1 SHOU4, 4
+经销, JING1 XIAO1, 4
+茎, JING1, 4
+警戒, JING3 JIE4, 4
+警卫, JING3 WEI4, 4
+景, JING3, 4
+颈, JING3, 4
+静悄悄, JING4 QIAO1 QIAO1, 4
+境地, JING4 DI4, 4
+境界, JING4 JIE4, 4
+敬, JING4, 4
+敬而远之, JING4 ER2 YUAN3 ZHI1, 4
+镜头, JING4 TOU2, 4
+竞选, JING4 XUAN3, 4
+净化, JING4 HUA4, 4
+纠纷, JIU1 FEN1, 4
+玖, JIU3, 4
+酒会, JIU3 HUI4, 4
+酒精, JIU3 JING1, 4
+救济, JIU4 JI4, 4
+救灾, JIU4 ZAI1, 4
+就餐, JIU4 CAN1, 4
+就地, JIU4 DI4, 4
+就近, JIU4 JIN4, 4
+就算, JIU4 SUAN4, 4
+就业, JIU4 YE4, 4
+就职, JIU4 ZHI2, 4
+鞠躬, JU1 GONG1, 4
+拘留, JU1 LIU2, 4
+拘束, JU1 SHU4, 4
+居, JU1, 4
+居室, JU1 SHI4, 4
+菊花, JU2 HUA1, 4
+局势, JU2 SHI4, 4
+局限, JU2 XIAN4, 4
+举动, JU3 DONG4, 4
+举世闻名, JU3 SHI4 WEN2 MING2, 4
+举世瞩目, JU3 SHI4 ZHU3 MU4, 4
+聚会, JU4 HUI4, 4
+拒, JU4, 4
+据点, JU4 DIAN3, 4
+据悉, JU4 XI1, 4
+具, JU4, 4
+锯, JU4, 4
+剧本, JU4 BEN3, 4
+剧团, JU4 TUAN2, 4
+捐, JUAN1, 4
+捐款, JUAN1 KUAN3, 4
+捐献, JUAN1 XIAN4, 4
+捐赠, JUAN1 ZENG4, 4
+圈, JUAN4, 4
+掘, JUE2, 4
+觉察, JUE2 CHA2, 4
+觉醒, JUE2 XING3, 4
+决不, JUE2 BU4, 4
+决策, JUE2 CE4, 4
+决赛, JUE2 SAI4, 4
+决算, JUE2 SUAN4, 4
+决战, JUE2 ZHAN4, 4
+绝望, JUE2 WANG4, 4
+绝缘, JUE2 YUAN2, 4
+菌, JUN1, 4
+军阀, JUN1 FA2, 4
+军医, JUN1 YI1, 4
+军用, JUN1 YONG4, 4
+军装, JUN1 ZHUANG1, 4
+君, JUN1, 4
+俊, JUN4, 4
+卡, KA3, 4
+卡片, KA3 PIAN4, 4
+开采, KAI1 CAI3, 4
+开刀, KAI1 DAO1, 4
+开工, KAI1 GONG1, 4
+开关, KAI1 GUAN1, 4
+开化, KAI1 HUA4, 4
+开垦, KAI1 KEN3, 4
+开阔, KAI1 KUO4, 4
+开朗, KAI1 LANG3, 4
+开天辟地, KAI1 TIAN1 PI4 DI4, 4
+开头, KAI1 TOU2, 4
+开拓, KAI1 TUO4, 4
+开心, KAI1 XIN1, 4
+开支, KAI1 ZHI1, 4
+凯旋, KAI3 XUAN2, 4
+刊登, KAN1 DENG1, 4
+勘探, KAN1 TAN4, 4
+看待, KAN4 DAI4, 4
+看起来, KAN4 QI5 LAI5, 4
+看望, KAN4 WANG4, 4
+看作, KAN4 ZUO4, 4
+慷慨, KANG1 KAI3, 4
+糠, KANG1, 4
+抗旱, KANG4 HAN4, 4
+抗击, KANG4 JI1, 4
+抗战, KANG4 ZHAN4, 4
+炕, KANG4, 4
+考古, KAO3 GU3, 4
+考核, KAO3 HE2, 4
+考取, KAO3 QU3, 4
+磕, KE1, 4
+颗粒, KE1 LI4, 4
+科目, KE1 MU4, 4
+可歌可泣, KE3 GE1 KE3 QI4, 4
+可观, KE3 GUAN1, 4
+可贵, KE3 GUI4, 4
+可口, KE3 KOU3, 4
+可恶, KE3 WU4, 4
+可喜, KE3 XI3, 4
+可想而知, KE3 XIANG3 ER2 ZHI1, 4
+客车, KE4 CHE1, 4
+课时, KE4 SHI2, 4
+课题, KE4 TI2, 4
+啃, KEN3, 4
+恳切, KEN3 QIE4, 4
+恳求, KEN3 QIU2, 4
+空洞, KONG1 DONG4, 4
+空话, KONG1 HUA4, 4
+空调, KONG1 TIAO2, 4
+空想, KONG1 XIANG3, 4
+空心, KONG1 XIN1, 4
+空虚, KONG1 XU1, 4
+恐惧, KONG3 JU4, 4
+孔雀, KONG3 QUE4, 4
+空白, KONG4 BAI2, 4
+空隙, KONG4 XI4, 4
+控诉, KONG4 SU4, 4
+抠, KOU1, 4
+口岸, KOU3 AN4, 4
+口腔, KOU3 QIANG1, 4
+枯燥, KU1 ZAO4, 4
+苦难, KU3 NAN4, 4
+苦恼, KU3 NAO3, 4
+库, KU4, 4
+库存, KU4 CUN2, 4
+库房, KU4 FANG2, 4
+夸奖, KUA1 JIANG3, 4
+挎, KUA4, 4
+快速, KUAI4 SU4, 4
+会计, KUAI4 JI4, 4
+宽敞, KUAN1 CHANG5, 4
+宽大, KUAN1 DA4, 4
+宽广, KUAN1 GUANG3, 4
+狂妄, KUANG2 WANG4, 4
+框, KUANG4, 4
+矿藏, KUANG4 CANG2, 4
+矿产, KUANG4 CHAN3, 4
+矿井, KUANG4 JING3, 4
+矿区, KUANG4 QU1, 4
+矿山, KUANG4 SHAN1, 4
+矿物, KUANG4 WU4, 4
+旷工, KUANG4 GONG1, 4
+旷课, KUANG4 KE4, 4
+亏, KUI1, 4
+亏待, KUI1 DAI4, 4
+亏损, KUI1 SUN3, 4
+葵花, KUI2 HUA1, 4
+困苦, KUN4 KU3, 4
+扩充, KUO4 CHONG1, 4
+扩建, KUO4 JIAN4, 4
+扩散, KUO4 SAN4, 4
+扩展, KUO4 ZHAN3, 4
+扩张, KUO4 ZHANG1, 4
+腊月, LA4 YUE4, 4
+蜡烛, LA4 ZHU2, 4
+来访, LAI2 FANG3, 4
+来回来去, LAI2 HUI2 LAI2 QU4, 4
+来看, LAI2 KAN4, 4
+来历, LAI2 LI4, 4
+来临, LAI2 LIN2, 4
+来年, LAI2 NIAN2, 4
+_来说_, LAI2 SHUO1, 4
+赖, LAI4, 4
+兰花, LAN2 HUA1, 4
+栏杆, LAN2 GAN1, 4
+懒惰, LAN3 DUO4, 4
+狼狈, LANG2 BEI4, 4
+浪潮, LANG4 CHAO2, 4
+浪漫, LANG4 MAN4, 4
+劳动力, LAO2 DONG4 LI4, 4
+牢房, LAO2 FANG2, 4
+牢记, LAO2 JI4, 4
+老成, LAO3 CHENG2, 4
+老汉, LAO3 HAN4, 4
+老化, LAO3 HUA4, 4
+老家, LAO3 JIA1, 4
+老鼠, LAO3 SHU3, 4
+老太婆, LAO3 TAI4 PO2, 4
+老天爷, LAO3 TIAN1 YE2, 4
+老爷, LAO3 YE5, 4
+老一辈, LAO3 YI1 BEI4, 4
+涝, LAO4, 4
+乐趣, LE4 QU4, 4
+乐意, LE4 YI4, 4
+勒, LEI1, 4
+雷达, LEI2 DA2, 4
+雷雨, LEI2 YU3, 4
+垒, LEI3, 4
+棱, LENG2, 4
+冷淡, LENG3 DAN4, 4
+犁, LI2, 4
+离别, LI2 BIE2, 4
+离休, LI2 XIU1, 4
+篱笆, LI2 BA5, 4
+理睬, LI3 CAI3, 4
+理会, LI3 HUI4, 4
+理事, LI3 SHI4, 4
+理所当然, LI3 SUO3 DANG1 RAN2, 4
+理直气壮, LI3 ZHI2 QI4 ZHUANG4, 4
+礼节, LI3 JIE2, 4
+礼品, LI3 PIN3, 4
+荔枝, LI4 ZHI1, 4
+栗子, LI4 ZI5, 4
+历代, LI4 DAI4, 4
+历来, LI4 LAI2, 4
+利弊, LI4 BI4, 4
+厉害, LI4 HAI5, 4
+利息, LI4 XI1, 4
+例外, LI4 WAI4, 4
+立方米, LI4 FANG1 MI3, 4
+立交桥, LI4 JIAO1 QIAO2, 4
+立体, LI4 TI3, 4
+沥青, LI4 QING1, 4
+力图, LI4 TU2, 4
+联, LIAN2, 4
+联邦, LIAN2 BANG1, 4
+联想, LIAN2 XIANG3, 4
+连_带_, LIAN2 DAI4, 4
+连队, LIAN2 DUI4, 4
+连滚带爬, LIAN2 GUN3 DAI4 PA2, 4
+连连, LIAN2 LIAN2, 4
+连绵, LIAN2 MIAN2, 4
+连年, LIAN2 NIAN2, 4
+连同, LIAN2 TONG2, 4
+连续剧, LIAN2 XU4 JU4, 4
+连夜, LIAN2 YE4, 4
+莲子, LIAN2 ZI3, 4
+廉价, LIAN2 JIA4, 4
+廉洁, LIAN2 JIE2, 4
+廉政, LIAN2 ZHENG4, 4
+帘, LIAN2, 4
+镰刀, LIAN2 DAO1, 4
+脸盆, LIAN3 PEN2, 4
+恋, LIAN4, 4
+练兵, LIAN4 BING1, 4
+链子, LIAN4 ZI5, 4
+粮票, LIANG2 PIAO4, 4
+梁, LIANG2, 4
+良, LIANG2, 4
+良种, LIANG2 ZHONG3, 4
+两极, LIANG3 JI2, 4
+两口子, LIANG3 KOU3 ZI5, 4
+两手, LIANG3 SHOU3, 4
+晾, LIANG4, 4
+亮光, LIANG4 GUANG1, 4
+疗效, LIAO2 XIAO4, 4
+疗养, LIAO2 YANG3, 4
+辽阔, LIAO2 KUO4, 4
+潦草, LIAO2 CAO3, 4
+列举, LIE4 JU3, 4
+列入, LIE4 RU4, 4
+列席, LIE4 XI2, 4
+烈火, LIE4 HUO3, 4
+劣, LIE4, 4
+林场, LIN2 CHANG3, 4
+林区, LIN2 QU1, 4
+林业, LIN2 YE4, 4
+磷, LIN2, 4
+临床, LIN2 CHUANG2, 4
+临近, LIN2 JIN4, 4
+邻, LIN2, 4
+邻国, LIN2 GUO2, 4
+零售, LING2 SHOU4, 4
+零碎, LING2 SUI4, 4
+零星, LING2 XING1, 4
+玲珑, LING2 LONG2, 4
+伶俐, LING2 LI4, 4
+凌晨, LING2 CHEN2, 4
+灵, LING2, 4
+灵敏, LING2 MIN3, 4
+灵巧, LING2 QIAO3, 4
+岭, LING3, 4
+领事, LING3 SHI4, 4
+领先, LING3 XIAN1, 4
+领子, LING3 ZI5, 4
+硫酸, LIU2 SUAN1, 4
+留恋, LIU2 LIAN4, 4
+留神, LIU2 SHEN2, 4
+留心, LIU2 XIN1, 4
+留意, LIU2 YI4, 4
+流寇, LIU2 KOU4, 4
+流浪, LIU2 LANG4, 4
+流露, LIU2 LU4, 4
+流通, LIU2 TONG1, 4
+陆, LIU4, 4
+龙头, LONG2 TOU2, 4
+聋, LONG2, 4
+隆重, LONG2 ZHONG4, 4
+漏税, LOU4 SHUI4, 4
+路程, LU4 CHENG2, 4
+路面, LU4 MIAN4, 4
+路子, LU4 ZI5, 4
+鹿, LU4, 4
+录取, LU4 QU3, 4
+录用, LU4 YONG4, 4
+旅, LÜ3, 4
+旅店, LÜ3 DIAN4, 4
+旅游, LÜ3 YOU2, 4
+旅游业, LÜ3 YOU2 YE4, 4
+履行, LÜ3 XING2, 4
+屡次, LÜ3 CI4, 4
+律师, LÜ4 SHI1, 4
+率, LÜ4, 4
+绿化, LÜ4 HUA4, 4
+乱七八糟, LUAN4 QI1 BA1 ZAO1, 4
+略微, LÜE4 WEI1, 4
+抡, LUN1, 4
+论点, LUN4 DIAN3, 4
+论述, LUN4 SHU4, 4
+论证, LUN4 ZHENG4, 4
+罗唆, LUO1 SUO1, 4
+螺丝钉, LUO2 SI1 DING1, 4
+骡子, LUO2 ZI5, 4
+罗列, LUO2 LIE4, 4
+箩筐, LUO2 KUANG1, 4
+落成, LUO4 CHENG2, 4
+落地, LUO4 DI4, 4
+落实, LUO4 SHI2, 4
+落选, LUO4 XUAN3, 4
+抹布, MA1 BU4, 4
+麻, MA2, 4
+麻痹, MA2 BI4, 4
+麻袋, MA2 DAI4, 4
+麻木, MA2 MU4, 4
+麻雀, MA2 QUE4, 4
+麻醉, MA2 ZUI4, 4
+蚂蚁, MA3 YI3, 4
+马车, MA3 CHE1, 4
+马达, MA3 DA2, 4
+马力, MA3 LI4, 4
+马铃薯, MA3 LING2 SHU3, 4
+马戏, MA3 XI4, 4
+埋没, MAI2 MO4, 4
+埋头, MAI2 TOU2, 4
+卖国, MAI4 GUO2, 4
+脉搏, MAI4 BO2, 4
+埋怨, MAN2 YUAN4, 4
+满怀, MAN3 HUAI2, 4
+满月, MAN3 YUE4, 4
+慢性, MAN4 XING4, 4
+蔓延, MAN4 YAN2, 4
+茫茫, MANG2 MANG2, 4
+茫然, MANG2 RAN2, 4
+盲从, MANG2 CONG2, 4
+盲人, MANG2 REN2, 4
+忙碌, MANG2 LU4, 4
+茂密, MAO4 MI4, 4
+茂盛, MAO4 SHENG4, 4
+冒进, MAO4 JIN4, 4
+冒牌, MAO4 PAI2, 4
+冒险, MAO4 XIAN3, 4
+玫瑰, MEI2 GUI5, 4
+枚, MEI2, 4
+霉, MEI2, 4
+没吃没穿, MEI2 CHI1 MEI2 CHUAN1, 4
+没辙, MEI2 ZHE2, 4
+媒介, MEI2 JIE4, 4
+镁, MEI3, 4
+美德, MEI3 DE2, 4
+美国, MEI3 GUO2, 4
+美满, MEI3 MAN3, 4
+美妙, MEI3 MIAO4, 4
+美中不足, MEI3 ZHONG1 BU4 ZU2, 4
+门当户对, MEN2 DANG1 HU4 DUI4, 4
+门市部, MEN2 SHI4 BU4, 4
+萌芽, MENG2 YA2, 4
+迷惑, MI2 HUO5, 4
+迷失, MI2 SHI1, 4
+弥补, MI2 BU3, 4
+弥漫, MI2 MAN4, 4
+密度, MI4 DU4, 4
+密封, MI4 FENG1, 4
+棉, MIAN2, 4
+免, MIAN3, 4
+免除, MIAN3 CHU2, 4
+免费, MIAN3 FEI4, 4
+勉励, MIAN3 LI4, 4
+面包车, MIAN4 BAO1 CHE1, 4
+面面俱到, MIAN4 MIAN4 JU4 DAO4, 4
+面目, MIAN4 MU4, 4
+面容, MIAN4 RONG2, 4
+面子, MIAN4 ZI5, 4
+描, MIAO2, 4
+描绘, MIAO2 HUI4, 4
+描述, MIAO2 SHU4, 4
+渺小, MIAO3 XIAO3, 4
+蔑视, MIE4 SHI4, 4
+民航, MIN2 HANG2, 4
+民事, MIN2 SHI4, 4
+民意, MIN2 YI4, 4
+民众, MIN2 ZHONG4, 4
+敏感, MIN3 GAN3, 4
+敏锐, MIN3 RUI4, 4
+明星, MING2 XING1, 4
+名称, MING2 CHENG1, 4
+名次, MING2 CI4, 4
+名单, MING2 DAN1, 4
+名额, MING2 E2, 4
+名副其实, MING2 FU4 QI2 SHI2, 4
+名贵, MING2 GUI4, 4
+名牌, MING2 PAI2, 4
+名人, MING2 REN2, 4
+名声, MING2 SHENG1, 4
+名义, MING2 YI4, 4
+名誉, MING2 YU4, 4
+命名, MING4 MING2, 4
+命题, MING4 TI2, 4
+谬论, MIU4 LUN4, 4
+摸索, MO1 SUO5, 4
+蘑菇, MO2 GU5, 4
+模式, MO2 SHI4, 4
+膜, MO2, 4
+摩擦, MO2 CA1, 4
+魔鬼, MO2 GUI3, 4
+魔术, MO2 SHU4, 4
+抹杀, MO3 SHA1, 4
+莫, MO4, 4
+莫名其妙, MO4 MING2 QI2 MIAO4, 4
+默默, MO4 MO4, 4
+谋, MOU2, 4
+谋求, MOU2 QIU2, 4
+木匠, MU4 JIANG5, 4
+目, MU4, 4
+目睹, MU4 DU3, 4
+目录, MU4 LU4, 4
+目中无人, MU4 ZHONG1 WU2 REN2, 4
+牧区, MU4 QU1, 4
+牧业, MU4 YE4, 4
+穆斯林, MU4 SI1 LIN2, 4
+那时, NA4 SHI2, 4
+纳闷儿, NA4 MEN4 R5, 4
+纳税, NA4 SHUI4, 4
+乃, NAI3, 4
+奶粉, NAI3 FEN3, 4
+耐力, NAI4 LI4, 4
+男性, NAN2 XING4, 4
+难度, NAN2 DU4, 4
+难关, NAN2 GUAN1, 4
+难堪, NAN2 KAN1, 4
+难免, NAN2 MIAN3, 4
+难, NAN4, 4
+难民, NAN4 MIN2, 4
+恼火, NAO3 HUO3, 4
+闹事, NAO4 SHI4, 4
+内地, NEI4 DI4, 4
+内阁, NEI4 GE2, 4
+内行, NEI4 HANG2, 4
+内幕, NEI4 MU4, 4
+内心, NEI4 XIN1, 4
+内在, NEI4 ZAI4, 4
+内脏, NEI4 ZANG4, 4
+内战, NEI4 ZHAN4, 4
+内政, NEI4 ZHENG4, 4
+能手, NENG2 SHOU3, 4
+尼龙, NI2 LONG2, 4
+拟, NI3, 4
+拟定, NI3 DING4, 4
+逆流, NI4 LIU2, 4
+年度, NIAN2 DU4, 4
+年头儿, NIAN2 TOU2 R5, 4
+捻, NIAN3, 4
+撵, NIAN3, 4
+念头, NIAN4 TOU5, 4
+酿, NIANG4, 4
+尿, NIAO4, 4
+捏造, NIE1 ZAO4, 4
+柠檬, NING2 MENG2, 4
+凝固, NING2 GU4, 4
+凝结, NING2 JIE2, 4
+凝视, NING2 SHI4, 4
+宁静, NING2 JING4, 4
+宁肯, NING4 KEN3, 4
+宁愿, NING4 YUAN4, 4
+纽扣儿, NIU3 KOU4 R5, 4
+浓度, NONG2 DU4, 4
+浓厚, NONG2 HOU4, 4
+农产品, NONG2 CHAN3 PIN3, 4
+农户, NONG2 HU4, 4
+弄虚作假, NONG4 XU1 ZUO4 JIA3, 4
+奴役, NU2 YI4, 4
+怒吼, NU4 HOU3, 4
+怒火, NU4 HUO3, 4
+女性, NÜ3 XING4, 4
+挪, NUO2, 4
+殴打, OU1 DA3, 4
+呕吐, OU3 TU4, 4
+扒, PA2, 4
+拍照, PAI1 ZHAO4, 4
+排除, PAI2 CHU2, 4
+排队, PAI2 DUI4, 4
+排挤, PAI2 JI3, 4
+排长, PAI2 ZHANG3, 4
+徘徊, PAI2 HUAI2, 4
+派别, PAI4 BIE2, 4
+派出所, PAI4 CHU1 SUO3, 4
+派遣, PAI4 QIAN3, 4
+盘旋, PAN2 XUAN2, 4
+判处, PAN4 CHU3, 4
+判定, PAN4 DING4, 4
+判决, PAN4 JUE2, 4
+叛变, PAN4 BIAN4, 4
+叛徒, PAN4 TU2, 4
+庞大, PANG2 DA4, 4
+胖子, PANG4 ZI5, 4
+抛弃, PAO1 QI4, 4
+刨, PAO2, 4
+炮火, PAO4 HUO3, 4
+跑道, PAO3 DAO4, 4
+泡沫, PAO4 MO4, 4
+培训, PEI2 XUN4, 4
+赔款, PEI2 KUAN3, 4
+配备, PEI4 BEI4, 4
+配方, PEI4 FANG1, 4
+配偶, PEI4 OU3, 4
+配套, PEI4 TAO4, 4
+喷射, PEN1 SHE4, 4
+烹饪, PENG1 REN4, 4
+烹调, PENG1 TIAO2, 4
+批发, PI1 FA1, 4
+批复, PI1 FU4, 4
+批改, PI1 GAI3, 4
+批示, PI1 SHI4, 4
+坯, PI1, 4
+劈, PI1, 4
+疲惫, PI2 BEI4, 4
+疲乏, PI2 FA2, 4
+皮带, PI2 DAI4, 4
+皮革, PI2 GE2, 4
+屁, PI4, 4
+偏差, PIAN1 CHA1, 4
+偏见, PIAN1 JIAN4, 4
+偏僻, PIAN1 PI4, 4
+偏向, PIAN1 XIANG4, 4
+片刻, PIAN4 KE4, 4
+漂, PIAO1, 4
+撇, PIE1, 4
+瞥, PIE1, 4
+拼搏, PIN1 BO2, 4
+频繁, PIN2 FAN2, 4
+频率, PIN2 LÜ4, 4
+贫, PIN2, 4
+贫乏, PIN2 FA2, 4
+贫困, PIN2 KUN4, 4
+贫民, PIN2 MIN2, 4
+品, PIN3, 4
+品尝, PIN3 CHANG2, 4
+品行, PIN3 XING2, 4
+聘, PIN4, 4
+聘请, PIN4 QING3, 4
+聘任, PIN4 REN4, 4
+聘用, PIN4 YONG4, 4
+平面, PING2 MIAN4, 4
+平民, PING2 MIN2, 4
+平日, PING2 RI4, 4
+平坦, PING2 TAN3, 4
+平稳, PING2 WEN3, 4
+平整, PING2 ZHENG3, 4
+萍水相逢, PING2 SHUI3 XIANG1 FENG2, 4
+评比, PING2 BI3, 4
+评定, PING2 DING4, 4
+评估, PING2 GU1, 4
+评审, PING2 SHEN3, 4
+评选, PING2 XUAN3, 4
+屏障, PING2 ZHANG4, 4
+颇, PO1, 4
+婆婆, PO2 PO5, 4
+破除, PO4 CHU2, 4
+破获, PO4 HUO4, 4
+破旧, PO4 JIU4, 4
+破裂, PO4 LIE4, 4
+破碎, PO4 SUI4, 4
+迫使, PO4 SHI3, 4
+扑克, PU1 KE4, 4
+扑灭, PU1 MIE4, 4
+葡萄糖, PU2 TAO5 TANG2, 4
+仆人, PU2 REN2, 4
+朴实, PU3 SHI2, 4
+普查, PU3 CHA2, 4
+谱, PU3, 4
+谱曲, PU3 QU3, 4
+瀑布, PU4 BU4, 4
+期待, QI1 DAI4, 4
+期刊, QI1 KAN1, 4
+期望, QI1 WANG4, 4
+期限, QI1 XIAN4, 4
+七嘴八舌, QI1 ZUI3 BA1 SHE2, 4
+柒, QI1, 4
+凄惨, QI1 CAN3, 4
+凄凉, QI1 LIANG2, 4
+漆黑, QI1 HEI1, 4
+沏, QI1, 4
+其间, QI2 JIAN1, 4
+奇花异草, QI2 HUA1 YI4 CAO3, 4
+奇妙, QI2 MIAO4, 4
+奇特, QI2 TE4, 4
+歧视, QI2 SHI4, 4
+齐全, QI2 QUAN2, 4
+旗号, QI2 HAO4, 4
+起草, QI3 CAO3, 4
+起点, QI3 DIAN3, 4
+起伏, QI3 FU2, 4
+起哄, QI3 HONG4, 4
+起劲, QI3 JIN4, 4
+起码, QI3 MA3, 4
+起身, QI3 SHEN1, 4
+起诉, QI3 SU4, 4
+岂不, QI3 BU4, 4
+岂有此理, QI3 YOU3 CI3 LI3, 4
+乞求, QI3 QIU2, 4
+启程, QI3 CHENG2, 4
+启示, QI3 SHI4, 4
+启事, QI3 SHI4, 4
+砌, QI4, 4
+器, QI4, 4
+器具, QI4 JU4, 4
+器械, QI4 XIE4, 4
+气喘, QI4 CHUAN3, 4
+气功, QI4 GONG1, 4
+气力, QI4 LI4, 4
+气流, QI4 LIU2, 4
+气魄, QI4 PO4, 4
+气球, QI4 QIU2, 4
+气势, QI4 SHI4, 4
+气息, QI4 XI1, 4
+汽, QI4, 4
+掐, QIA1, 4
+恰到好处, QIA4 DAO4 HAO3 CHU4, 4
+恰巧, QIA4 QIAO3, 4
+恰如其分, QIA4 RU2 QI2 FEN4, 4
+洽谈, QIA4 TAN2, 4
+牵扯, QIAN1 CHE3, 4
+牵引, QIAN1 YIN3, 4
+牵制, QIAN1 ZHI4, 4
+千军万马, QIAN1 JUN1 WAN4 MA3, 4
+千瓦, QIAN1 WA3, 4
+迁, QIAN1, 4
+迁就, QIAN1 JIU4, 4
+签发, QIAN1 FA1, 4
+签名, QIAN1 MING2, 4
+签署, QIAN1 SHU3, 4
+签证, QIAN1 ZHENG4, 4
+签字, QIAN1 ZI4, 4
+谦逊, QIAN1 XUN4, 4
+前辈, QIAN2 BEI4, 4
+前程, QIAN2 CHENG2, 4
+前赴后继, QIAN2 FU4 HOU4 JI4, 4
+前景, QIAN2 JING3, 4
+前列, QIAN2 LIE4, 4
+前期, QIAN2 QI1, 4
+前人, QIAN2 REN2, 4
+前所未有, QIAN2 SUO3 WEI4 YOU3, 4
+前提, QIAN2 TI2, 4
+前往, QIAN2 WANG3, 4
+前线, QIAN2 XIAN4, 4
+钳子, QIAN2 ZI5, 4
+潜伏, QIAN2 FU2, 4
+潜力, QIAN2 LI4, 4
+谴责, QIAN3 ZE2, 4
+嵌, QIAN4, 4
+枪毙, QIANG1 BI4, 4
+腔, QIANG1, 4
+强化, QIANG2 HUA4, 4
+强盛, QIANG2 SHENG4, 4
+强制, QIANG2 ZHI4, 4
+抢劫, QIANG3 JIE2, 4
+抢救, QIANG3 JIU4, 4
+锹, QIAO1, 4
+乔装, QIAO2 ZHUANG1, 4
+侨胞, QIAO2 BAO1, 4
+茄子, QIE2 ZI5, 4
+窃取, QIE4 QU3, 4
+窃听, QIE4 TING1, 4
+钦佩, QIN1 PEI4, 4
+侵害, QIN1 HAI4, 4
+侵蚀, QIN1 SHI2, 4
+侵占, QIN1 ZHAN4, 4
+亲笔, QIN1 BI3, 4
+亲密, QIN1 MI4, 4
+亲身, QIN1 SHEN1, 4
+亲生, QIN1 SHENG1, 4
+亲手, QIN1 SHOU3, 4
+亲友, QIN1 YOU3, 4
+勤, QIN2, 4
+勤奋, QIN2 FEN4, 4
+勤工俭学, QIN2 GONG1 JIAN3 XUE2, 4
+勤俭, QIN2 JIAN3, 4
+勤恳, QIN2 KEN3, 4
+芹菜, QIN2 CAI4, 4
+禽, QIN2, 4
+轻便, QING1 BIAN4, 4
+轻工业, QING1 GONG1 YE4, 4
+轻快, QING1 KUAI4, 4
+轻微, QING1 WEI1, 4
+氢, QING1, 4
+蜻蜓, QING1 TING2, 4
+倾听, QING1 TING1, 4
+倾斜, QING1 XIE2, 4
+清查, QING1 CHA2, 4
+清理, QING1 LI3, 4
+清新, QING1 XIN1, 4
+清早, QING1 ZAO3, 4
+清真寺, QING1 ZHEN1 SI4, 4
+晴朗, QING2 LANG3, 4
+情感, QING2 GAN3, 4
+情节, QING2 JIE2, 4
+情理, QING2 LI3, 4
+请柬, QING3 JIAN3, 4
+请帖, QING3 TIE3, 4
+请愿, QING3 YUAN4, 4
+庆贺, QING4 HE4, 4
+穷苦, QIONG2 KU3, 4
+秋收, QIU1 SHOU1, 4
+球队, QIU2 DUI4, 4
+球迷, QIU2 MI2, 4
+求得, QIU2 DE2, 4
+趋势, QU1 SHI4, 4
+趋向, QU1 XIANG4, 4
+区分, QU1 FEN1, 4
+曲线, QU1 XIAN4, 4
+屈服, QU1 FU2, 4
+驱逐, QU1 ZHU2, 4
+取代, QU3 DAI4, 4
+曲子, QU3 ZI5, 4
+去世, QU4 SHI4, 4
+圈套, QUAN1 TAO4, 4
+权, QUAN2, 4
+权威, QUAN2 WEI1, 4
+权限, QUAN2 XIAN4, 4
+权益, QUAN2 YI4, 4
+泉, QUAN2, 4
+全都, QUAN2 DOU1, 4
+全会, QUAN2 HUI4, 4
+全集, QUAN2 JI2, 4
+全力, QUAN2 LI4, 4
+全力以赴, QUAN2 LI4 YI3 FU4, 4
+全民, QUAN2 MIN2, 4
+全心全意, QUAN2 XIN1 QUAN2 YI4, 4
+犬, QUAN3, 4
+劝说, QUAN4 SHUO1, 4
+劝阻, QUAN4 ZU3, 4
+券, QUAN4, 4
+缺口, QUE1 KOU3, 4
+缺席, QUE1 XI2, 4
+缺陷, QUE1 XIAN4, 4
+瘸, QUE2, 4
+确保, QUE4 BAO3, 4
+确立, QUE4 LI4, 4
+确切, QUE4 QIE4, 4
+确认, QUE4 REN4, 4
+确信, QUE4 XIN4, 4
+确凿, QUE4 ZAO2, 4
+群体, QUN2 TI3, 4
+燃, RAN2, 4
+让步, RANG4 BU4, 4
+扰乱, RAO3 LUAN4, 4
+热潮, RE4 CHAO2, 4
+热泪盈眶, RE4 LEI4 YING2 KUANG4, 4
+人道主义, REN2 DAO4 ZHU3 YI4, 4
+人格, REN2 GE2, 4
+人均, REN2 JUN1, 4
+人情, REN2 QING2, 4
+人权, REN2 QUAN2, 4
+人参, REN2 SHEN1, 4
+人身, REN2 SHEN1, 4
+人生, REN2 SHENG1, 4
+人事, REN2 SHI4, 4
+人为, REN2 WEI2, 4
+人性, REN2 XING4, 4
+人质, REN2 ZHI4, 4
+仁慈, REN2 CI2, 4
+任命, REN4 MING4, 4
+认定, REN4 DING4, 4
+认可, REN4 KE3, 4
+日光, RI4 GUANG1, 4
+荣誉, RONG2 YU4, 4
+融化, RONG2 HUA4, 4
+融洽, RONG2 QIA4, 4
+熔, RONG2, 4
+溶, RONG2, 4
+溶化, RONG2 HUA4, 4
+溶解, RONG2 JIE3, 4
+容积, RONG2 JI1, 4
+容量, RONG2 LIANG4, 4
+容纳, RONG2 NA4, 4
+容忍, RONG2 REN3, 4
+绒, RONG2, 4
+柔和, ROU2 HE2, 4
+如意, RU2 YI4, 4
+如醉如痴, RU2 ZUI4 RU2 CHI1, 4
+乳, RU3, 4
+入境, RU4 JING4, 4
+入口, RU4 KOU3, 4
+入侵, RU4 QIN1, 4
+入手, RU4 SHOU3, 4
+入学, RU4 XUE2, 4
+软件, RUAN3 JIAN4, 4
+锐利, RUI4 LI4, 4
+瑞雪, RUI4 XUE3, 4
+弱点, RUO4 DIAN3, 4
+撒谎, SA1 HUANG3, 4
+腮, SAI1, 4
+三番五次, SAN1 FAN1 WU3 CI4, 4
+三角, SAN1 JIAO3, 4
+叁, SAN1, 4
+散发, SAN4 FA1, 4
+桑树, SANG1 SHU4, 4
+扫除, SAO3 CHU2, 4
+杀害, SHA1 HAI4, 4
+刹车, SHA1 CHE1, 4
+沙, SHA1, 4
+沙滩, SHA1 TAN1, 4
+沙土, SHA1 TU3, 4
+砂, SHA1, 4
+傻子, SHA3 ZI5, 4
+厦, SHA4, 4
+筛, SHAI1, 4
+筛子, SHAI1 ZI5, 4
+珊瑚, SHAN1 HU2, 4
+陕, SHAN3, 4
+山冈, SHAN1 GANG1, 4
+山沟, SHAN1 GOU1, 4
+山河, SHAN1 HE2, 4
+山脚, SHAN1 JIAO3, 4
+山岭, SHAN1 LING3, 4
+山水, SHAN1 SHUI3, 4
+山头, SHAN1 TOU2, 4
+山腰, SHAN1 YAO1, 4
+闪耀, SHAN3 YAO4, 4
+擅长, SHAN4 CHANG2, 4
+擅自, SHAN4 ZI4, 4
+善, SHAN4, 4
+善良, SHAN4 LIANG2, 4
+伤痕, SHANG1 HEN2, 4
+伤员, SHANG1 YUAN2, 4
+商, SHANG1, 4
+商标, SHANG1 BIAO1, 4
+商讨, SHANG1 TAO3, 4
+商议, SHANG1 YI4, 4
+赏, SHANG3, 4
+晌午, SHANG3 WU5, 4
+上报, SHANG4 BAO4, 4
+上层, SHANG4 CENG2, 4
+上等, SHANG4 DENG3, 4
+上交, SHANG4 JIAO1, 4
+上进, SHANG4 JIN4, 4
+上空, SHANG4 KONG1, 4
+上任, SHANG4 REN4, 4
+上诉, SHANG4 SU4, 4
+上台, SHANG4 TAI2, 4
+上涨, SHANG4 ZHANG3, 4
+尚, SHANG4, 4
+梢, SHAO1, 4
+捎, SHAO1, 4
+烧饼, SHAO1 BING5, 4
+烧毁, SHAO1 HUI3, 4
+少量, SHAO3 LIANG4, 4
+少数民族, SHAO3 SHU4 MIN2 ZU2, 4
+哨, SHAO4, 4
+奢侈, SHE1 CHI3, 4
+舍, SHE3, 4
+摄, SHE4, 4
+涉及, SHE4 JI2, 4
+涉外, SHE4 WAI4, 4
+社, SHE4, 4
+社员, SHE4 YUAN2, 4
+设立, SHE4 LI4, 4
+设施, SHE4 SHI1, 4
+设置, SHE4 ZHI4, 4
+申报, SHEN1 BAO4, 4
+申述, SHEN1 SHU4, 4
+呻吟, SHEN1 YIN2, 4
+伸手, SHEN1 SHOU3, 4
+伸展, SHEN1 ZHAN3, 4
+深奥, SHEN1 AO4, 4
+深沉, SHEN1 CHEN2, 4
+深处, SHEN1 CHU4, 4
+深化, SHEN1 HUA4, 4
+深浅, SHEN1 QIAN3, 4
+深切, SHEN1 QIE4, 4
+深情, SHEN1 QING2, 4
+深信, SHEN1 XIN4, 4
+深远, SHEN1 YUAN3, 4
+深重, SHEN1 ZHONG4, 4
+绅士, SHEN1 SHI4, 4
+神奇, SHEN2 QI2, 4
+神色, SHEN2 SE4, 4
+神态, SHEN2 TAI4, 4
+神仙, SHEN2 XIAN1, 4
+审, SHEN3, 4
+审定, SHEN3 DING4, 4
+审理, SHEN3 LI3, 4
+审美, SHEN3 MEI3, 4
+审判, SHEN3 PAN4, 4
+审批, SHEN3 PI1, 4
+审讯, SHEN3 XUN4, 4
+审议, SHEN3 YI4, 4
+肾炎, SHEN4 YAN2, 4
+渗, SHEN4, 4
+渗透, SHEN4 TOU4, 4
+声势, SHENG1 SHI4, 4
+声誉, SHENG1 YU4, 4
+生产力, SHENG1 CHAN3 LI4, 4
+生产率, SHENG1 CHAN3 LÜ4, 4
+生机, SHENG1 JI1, 4
+生命力, SHENG1 MING4 LI4, 4
+生怕, SHENG1 PA4, 4
+生前, SHENG1 QIAN2, 4
+生人, SHENG1 REN2, 4
+生疏, SHENG1 SHU1, 4
+生态, SHENG1 TAI4, 4
+生效, SHENG1 XIAO4, 4
+生育, SHENG1 YU4, 4
+生殖, SHENG1 ZHI2, 4
+牲口, SHENG1 KOU5, 4
+牲畜, SHENG1 CHU4, 4
+升学, SHENG1 XUE2, 4
+省会, SHENG3 HUI4, 4
+省略, SHENG3 LÜE4, 4
+盛, SHENG4, 4
+盛产, SHENG4 CHAN3, 4
+盛大, SHENG4 DA4, 4
+盛开, SHENG4 KAI1, 4
+盛情, SHENG4 QING2, 4
+盛行, SHENG4 XING2, 4
+师, SHI1, 4
+师长, SHI1 ZHANG3, 4
+失, SHI1, 4
+失事, SHI1 SHI4, 4
+失误, SHI1 WU4, 4
+失效, SHI1 XIAO4, 4
+失学, SHI1 XUE2, 4
+失约, SHI1 YUE1, 4
+失踪, SHI1 ZONG1, 4
+施, SHI1, 4
+施肥, SHI1 FEI2, 4
+施加, SHI1 JIA1, 4
+施行, SHI1 XING2, 4
+施展, SHI1 ZHAN3, 4
+湿度, SHI1 DU4, 4
+诗歌, SHI1 GE1, 4
+尸体, SHI1 TI3, 4
+十全十美, SHI2 QUAN2 SHI2 MEI3, 4
+十足, SHI2 ZU2, 4
+石灰, SHI2 HUI1, 4
+拾, SHI2, 4
+时, SHI2, 4
+时而, SHI2 ER2, 4
+时光, SHI2 GUANG1, 4
+时髦, SHI2 MAO2, 4
+时事, SHI2 SHI4, 4
+时装, SHI2 ZHUANG1, 4
+食, SHI2, 4
+食用, SHI2 YONG4, 4
+食欲, SHI2 YU4, 4
+实, SHI2, 4
+实惠, SHI2 HUI4, 4
+实力, SHI2 LI4, 4
+实体, SHI2 TI3, 4
+实物, SHI2 WU4, 4
+识, SHI2, 4
+识别, SHI2 BIE2, 4
+史, SHI3, 4
+史料, SHI3 LIAO4, 4
+使节, SHI3 JIE2, 4
+使命, SHI3 MING4, 4
+屎, SHI3, 4
+始, SHI3, 4
+式, SHI4, 4
+式样, SHI4 YANG4, 4
+示范, SHI4 FAN4, 4
+示意图, SHI4 YI4 TU2, 4
+侍候, SHI4 HOU4, 4
+世, SHI4, 4
+世代, SHI4 DAI4, 4
+世界观, SHI4 JIE4 GUAN1, 4
+事变, SHI4 BIAN4, 4
+事例, SHI4 LI4, 4
+事态, SHI4 TAI4, 4
+事项, SHI4 XIANG4, 4
+誓言, SHI4 YAN2, 4
+势必, SHI4 BI4, 4
+释放, SHI4 FANG4, 4
+市民, SHI4 MIN2, 4
+视, SHI4, 4
+视察, SHI4 CHA2, 4
+视觉, SHI4 JUE2, 4
+视力, SHI4 LI4, 4
+视线, SHI4 XIAN4, 4
+视野, SHI4 YE3, 4
+试行, SHI4 XING2, 4
+试用, SHI4 YONG4, 4
+试制, SHI4 ZHI4, 4
+收藏, SHOU1 CANG2, 4
+收成, SHOU1 CHENG5, 4
+收复, SHOU1 FU4, 4
+收购, SHOU1 GOU4, 4
+收回, SHOU1 HUI2, 4
+收买, SHOU1 MAI3, 4
+收益, SHOU1 YI4, 4
+收支, SHOU1 ZHI1, 4
+手电筒, SHOU3 DIAN4 TONG3, 4
+手法, SHOU3 FA3, 4
+手榴弹, SHOU3 LIU2 DAN4, 4
+手艺, SHOU3 YI4, 4
+手指, SHOU3 ZHI3, 4
+首创, SHOU3 CHUANG4, 4
+首领, SHOU3 LING3, 4
+首脑, SHOU3 NAO3, 4
+首席, SHOU3 XI2, 4
+首相, SHOU3 XIANG4, 4
+首要, SHOU3 YAO4, 4
+首长, SHOU3 ZHANG3, 4
+守法, SHOU3 FA3, 4
+守卫, SHOU3 WEI4, 4
+授, SHOU4, 4
+授予, SHOU4 YU3, 4
+受伤, SHOU4 SHANG1, 4
+瘦子, SHOU4 ZI5, 4
+输出, SHU1 CHU1, 4
+输入, SHU1 RU4, 4
+输送, SHU1 SONG4, 4
+舒展, SHU1 ZHAN3, 4
+书法, SHU1 FA3, 4
+书刊, SHU1 KAN1, 4
+书面, SHU1 MIAN4, 4
+书写, SHU1 XIE3, 4
+书信, SHU1 XIN4, 4
+属, SHU3, 4
+树干, SHU4 GAN4, 4
+竖, SHU4, 4
+数额, SHU4 E2, 4
+衰老, SHUAI1 LAO3, 4
+衰退, SHUAI1 TUI4, 4
+帅, SHUAI4, 4
+爽快, SHUANG3 KUAI5, 4
+水产, SHUI3 CHAN3, 4
+水电, SHUI3 DIAN4, 4
+水土, SHUI3 TU3, 4
+水源, SHUI3 YUAN2, 4
+水灾, SHUI3 ZAI1, 4
+水蒸气, SHUI3 ZHENG1 QI4, 4
+税收, SHUI4 SHOU1, 4
+顺序, SHUN4 XU4, 4
+说谎, SHUO1 HUANG3, 4
+说情, SHUO1 QING2, 4
+斯文, SI1 WEN5, 4
+思, SI1, 4
+思潮, SI1 CHAO2, 4
+思前想后, SI1 QIAN2 XIANG3 HOU4, 4
+思绪, SI1 XU4, 4
+私营, SI1 YING2, 4
+私有制, SI1 YOU3 ZHI4, 4
+私自, SI1 ZI4, 4
+司法, SI1 FA3, 4
+司令部, SI1 LING4 BU4, 4
+死刑, SI3 XING2, 4
+寺, SI4, 4
+四方, SI4 FANG1, 4
+四季, SI4 JI4, 4
+四肢, SI4 ZHI1, 4
+肆, SI4, 4
+似, SI4, 4
+似是而非, SI4 SHI4 ER2 FEI1, 4
+似笑非笑, SI4 XIAO4 FEI1 XIAO4, 4
+饲料, SI4 LIAO4, 4
+耸, SONG3, 4
+搜, SOU1, 4
+搜查, SOU1 CHA2, 4
+搜索, SOU1 SUO3, 4
+苏醒, SU1 XING3, 4
+俗, SU2, 4
+素, SU4, 4
+素质, SU4 ZHI4, 4
+塑造, SU4 ZAO4, 4
+诉讼, SU4 SONG4, 4
+肃清, SU4 QING1, 4
+蒜, SUAN4, 4
+算盘, SUAN4 PAN2, 4
+算术, SUAN4 SHU4, 4
+虽然, SUI1 RAN2, 4
+随意, SUI2 YI4, 4
+随着, SUI2 ZHE5, 4
+岁月, SUI4 YUE4, 4
+穗, SUI4, 4
+隧道, SUI4 DAO4, 4
+损, SUN3, 4
+损耗, SUN3 HAO4, 4
+损人利己, SUN3 REN2 LI4 JI3, 4
+损伤, SUN3 SHANG1, 4
+笋, SUN3, 4
+索性, SUO3 XING4, 4
+所得, SUO3 DE2, 4
+所得税, SUO3 DE2 SHUI4, 4
+所属, SUO3 SHU3, 4
+所有权, SUO3 YOU3 QUAN2, 4
+所有制, SUO3 YOU3 ZHI4, 4
+他人, TA1 REN2, 4
+台风, TAI2 FENG1, 4
+台阶, TAI2 JIE1, 4
+泰然, TAI4 RAN2, 4
+太空, TAI4 KONG1, 4
+太平, TAI4 PING2, 4
+太阳能, TAI4 YANG2 NENG2, 4
+贪, TAN1, 4
+贪污, TAN1 WU1, 4
+瘫痪, TAN1 HUAN4, 4
+痰, TAN2, 4
+坛, TAN2, 4
+潭, TAN2, 4
+谈天, TAN2 TIAN1, 4
+坦白, TAN3 BAI2, 4
+探测, TAN4 CE4, 4
+探亲, TAN4 QIN1, 4
+探讨, TAN4 TAO3, 4
+探头探脑, TAN4 TOU2 TAN4 NAO3, 4
+探望, TAN4 WANG4, 4
+叹, TAN4, 4
+炭, TAN4, 4
+塘, TANG2, 4
+糖果, TANG2 GUO3, 4
+滔滔不绝, TAO1 TAO1 BU4 JUE2, 4
+桃花, TAO2 HUA1, 4
+逃荒, TAO2 HUANG1, 4
+逃跑, TAO2 PAO3, 4
+逃走, TAO2 ZOU3, 4
+淘气, TAO2 QI4, 4
+淘汰, TAO2 TAI4, 4
+陶瓷, TAO2 CI2, 4
+讨, TAO3, 4
+讨价还价, TAO3 JIA4 HUAN2 JIA4, 4
+特产, TE4 CHAN3, 4
+特地, TE4 DI4, 4
+特定, TE4 DING4, 4
+特区, TE4 QU1, 4
+特权, TE4 QUAN2, 4
+特色, TE4 SE4, 4
+特性, TE4 XING4, 4
+特意, TE4 YI4, 4
+藤, TENG2, 4
+腾, TENG2, 4
+提案, TI2 AN4, 4
+提拔, TI2 BA2, 4
+提交, TI2 JIAO1, 4
+提炼, TI2 LIAN4, 4
+提名, TI2 MING2, 4
+提取, TI2 QU3, 4
+提升, TI2 SHENG1, 4
+提示, TI2 SHI4, 4
+提心吊胆, TI2 XIN1 DIAO4 DAN3, 4
+提要, TI2 YAO4, 4
+提早, TI2 ZAO3, 4
+题材, TI2 CAI2, 4
+体, TI3, 4
+体谅, TI3 LIANG4, 4
+体贴, TI3 TIE1, 4
+体验, TI3 YAN4, 4
+体制, TI3 ZHI4, 4
+体质, TI3 ZHI4, 4
+体重, TI3 ZHONG4, 4
+剃, TI4, 4
+替代, TI4 DAI4, 4
+替换, TI4 HUAN5, 4
+天长地久, TIAN1 CHANG2 DI4 JIU3, 4
+天地, TIAN1 DI4, 4
+天色, TIAN1 SE4, 4
+天生, TIAN1 SHENG1, 4
+天堂, TIAN1 TANG2, 4
+天线, TIAN1 XIAN4, 4
+填补, TIAN2 BU3, 4
+填写, TIAN2 XIE3, 4
+田间, TIAN2 JIAN1, 4
+田径, TIAN2 JING4, 4
+条款, TIAO2 KUAN3, 4
+条理, TIAO2 LI3, 4
+条文, TIAO2 WEN2, 4
+条子, TIAO2 ZI5, 4
+调和, TIAO2 HE2, 4
+调剂, TIAO2 JI4, 4
+调解, TIAO2 JIE3, 4
+挑, TIAO3, 4
+挑拨, TIAO3 BO1, 4
+挑衅, TIAO3 XIN4, 4
+挑战, TIAO3 ZHAN4, 4
+跳高, TIAO4 GAO1, 4
+跳远, TIAO4 YUAN3, 4
+跳跃, TIAO4 YUE4, 4
+铁道, TIE3 DAO4, 4
+铁饭碗, TIE3 FAN4 WAN3, 4
+听话, TING1 HUA4, 4
+听取, TING1 QU3, 4
+听众, TING1 ZHONG4, 4
+停泊, TING2 BO2, 4
+停顿, TING2 DUN4, 4
+停滞, TING2 ZHI4, 4
+挺拔, TING3 BA2, 4
+挺立, TING3 LI4, 4
+艇, TING3, 4
+通报, TONG1 BAO4, 4
+通道, TONG1 DAO4, 4
+通风, TONG1 FENG1, 4
+通告, TONG1 GAO4, 4
+通航, TONG1 HANG2, 4
+通红, TONG1 HONG2, 4
+通货膨胀, TONG1 HUO4 PENG2 ZHANG4, 4
+通商, TONG1 SHANG1, 4
+通俗, TONG1 SU2, 4
+通行, TONG1 XING2, 4
+通讯社, TONG1 XUN4 SHE4, 4
+通用, TONG1 YONG4, 4
+同步, TONG2 BU4, 4
+同等, TONG2 DENG3, 4
+同行, TONG2 HANG2, 4
+同类, TONG2 LEI4, 4
+同年, TONG2 NIAN2, 4
+同期, TONG2 QI1, 4
+同事, TONG2 SHI4, 4
+同一, TONG2 YI1, 4
+童年, TONG2 NIAN2, 4
+捅, TONG3, 4
+统筹, TONG3 CHOU2, 4
+统战, TONG3 ZHAN4, 4
+痛恨, TONG4 HEN4, 4
+偷窃, TOU1 QIE4, 4
+偷税, TOU1 SHUI4, 4
+投标, TOU2 BIAO1, 4
+投产, TOU2 CHAN3, 4
+投放, TOU2 FANG4, 4
+投机倒把, TOU2 JI1 DAO3 BA3, 4
+投票, TOU2 PIAO4, 4
+投掷, TOU2 ZHI4, 4
+投资, TOU2 ZI1, 4
+头子, TOU2 ZI5, 4
+透彻, TOU4 CHE4, 4
+透明度, TOU4 MING2 DU4, 4
+秃, TU1, 4
+凸, TU1, 4
+图案, TU2 AN4, 4
+图表, TU2 BIAO3, 4
+图片, TU2 PIAN4, 4
+图象, TU2 XIANG4, 4
+图形, TU2 XING2, 4
+图纸, TU2 ZHI3, 4
+屠杀, TU2 SHA1, 4
+团聚, TUAN2 JU4, 4
+团圆, TUAN2 YUAN2, 4
+推测, TUI1 CE4, 4
+推来推去, TUI1 LAI2 TUI1 QU4, 4
+推理, TUI1 LI3, 4
+推论, TUI1 LUN4, 4
+推算, TUI1 SUAN4, 4
+推销, TUI1 XIAO1, 4
+推行, TUI1 XING2, 4
+推选, TUI1 XUAN3, 4
+退出, TUI4 CHU1, 4
+退还, TUI4 HUAN2, 4
+屯, TUN2, 4
+拖延, TUO1 YAN2, 4
+脱落, TUO1 LUO4, 4
+椭圆, TUO3 YUAN2, 4
+妥, TUO3, 4
+妥善, TUO3 SHAN4, 4
+妥协, TUO3 XIE2, 4
+唾沫, TUO4 MO5, 4
+挖掘, WA1 JUE2, 4
+瓦解, WA3 JIE3, 4
+外表, WAI4 BIAO3, 4
+外宾, WAI4 BIN1, 4
+外出, WAI4 CHU1, 4
+外电, WAI4 DIAN4, 4
+外观, WAI4 GUAN1, 4
+外行, WAI4 HANG2, 4
+外汇, WAI4 HUI4, 4
+外力, WAI4 LI4, 4
+外流, WAI4 LIU2, 4
+外婆, WAI4 PO2, 4
+外事, WAI4 SHI4, 4
+外向型, WAI4 XIANG4 XING2, 4
+外形, WAI4 XING2, 4
+外资, WAI4 ZI1, 4
+豌豆, WAN1 DOU4, 4
+湾, WAN1, 4
+玩具, WAN2 JU4, 4
+玩弄, WAN2 NONG4, 4
+完毕, WAN2 BI4, 4
+完蛋, WAN2 DAN4, 4
+晚餐, WAN3 CAN1, 4
+晚年, WAN3 NIAN2, 4
+惋惜, WAN3 XI1, 4
+万水千山, WAN4 SHUI3 QIAN1 SHAN1, 4
+汪洋, WANG1 YANG2, 4
+王, WANG2, 4
+王国, WANG2 GUO2, 4
+亡, WANG2, 4
+往常, WANG3 CHANG2, 4
+往返, WANG3 FAN3, 4
+往后, WANG3 HOU4, 4
+往年, WANG3 NIAN2, 4
+往日, WANG3 RI4, 4
+往事, WANG3 SHI4, 4
+望远镜, WANG4 YUAN3 JING4, 4
+忘却, WANG4 QUE4, 4
+妄图, WANG4 TU2, 4
+妄想, WANG4 XIANG3, 4
+威风, WEI1 FENG1, 4
+威力, WEI1 LI4, 4
+威望, WEI1 WANG4, 4
+威信, WEI1 XIN4, 4
+微不足道, WEI1 BU4 ZU2 DAO4, 4
+微观, WEI1 GUAN1, 4
+危急, WEI1 JI2, 4
+违法, WEI2 FA3, 4
+违犯, WEI2 FAN4, 4
+桅杆, WEI2 GAN1, 4
+围攻, WEI2 GONG1, 4
+围棋, WEI2 QI2, 4
+唯物论, WEI2 WU4 LUN4, 4
+唯物主义, WEI2 WU4 ZHU3 YI4, 4
+唯心论, WEI2 XIN1 LUN4, 4
+唯心主义, WEI2 XIN1 ZHU3 YI4, 4
+惟独, WEI2 DU2, 4
+惟一, WEI2 YI1, 4
+为期, WEI2 QI1, 4
+维修, WEI2 XIU1, 4
+伪造, WEI3 ZAO4, 4
+尾, WEI3, 4
+未免, WEI4 MIAN3, 4
+畏, WEI4, 4
+畏惧, WEI4 JU4, 4
+为何, WEI4 HE2, 4
+温度计, WEN1 DU4 JI4, 4
+温柔, WEN1 ROU2, 4
+瘟疫, WEN1 YI4, 4
+文, WEN2, 4
+文盲, WEN2 MANG2, 4
+文凭, WEN2 PING2, 4
+文人, WEN2 REN2, 4
+文献, WEN2 XIAN4, 4
+文雅, WEN2 YA3, 4
+文言, WEN2 YAN2, 4
+稳当, WEN3 DANG5, 4
+稳妥, WEN3 TUO3, 4
+问答, WEN4 DA2, 4
+问世, WEN4 SHI4, 4
+窝, WO1, 4
+窝囊, WO1 NANG5, 4
+卧室, WO4 SHI4, 4
+乌鸦, WU1 YA1, 4
+乌云, WU1 YUN2, 4
+污蔑, WU1 MIE4, 4
+巫婆, WU1 PO2, 4
+诬陷, WU1 XIAN4, 4
+呜咽, WU1 YE4, 4
+无偿, WU2 CHANG2, 4
+无耻, WU2 CHI3, 4
+无从, WU2 CONG2, 4
+无非, WU2 FEI1, 4
+无话可说, WU2 HUA4 KE3 SHUO1, 4
+无可奉告, WU2 KE3 FENG4 GAO4, 4
+无理, WU2 LI3, 4
+无聊, WU2 LIAO2, 4
+无能为力, WU2 NENG2 WEI2 LI4, 4
+无情无义, WU2 QING2 WU2 YI4, 4
+无穷, WU2 QIONG2, 4
+无所作为, WU2 SUO3 ZUO4 WEI2, 4
+无微不至, WU2 WEI1 BU4 ZHI4, 4
+无效, WU2 XIAO4, 4
+无意, WU2 YI4, 4
+无知, WU2 ZHI1, 4
+梧桐, WU2 TONG2, 4
+武力, WU3 LI4, 4
+伍, WU3, 4
+舞, WU3, 4
+舞厅, WU3 TING1, 4
+物, WU4, 4
+物力, WU4 LI4, 4
+勿, WU4, 4
+务必, WU4 BI4, 4
+悟, WU4, 4
+误差, WU4 CHA1, 4
+误解, WU4 JIE3, 4
+吸毒, XI1 DU2, 4
+膝盖, XI1 GAI4, 4
+熄, XI1, 4
+熄灭, XI1 MIE4, 4
+溪, XI1, 4
+席, XI2, 4
+席位, XI2 WEI4, 4
+习俗, XI2 SU2, 4
+习题, XI2 TI2, 4
+喜, XI3, 4
+喜鹊, XI3 QUE5, 4
+喜事, XI3 SHI4, 4
+喜讯, XI3 XUN4, 4
+洗涤, XI3 DI2, 4
+系列, XI4 LIE4, 4
+细节, XI4 JIE2, 4
+细小, XI4 XIAO3, 4
+峡, XIA2, 4
+狭隘, XIA2 AI4, 4
+狭窄, XIA2 ZHAI3, 4
+霞, XIA2, 4
+下达, XIA4 DA2, 4
+下放, XIA4 FANG4, 4
+下级, XIA4 JI2, 4
+下令, XIA4 LING4, 4
+下落, XIA4 LUO4, 4
+下台, XIA4 TAI2, 4
+下乡, XIA4 XIANG1, 4
+掀起, XIAN1 QI3, 4
+先锋, XIAN1 FENG1, 4
+先前, XIAN1 QIAN2, 4
+先行, XIAN1 XING2, 4
+仙女, XIAN1 NÜ3, 4
+鲜红, XIAN1 HONG2, 4
+弦, XIAN2, 4
+嫌疑, XIAN2 YI2, 4
+贤惠, XIAN2 HUI4, 4
+衔, XIAN2, 4
+衔接, XIAN2 JIE1, 4
+显, XIAN3, 4
+显而易见, XIAN3 ER2 YI4 JIAN4, 4
+显微镜, XIAN3 WEI1 JING4, 4
+现场, XIAN4 CHANG3, 4
+现金, XIAN4 JIN1, 4
+现钱, XIAN4 QIAN2, 4
+现行, XIAN4 XING2, 4
+现状, XIAN4 ZHUANG4, 4
+献身, XIAN4 SHEN1, 4
+县长, XIAN4 ZHANG3, 4
+馅儿, XIAN4 R5, 4
+陷害, XIAN4 HAI4, 4
+陷入, XIAN4 RU4, 4
+限, XIAN4, 4
+限度, XIAN4 DU4, 4
+限期, XIAN4 QI1, 4
+限于, XIAN4 YU2, 4
+线索, XIAN4 SUO3, 4
+相比, XIANG1 BI3, 4
+相差, XIANG1 CHA4, 4
+相等, XIANG1 DENG3, 4
+相符, XIANG1 FU2, 4
+相关, XIANG1 GUAN1, 4
+相继, XIANG1 JI4, 4
+相交, XIANG1 JIAO1, 4
+相识, XIANG1 SHI2, 4
+相通, XIANG1 TONG1, 4
+相应, XIANG1 YING4, 4
+镶, XIANG1, 4
+香味, XIANG1 WEI4, 4
+乡亲, XIANG1 QIN1, 4
+想方设法, XIANG3 FANG1 SHE4 FA3, 4
+响声, XIANG3 SHENG5, 4
+享福, XIANG3 FU2, 4
+享乐, XIANG3 LE4, 4
+享有, XIANG3 YOU3, 4
+项链, XIANG4 LIAN4, 4
+橡胶, XIANG4 JIAO1, 4
+橡皮, XIANG4 PI2, 4
+向往, XIANG4 WANG3, 4
+像棋, XIANG4 QI2, 4
+像样, XIANG4 YANG4, 4
+销, XIAO1, 4
+销毁, XIAO1 HUI3, 4
+销路, XIAO1 LU4, 4
+销售, XIAO1 SHOU4, 4
+消, XIAO1, 4
+小鬼, XIAO3 GUI3, 4
+小米, XIAO3 MI3, 4
+小数, XIAO3 SHU4, 4
+小数点, XIAO3 SHU4 DIAN3, 4
+小提琴, XIAO3 TI2 QIN2, 4
+小心翼翼, XIAO3 XIN1 YI4 YI4, 4
+小型, XIAO3 XING2, 4
+小学生, XIAO3 XUE2 SHENG1, 4
+小子, XIAO3 ZI5, 4
+校徽, XIAO4 HUI1, 4
+校园, XIAO4 YUAN2, 4
+肖像, XIAO4 XIANG4, 4
+效力, XIAO4 LI4, 4
+效益, XIAO4 YI4, 4
+孝顺, XIAO4 SHUN4, 4
+协商, XIE2 SHANG1, 4
+协调, XIE2 TIAO2, 4
+协议, XIE2 YI4, 4
+挟持, XIE2 CHI2, 4
+邪, XIE2, 4
+携带, XIE2 DAI4, 4
+泻, XIE4, 4
+泄, XIE4, 4
+泄露, XIE4 LOU4, 4
+泄气, XIE4 QI4, 4
+谢绝, XIE4 JUE2, 4
+屑, XIE4, 4
+锌, XIN1, 4
+欣欣向荣, XIN1 XIN1 XIANG4 RONG2, 4
+新陈代谢, XIN1 CHEN2 DAI4 XIE4, 4
+新房, XIN1 FANG2, 4
+新近, XIN1 JIN4, 4
+新郎, XIN1 LANG2, 4
+新娘, XIN1 NIANG2, 4
+新人, XIN1 REN2, 4
+新兴, XIN1 XING1, 4
+新颖, XIN1 YING3, 4
+心里, XIN1 LI5, 4
+心灵, XIN1 LING2, 4
+心目, XIN1 MU4, 4
+心疼, XIN1 TENG2, 4
+心头, XIN1 TOU2, 4
+心血, XIN1 XUE4, 4
+心眼儿, XIN1 YAN3 R5, 4
+心愿, XIN1 YUAN4, 4
+心中, XIN1 ZHONG1, 4
+薪金, XIN1 JIN1, 4
+信贷, XIN4 DAI4, 4
+信件, XIN4 JIAN4, 4
+信赖, XIN4 LAI4, 4
+信仰, XIN4 YANG3, 4
+信用, XIN4 YONG4, 4
+信誉, XIN4 YU4, 4
+星, XING1, 4
+腥, XING1, 4
+兴, XING1, 4
+兴办, XING1 BAN4, 4
+兴建, XING1 JIAN4, 4
+兴起, XING1 QI3, 4
+兴旺, XING1 WANG4, 4
+刑, XING2, 4
+刑场, XING2 CHANG3, 4
+刑法, XING2 FA3, 4
+刑事, XING2 SHI4, 4
+型, XING2, 4
+型号, XING2 HAO4, 4
+形, XING2, 4
+形而上学, XING2 ER2 SHANG4 XUE2, 4
+行程, XING2 CHENG2, 4
+行贿, XING2 HUI4, 4
+行径, XING2 JING4, 4
+行军, XING2 JUN1, 4
+行使, XING2 SHI3, 4
+幸好, XING4 HAO3, 4
+幸运, XING4 YUN4, 4
+性命, XING4 MING4, 4
+性情, XING4 QING2, 4
+杏, XING4, 4
+兄, XIONG1, 4
+凶狠, XIONG1 HEN3, 4
+凶猛, XIONG1 MENG3, 4
+胸怀, XIONG1 HUAI2, 4
+胸膛, XIONG1 TANG2, 4
+汹涌, XIONG1 YONG3, 4
+雄厚, XIONG2 HOU4, 4
+雄壮, XIONG2 ZHUANG4, 4
+熊, XIONG2, 4
+休养, XIU1 YANG3, 4
+修订, XIU1 DING4, 4
+修复, XIU1 FU4, 4
+修养, XIU1 YANG3, 4
+羞耻, XIU1 CHI3, 4
+嗅, XIU4, 4
+秀丽, XIU4 LI4, 4
+袖子, XIU4 ZI5, 4
+需求, XU1 QIU2, 4
+虚, XU1, 4
+虚假, XU1 JIA3, 4
+虚弱, XU1 RUO4, 4
+虚伪, XU1 WEI3, 4
+须知, XU1 ZHI1, 4
+徐徐, XU2 XU2, 4
+许可, XU3 KE3, 4
+蓄, XU4, 4
+酗酒, XU4 JIU3, 4
+叙谈, XU4 TAN2, 4
+序言, XU4 YAN2, 4
+畜产品, XU4 CHAN3 PIN3, 4
+畜牧, XU4 MU4, 4
+絮叨, XU4 DAO5, 4
+续, XU4, 4
+宣称, XUAN1 CHENG1, 4
+宣读, XUAN1 DU2, 4
+宣誓, XUAN1 SHI4, 4
+宣扬, XUAN1 YANG2, 4
+悬挂, XUAN2 GUA4, 4
+悬念, XUAN2 NIAN4, 4
+旋, XUAN2, 4
+旋律, XUAN2 LÜ4, 4
+选拔, XUAN3 BA2, 4
+选定, XUAN3 DING4, 4
+选集, XUAN3 JI2, 4
+选民, XUAN3 MIN2, 4
+选取, XUAN3 QU3, 4
+选手, XUAN3 SHOU3, 4
+选用, XUAN3 YONG4, 4
+削减, XUE1 JIAN3, 4
+削弱, XUE1 RUO4, 4
+靴子, XUE1 ZI5, 4
+学历, XUE2 LI4, 4
+学派, XUE2 PAI4, 4
+穴, XUE2, 4
+雪白, XUE3 BAI2, 4
+血压, XUE4 YA1, 4
+熏, XUN1, 4
+循序渐进, XUN2 XU4 JIAN4 JIN4, 4
+巡逻, XUN2 LUO2, 4
+寻求, XUN2 QIU2, 4
+训, XUN4, 4
+讯, XUN4, 4
+压抑, YA1 YI4, 4
+压韵, YA1 YUN4, 4
+鸦片, YA1 PIAN4, 4
+崖, YA2, 4
+哑, YA3, 4
+轧, YA4, 4
+烟草, YAN1 CAO3, 4
+烟卷儿, YAN1 JUAN3 R5, 4
+烟雾, YAN1 WU4, 4
+淹没, YAN1 MO4, 4
+严寒, YAN2 HAN2, 4
+严峻, YAN2 JUN4, 4
+延缓, YAN2 HUAN3, 4
+延期, YAN2 QI1, 4
+延伸, YAN2 SHEN1, 4
+延续, YAN2 XU4, 4
+言, YAN2, 4
+言论, YAN2 LUN4, 4
+言语, YAN2 YU3, 4
+炎热, YAN2 RE4, 4
+沿岸, YAN2 AN4, 4
+沿途, YAN2 TU2, 4
+掩, YAN3, 4
+掩饰, YAN3 SHI4, 4
+眼力, YAN3 LI4, 4
+眼色, YAN3 SE4, 4
+眼神, YAN3 SHEN2, 4
+眼下, YAN3 XIA4, 4
+演变, YAN3 BIAN4, 4
+演唱, YAN3 CHANG4, 4
+演讲, YAN3 JIANG3, 4
+演算, YAN3 SUAN4, 4
+演习, YAN3 XI2, 4
+演奏, YAN3 ZOU4, 4
+宴请, YAN4 QING3, 4
+宴席, YAN4 XI2, 4
+验, YAN4, 4
+验收, YAN4 SHOU1, 4
+验证, YAN4 ZHENG4, 4
+杨树, YANG2 SHU4, 4
+阳, YANG2, 4
+氧, YANG3, 4
+痒, YANG3, 4
+养分, YANG3 FEN4, 4
+养活, YANG3 HUO5, 4
+养育, YANG3 YU4, 4
+养殖, YANG3 ZHI2, 4
+样品, YANG4 PIN3, 4
+邀, YAO1, 4
+妖怪, YAO1 GUAI4, 4
+遥控, YAO2 KONG4, 4
+药材, YAO4 CAI2, 4
+要领, YAO4 LING3, 4
+要么, YAO4 ME5, 4
+要命, YAO4 MING4, 4
+要素, YAO4 SU4, 4
+耀眼, YAO4 YAN3, 4
+野, YE3, 4
+野蛮, YE3 MAN2, 4
+野生, YE3 SHENG1, 4
+野外, YE3 WAI4, 4
+野心, YE3 XIN1, 4
+冶炼, YE3 LIAN4, 4
+夜班, YE4 BAN1, 4
+液, YE4, 4
+一辈子, YI1 BEI4 ZI5, 4
+一旦, YI1 DAN4, 4
+一度, YI1 DU4, 4
+一帆风顺, YI1 FAN1 FENG1 SHUN4, 4
+一概, YI1 GAI4, 4
+一概而论, YI1 GAI4 ER2 LUN4, 4
+一干二净, YI1 GAN1 ER4 JING4, 4
+一个劲儿, YI1 GE4 JIN4 R5, 4
+一贯, YI1 GUAN4, 4
+一哄而散, YI1 HONG1 ER2 SAN4, 4
+一会儿, YI1 HUI4 R5, 4
+一技之长, YI1 JI4 ZHI1 CHANG2, 4
+一举, YI1 JU3, 4
+一律, YI1 LÜ4, 4
+一毛不拔, YI1 MAO2 BU4 BA2, 4
+一身, YI1 SHEN1, 4
+一手, YI1 SHOU3, 4
+一头, YI1 TOU2, 4
+壹, YI1, 4
+医, YI1, 4
+医务, YI1 WU4, 4
+医药, YI1 YAO4, 4
+医治, YI1 ZHI4, 4
+依, YI1, 4
+依次, YI1 CI4, 4
+依赖, YI1 LAI4, 4
+衣裳, YI1 SHANG5, 4
+遗传, YI2 CHUAN2, 4
+遗失, YI2 SHI1, 4
+遗体, YI2 TI3, 4
+遗址, YI2 ZHI3, 4
+移民, YI2 MIN2, 4
+疑惑, YI2 HUO4, 4
+疑难, YI2 NAN2, 4
+以免, YI3 MIAN3, 4
+以身作则, YI3 SHEN1 ZUO4 ZE2, 4
+以往, YI3 WANG3, 4
+以至于, YI3 ZHI4 YU2, 4
+亿万, YI4 WAN4, 4
+亦, YI4, 4
+意料, YI4 LIAO4, 4
+意图, YI4 TU2, 4
+意向, YI4 XIANG4, 4
+毅然, YI4 RAN2, 4
+忆, YI4, 4
+议案, YI4 AN4, 4
+议程, YI4 CHENG2, 4
+议定书, YI4 DING4 SHU1, 4
+议员, YI4 YUAN2, 4
+译员, YI4 YUAN2, 4
+异, YI4, 4
+翼, YI4, 4
+因, YIN1, 4
+音响, YIN1 XIANG3, 4
+阴暗, YIN1 AN4, 4
+淫秽, YIN2 HUI4, 4
+饮, YIN3, 4
+饮食, YIN3 SHI2, 4
+饮水思源, YIN3 SHUI3 SI1 YUAN2, 4
+引人注目, YIN3 REN2 ZHU4 MU4, 4
+引入, YIN3 RU4, 4
+引用, YIN3 YONG4, 4
+引诱, YIN3 YOU4, 4
+隐蔽, YIN3 BI4, 4
+隐藏, YIN3 CANG2, 4
+隐瞒, YIN3 MAN2, 4
+英俊, YING1 JUN4, 4
+鹰, YING1, 4
+樱花, YING1 HUA1, 4
+营, YING2, 4
+蝇子, YING2 ZI5, 4
+迎面, YING2 MIAN4, 4
+赢得, YING2 DE2, 4
+盈利, YING2 LI4, 4
+硬件, YING4 JIAN4, 4
+映, YING4, 4
+拥有, YONG1 YOU3, 4
+庸俗, YONG1 SU2, 4
+涌现, YONG3 XIAN4, 4
+永垂不朽, YONG3 CHUI2 BU4 XIU3, 4
+永久, YONG3 JIU3, 4
+勇士, YONG3 SHI4, 4
+勇于, YONG3 YU2, 4
+用法, YONG4 FA3, 4
+用户, YONG4 HU4, 4
+用具, YONG4 JU4, 4
+用人, YONG4 REN5, 4
+用意, YONG4 YI4, 4
+幽静, YOU1 JING4, 4
+幽默, YOU1 MO4, 4
+优, YOU1, 4
+优惠, YOU1 HUI4, 4
+优先, YOU1 XIAN1, 4
+优异, YOU1 YI4, 4
+优质, YOU1 ZHI4, 4
+忧虑, YOU1 LÜ4, 4
+忧郁, YOU1 YU4, 4
+由此可见, YOU2 CI3 KE3 JIAN4, 4
+邮电, YOU2 DIAN4, 4
+邮购, YOU2 GOU4, 4
+邮寄, YOU2 JI4, 4
+邮政, YOU2 ZHENG4, 4
+铀, YOU2, 4
+犹如, YOU2 RU2, 4
+油菜, YOU2 CAI4, 4
+油画, YOU2 HUA4, 4
+油料, YOU2 LIAO4, 4
+油漆, YOU2 QI1, 4
+游击, YOU2 JI1, 4
+游客, YOU2 KE4, 4
+游人, YOU2 REN2, 4
+有待, YOU3 DAI4, 4
+有害, YOU3 HAI4, 4
+有口无心, YOU3 KOU3 WU2 XIN1, 4
+有声有色, YOU3 SHENG1 YOU3 SE4, 4
+友情, YOU3 QING2, 4
+友人, YOU3 REN2, 4
+诱, YOU4, 4
+诱惑, YOU4 HUO4, 4
+幼, YOU4, 4
+愚昧, YU2 MEI4, 4
+舆论, YU2 LUN4, 4
+渔业, YU2 YE4, 4
+榆树, YU2 SHU4, 4
+予, YU3, 4
+予以, YU3 YI3, 4
+雨伞, YU3 SAN3, 4
+雨水, YU3 SHUI3, 4
+与此同时, YU3 CI3 TONG2 SHI2, 4
+与会, YU4 HUI4, 4
+羽毛, YU3 MAO2, 4
+玉, YU4, 4
+愈, YU4, 4
+欲, YU4, 4
+欲望, YU4 WANG4, 4
+寓, YU4, 4
+预测, YU4 CE4, 4
+预定, YU4 DING4, 4
+预订, YU4 DING4, 4
+预计, YU4 JI4, 4
+预见, YU4 JIAN4, 4
+预料, YU4 LIAO4, 4
+预期, YU4 QI1, 4
+预赛, YU4 SAI4, 4
+预算, YU4 SUAN4, 4
+预言, YU4 YAN2, 4
+预约, YU4 YUE1, 4
+冤, YUAN1, 4
+元件, YUAN2 JIAN4, 4
+元首, YUAN2 SHOU3, 4
+原, YUAN2, 4
+原材料, YUAN2 CAI2 LIAO4, 4
+原告, YUAN2 GAO4, 4
+原油, YUAN2 YOU2, 4
+原子能, YUAN2 ZI3 NENG2, 4
+园, YUAN2, 4
+源, YUAN2, 4
+源泉, YUAN2 QUAN2, 4
+远大, YUAN3 DA4, 4
+远方, YUAN3 FANG1, 4
+远景, YUAN3 JING3, 4
+曰, YUE1, 4
+约束, YUE1 SHU4, 4
+越冬, YUE4 DONG1, 4
+越过, YUE4 GUO4, 4
+跃, YUE4, 4
+月份, YUE4 FEN4, 4
+乐队, YUE4 DUI4, 4
+乐曲, YUE4 QU3, 4
+阅, YUE4, 4
+云彩, YUN2 CAI5, 4
+匀, YUN2, 4
+运送, YUN4 SONG4, 4
+运算, YUN4 SUAN4, 4
+运行, YUN4 XING2, 4
+蕴藏, YUN4 CANG2, 4
+酝酿, YUN4 NIANG4, 4
+孕育, YUN4 YU4, 4
+杂交, ZA2 JIAO1, 4
+杂乱, ZA2 LUAN4, 4
+栽培, ZAI1 PEI2, 4
+灾荒, ZAI1 HUANG1, 4
+宰, ZAI3, 4
+再生产, ZAI4 SHENG1 CHAN3, 4
+在乎, ZAI4 HU5, 4
+在意, ZAI4 YI4, 4
+攒, ZAN3, 4
+暂, ZAN4, 4
+暂且, ZAN4 QIE3, 4
+赞赏, ZAN4 SHANG3, 4
+赞叹, ZAN4 TAN4, 4
+赞同, ZAN4 TONG2, 4
+赞助, ZAN4 ZHU4, 4
+葬, ZANG4, 4
+葬礼, ZANG4 LI3, 4
+遭殃, ZAO1 YANG1, 4
+糟蹋, ZAO1 TA5, 4
+枣, ZAO3, 4
+早点, ZAO3 DIAN3, 4
+早日, ZAO3 RI4, 4
+噪音, ZAO4 YIN1, 4
+造反, ZAO4 FAN3, 4
+造价, ZAO4 JIA4, 4
+造型, ZAO4 XING2, 4
+灶, ZAO4, 4
+责怪, ZE2 GUAI4, 4
+责任制, ZE2 REN4 ZHI4, 4
+贼, ZEI2, 4
+怎, ZEN3, 4
+怎么着, ZEN3 ME5 ZHE5, 4
+增, ZENG1, 4
+增设, ZENG1 SHE4, 4
+增添, ZENG1 TIAN1, 4
+增援, ZENG1 YUAN2, 4
+闸, ZHA2, 4
+眨, ZHA3, 4
+炸弹, ZHA4 DAN4, 4
+炸药, ZHA4 YAO4, 4
+诈骗, ZHA4 PIAN4, 4
+榨, ZHA4, 4
+摘要, ZHAI1 YAO4, 4
+寨, ZHAI4, 4
+债务, ZHAI4 WU4, 4
+瞻仰, ZHAN1 YANG3, 4
+沾光, ZHAN1 GUANG1, 4
+斩, ZHAN3, 4
+斩草除根, ZHAN3 CAO3 CHU2 GEN1, 4
+斩钉截铁, ZHAN3 DING1 JIE2 TIE3, 4
+展示, ZHAN3 SHI4, 4
+展望, ZHAN3 WANG4, 4
+展现, ZHAN3 XIAN4, 4
+展销, ZHAN3 XIAO1, 4
+占据, ZHAN4 JU4, 4
+战, ZHAN4, 4
+战役, ZHAN4 YI4, 4
+站岗, ZHAN4 GANG3, 4
+章程, ZHANG1 CHENG2, 4
+掌, ZHANG3, 4
+掌管, ZHANG3 GUAN3, 4
+涨价, ZHANG3 JIA4, 4
+招聘, ZHAO1 PIN4, 4
+招生, ZHAO1 SHENG1, 4
+招收, ZHAO1 SHOU1, 4
+朝气, ZHAO1 QI4, 4
+朝气蓬勃, ZHAO1 QI4 PENG2 BO2, 4
+朝三暮四, ZHAO1 SAN1 MU4 SI4, 4
+沼泽, ZHAO3 ZE2, 4
+兆, ZHAO4, 4
+照会, ZHAO4 HUI4, 4
+照旧, ZHAO4 JIU4, 4
+照料, ZHAO4 LIAO4, 4
+照明, ZHAO4 MING2, 4
+照射, ZHAO4 SHE4, 4
+照应, ZHAO4 YING5, 4
+折腾, ZHE1 TENG5, 4
+这么着, ZHE4 ME5 ZHE5, 4
+真诚, ZHEN1 CHENG2, 4
+真是的, ZHEN1 SHI5 DE5, 4
+真相, ZHEN1 XIANG4, 4
+真心, ZHEN1 XIN1, 4
+侦察, ZHEN1 CHA2, 4
+侦探, ZHEN1 TAN4, 4
+诊断, ZHEN3 DUAN4, 4
+震荡, ZHEN4 DANG4, 4
+震惊, ZHEN4 JING1, 4
+振, ZHEN4, 4
+振奋, ZHEN4 FEN4, 4
+振兴, ZHEN4 XING1, 4
+镇, ZHEN4, 4
+镇定, ZHEN4 DING4, 4
+阵容, ZHEN4 RONG2, 4
+阵线, ZHEN4 XIAN4, 4
+阵营, ZHEN4 YING2, 4
+正月, ZHENG1 YUE4, 4
+蒸, ZHENG1, 4
+征收, ZHENG1 SHOU1, 4
+争吵, ZHENG1 CHAO3, 4
+争端, ZHENG1 DUAN1, 4
+争气, ZHENG1 QI4, 4
+争先恐后, ZHENG1 XIAN1 KONG3 HOU4, 4
+争议, ZHENG1 YI4, 4
+整洁, ZHENG3 JIE2, 4
+整数, ZHENG3 SHU4, 4
+整天, ZHENG3 TIAN1, 4
+整整, ZHENG3 ZHENG3, 4
+正比, ZHENG4 BI3, 4
+正规, ZHENG4 GUI1, 4
+正气, ZHENG4 QI4, 4
+正巧, ZHENG4 QIAO3, 4
+政变, ZHENG4 BIAN4, 4
+政协, ZHENG4 XIE2, 4
+症, ZHENG4, 4
+郑重, ZHENG4 ZHONG4, 4
+证, ZHENG4, 4
+芝麻, ZHI1 MA5, 4
+支部, ZHI1 BU4, 4
+支撑, ZHI1 CHENG1, 4
+支出, ZHI1 CHU1, 4
+支付, ZHI1 FU4, 4
+支票, ZHI1 PIAO4, 4
+支柱, ZHI1 ZHU4, 4
+知觉, ZHI1 JUE2, 4
+蜘蛛, ZHI1 ZHU1, 4
+脂肪, ZHI1 FANG2, 4
+汁, ZHI1, 4
+职称, ZHI2 CHENG1, 4
+职能, ZHI2 NENG2, 4
+职权, ZHI2 QUAN2, 4
+职务, ZHI2 WU4, 4
+直播, ZHI2 BO1, 4
+直辖市, ZHI2 XIA2 SHI4, 4
+直线, ZHI2 XIAN4, 4
+直至, ZHI2 ZHI4, 4
+植, ZHI2, 4
+殖民主义, ZHI2 MIN2 ZHU3 YI4, 4
+执法, ZHI2 FA3, 4
+执勤, ZHI2 QIN2, 4
+执照, ZHI2 ZHAO4, 4
+执政, ZHI2 ZHENG4, 4
+值班, ZHI2 BAN1, 4
+侄子, ZHI2 ZI5, 4
+指定, ZHI3 DING4, 4
+指甲, ZHI3 JIA5, 4
+指令, ZHI3 LING4, 4
+指明, ZHI3 MING2, 4
+指手画脚, ZHI3 SHOU3 HUA4 JIAO3, 4
+指望, ZHI3 WANG5, 4
+指针, ZHI3 ZHEN1, 4
+只顾, ZHI3 GU4, 4
+只管, ZHI3 GUAN3, 4
+只能, ZHI3 NENG2, 4
+纸张, ZHI3 ZHANG1, 4
+志, ZHI4, 4
+志气, ZHI4 QI5, 4
+掷, ZHI4, 4
+至多, ZHI4 DUO1, 4
+致词, ZHI4 CI2, 4
+致电, ZHI4 DIAN4, 4
+致富, ZHI4 FU4, 4
+致敬, ZHI4 JING4, 4
+致使, ZHI4 SHI3, 4
+置, ZHI4, 4
+制裁, ZHI4 CAI2, 4
+制服, ZHI4 FU2, 4
+制品, ZHI4 PIN3, 4
+制约, ZHI4 YUE1, 4
+智力, ZHI4 LI4, 4
+智能, ZHI4 NENG2, 4
+质变, ZHI4 BIAN4, 4
+质朴, ZHI4 PU3, 4
+治安, ZHI4 AN1, 4
+治理, ZHI4 LI3, 4
+中等, ZHONG1 DENG3, 4
+中立, ZHONG1 LI4, 4
+中秋, ZHONG1 QIU1, 4
+中途, ZHONG1 TU2, 4
+中型, ZHONG1 XING2, 4
+中游, ZHONG1 YOU2, 4
+中原, ZHONG1 YUAN2, 4
+忠于, ZHONG1 YU2, 4
+忠贞, ZHONG1 ZHEN1, 4
+钟表, ZHONG1 BIAO3, 4
+钟点, ZHONG1 DIAN3, 4
+终, ZHONG1, 4
+终点, ZHONG1 DIAN3, 4
+终端, ZHONG1 DUAN1, 4
+终究, ZHONG1 JIU1, 4
+终年, ZHONG1 NIAN2, 4
+终止, ZHONG1 ZHI3, 4
+种种, ZHONG3 ZHONG3, 4
+种族, ZHONG3 ZU2, 4
+肿瘤, ZHONG3 LIU2, 4
+种地, ZHONG4 DI4, 4
+重工业, ZHONG4 GONG1 YE4, 4
+重心, ZHONG4 XIN1, 4
+重型, ZHONG4 XING2, 4
+众, ZHONG4, 4
+众多, ZHONG4 DUO1, 4
+众人, ZHONG4 REN2, 4
+众所周知, ZHONG4 SUO3 ZHOU1 ZHI1, 4
+众议院, ZHONG4 YI4 YUAN4, 4
+舟, ZHOU1, 4
+周密, ZHOU1 MI4, 4
+周期, ZHOU1 QI1, 4
+周折, ZHOU1 ZHE2, 4
+周转, ZHOU1 ZHUAN3, 4
+州, ZHOU1, 4
+洲, ZHOU1, 4
+昼夜, ZHOU4 YE4, 4
+珠子, ZHU1 ZI5, 4
+诸如此类, ZHU1 RU2 CI3 LEI4, 4
+诸位, ZHU1 WEI4, 4
+逐年, ZHU2 NIAN2, 4
+拄, ZHU3, 4
+嘱托, ZHU3 TUO1, 4
+主, ZHU3, 4
+主办, ZHU3 BAN4, 4
+主编, ZHU3 BIAN1, 4
+主导, ZHU3 DAO3, 4
+主管, ZHU3 GUAN3, 4
+主流, ZHU3 LIU2, 4
+主人翁, ZHU3 REN2 WENG1, 4
+主食, ZHU3 SHI2, 4
+主题, ZHU3 TI2, 4
+主体, ZHU3 TI3, 4
+主义, ZHU3 YI4, 4
+著, ZHU4, 4
+助理, ZHU4 LI3, 4
+助长, ZHU4 ZHANG3, 4
+铸造, ZHU4 ZAO4, 4
+筑, ZHU4, 4
+住房, ZHU4 FANG2, 4
+住所, ZHU4 SUO3, 4
+注册, ZHU4 CE4, 4
+注解, ZHU4 JIE3, 4
+注目, ZHU4 MU4, 4
+注释, ZHU4 SHI4, 4
+注重, ZHU4 ZHONG4, 4
+祝福, ZHU4 FU2, 4
+驻扎, ZHU4 ZHA1, 4
+爪, ZHUA3, 4
+拽, ZHUAI4, 4
+专长, ZHUAN1 CHANG2, 4
+专程, ZHUAN1 CHENG2, 4
+专科, ZHUAN1 KE1, 4
+专利, ZHUAN1 LI4, 4
+专人, ZHUAN1 REN2, 4
+专题, ZHUAN1 TI2, 4
+专业户, ZHUAN1 YE4 HU4, 4
+专用, ZHUAN1 YONG4, 4
+专制, ZHUAN1 ZHI4, 4
+转换, ZHUAN3 HUAN4, 4
+转交, ZHUAN3 JIAO1, 4
+转让, ZHUAN3 RANG4, 4
+转向, ZHUAN3 XIANG4, 4
+转折, ZHUAN3 ZHE2, 4
+传, ZHUAN4, 4
+传记, ZHUAN4 JI4, 4
+庄, ZHUANG1, 4
+庄重, ZHUANG1 ZHONG4, 4
+装配, ZHUANG1 PEI4, 4
+装卸, ZHUANG1 XIE4, 4
+壮观, ZHUANG4 GUAN1, 4
+壮烈, ZHUANG4 LIE4, 4
+壮志, ZHUANG4 ZHI4, 4
+追查, ZHUI1 CHA2, 4
+追悼, ZHUI1 DAO4, 4
+追赶, ZHUI1 GAN3, 4
+追究, ZHUI1 JIU1, 4
+追问, ZHUI1 WEN4, 4
+准许, ZHUN3 XU3, 4
+准则, ZHUN3 ZE2, 4
+卓越, ZHUO2 YUE4, 4
+啄, ZHUO2, 4
+酌情, ZHUO2 QING2, 4
+着, ZHUO2, 4
+着想, ZHUO2 XIANG3, 4
+咨询, ZI1 XUN2, 4
+资产, ZI1 CHAN3, 4
+资助, ZI1 ZHU4, 4
+滋长, ZI1 ZHANG3, 4
+滋味, ZI1 WEI4, 4
+籽, ZI3, 4
+子弟, ZI3 DI4, 4
+子孙, ZI3 SUN1, 4
+自卑, ZI4 BEI1, 4
+自发, ZI4 FA1, 4
+自负盈亏, ZI4 FU4 YING2 KUI1, 4
+自古, ZI4 GU3, 4
+自力更生, ZI4 LI4 GENG1 SHENG1, 4
+自杀, ZI4 SHA1, 4
+自私自利, ZI4 SI1 ZI4 LI4, 4
+自卫, ZI4 WEI4, 4
+自行, ZI4 XING2, 4
+自由市场, ZI4 YOU2 SHI4 CHANG3, 4
+踪迹, ZONG1 JI4, 4
+宗旨, ZONG1 ZHI3, 4
+棕色, ZONG1 SE4, 4
+总的来说, ZONG3 DE5 LAI2 SHUO1, 4
+总督, ZONG3 DU1, 4
+总额, ZONG3 E2, 4
+总和, ZONG3 HE2, 4
+总计, ZONG3 JI4, 4
+总数, ZONG3 SHU4, 4
+总司令, ZONG3 SI1 LING4, 4
+总务, ZONG3 WU4, 4
+纵横, ZONG4 HENG2, 4
+走访, ZOU3 FANG3, 4
+走狗, ZOU3 GOU3, 4
+走漏, ZOU3 LOU4, 4
+走私, ZOU3 SI1, 4
+走向, ZOU3 XIANG4, 4
+奏, ZOU4, 4
+揍, ZOU4, 4
+租金, ZU1 JIN1, 4
+足以, ZU2 YI3, 4
+族, ZU2, 4
+阻挡, ZU3 DANG3, 4
+阻拦, ZU3 LAN2, 4
+阻挠, ZU3 NAO2, 4
+组合, ZU3 HE2, 4
+钻石, ZUAN4 SHI2, 4
+嘴巴, ZUI3 BA5, 4
+罪犯, ZUI4 FAN4, 4
+罪名, ZUI4 MING2, 4
+罪状, ZUI4 ZHUANG4, 4
+尊, ZUN1, 4
+尊称, ZUN1 CHENG1, 4
+尊严, ZUN1 YAN2, 4
+遵循, ZUN1 XUN2, 4
+遵照, ZUN1 ZHAO4, 4
+琢磨, ZUO2 MO5, 4
+做工, ZUO4 GONG1, 4
+作案, ZUO4 AN4, 4
+作法, ZUO4 FA3, 4
+作废, ZUO4 FEI4, 4
+作主, ZUO4 ZHU3, 4
+座右铭, ZUO4 YOU4 MING2, 4
